@@ -401,10 +401,31 @@
 // Banner five area end here ***
 
 // Page banner area start here ***
-.page-banner {
-	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-		url(../../assets/images/banner/page-banner.jpg);
+
+.service_section{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+	url(../../images/logo/main_img1.png);
 	text-transform: capitalize;
+	text-align: center;
+	h2,
+	a,
+	span {
+		color: var(--white);
+	}
+	h2 {
+		margin-bottom: 20px;
+	}
+}
+}
+
+
+
+
+
+.page-banner {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5))
+		url(../../images/logo/main_img1.png) !important;
+	text-transform: capitalize; 
 	text-align: center;
 	h2,
 	a,

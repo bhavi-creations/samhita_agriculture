@@ -6881,19 +6881,28 @@ input {
   padding: 20px ;
 
 }
-.bio_btn{
+/* .bio_btn{
   background-color: #85e482d2;
   padding: 5px 10px ;
 display: inline-block;
 border-radius: 8px;
 color: rgb(255, 0, 0) !important;
-/* align-items: center !important; */
+
 text-align: center;
 
 
 
-}
+} */
 
 .bio_section{
   /* padding: 10px !important; */
+}
+
+
+
+.bio_section{
+  display: flex;
+  flex-direction: row;
+   
+
 }
