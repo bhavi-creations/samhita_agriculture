@@ -6180,7 +6180,7 @@ input {
 }
 @media screen and (max-width: 1460px) {
   .header-one__logo {
-    padding: 27px 20px;
+    padding: 5px 5px;
   }
   .header-one__info .menu_info {
     padding: 25px 15px;
