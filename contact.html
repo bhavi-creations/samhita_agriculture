@@ -268,11 +268,8 @@
                 <div class="row g-4">
                     <div class="col-lg-6">
                         <div class="content bg-image">
-                            <h2>Have something in mind? <br>
-                                Let's talk.</h2>
-                            <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-                                aliqua.
-                                Ut enim ad minim.</p>
+                            <h2>Contact Our Natural Farming Experts</h2>
+                            <p>Our experts are ready to guide you toward a more sustainable farming future</p>
                             <div class="arry"><img src="assets/images/icon/arry.png" alt=""></div>
                             <ul>
                                 <li><a href="https://www.google.com/maps/d/viewer?mid=1UZ57Drfs3SGrTgh6mrYjQktu6uY&amp;hl=en_US&amp;ll=18.672105000000013%2C105.68673800000003&amp;z=17"
@@ -289,22 +286,22 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="form-area">
-                            <form action="#0">
-                                <input type="text" placeholder="Name">
-                                <input type="email" placeholder="Email">
-                                <select name="subject" id="subject">
-                                    <option value="0">Select Subject</option>
-                                    <option value="0">Account</option>
-                                    <option value="0">Service</option>
-                                    <option value="0">Pricing</option>
-                                    <option value="0">Support</option>
-                                </select>
-                                <textarea name="Your Review" id="massage" placeholder="Message..."></textarea>
+                            <form action="contactform.php" class="row g-lg-4 g-3" method="post" role="form" class="php-email-form">
+                                <input type="text" placeholder="Name" name="name">
+                                <input type="email" placeholder="Email" name="email">
+                                <input type="number" placeholder="Number" name="number">
+                          
+
+                                <textarea name="Your Review" id="massage" placeholder="Message..." name="meassage"> </textarea>
                                 <div class="radio-btn mt-3">
                                     <span></span>
                                     <p>I accept your terms & conditions</p>
                                 </div>
-                                <button class="mt-40">Submit Now <i class="fa-solid fa-arrow-right-long"></i></button>
+                                <!-- <button class="mt-40">Submit Now <i class="fa-solid fa-arrow-right-long"></i></button> -->
+
+                                <div class="col-lg-12">
+                                <button type="submit" class="btn_bg w-100">Submit</button>
+                            </div>
                             </form>
                         </div>
                     </div>
@@ -424,7 +421,7 @@
                                 </li> -->
                                 <li><a href="contact.html"><i class="fa-solid fa-chevron-right pe-1 primary-color"></i>
                                         Contact Us
-                                        
+
                                     </a>
                                 </li>
                             </ul>

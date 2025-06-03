@@ -2970,7 +2970,11 @@ input {
   bottom: 0;
   left: 0;
   padding: 25px 40px;
-  background-color: var(--primary-color);
+  background-color:   #5aa449;
+  /* background-color: var(--primary-color); */
+
+
+
   border: 10px solid var(--white);
   display: inline-block;
 }
@@ -5315,7 +5319,7 @@ input {
 }
 .contact .content {
   color: var(--white);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../../assets/images/contact/01.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/logo/contact.png);
   padding: 40px 30px;
 }
 .contact .content h2 {
@@ -6894,15 +6898,123 @@ text-align: center;
 
 } */
 
-.bio_section{
-  /* padding: 10px !important; */
-}
 
 
 
 .bio_section{
-  display: flex;
-  flex-direction: row;
+display: flex;
+flex-direction: row;
+justify-content: center !important;
+text-align: center !important;
+ 
    
 
 }
+
+
+.biofertilizer_section{
+  padding: 30px 0px;
+}
+
+
+@media (max-width:768px) {
+  .bio_paragraph {
+padding: 20px ;
+  }
+}
+
+
+
+.hover-pop {
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  cursor: pointer;
+}
+
+.hover-pop:hover {
+  transform: scale(1.1); /* Zoom effect */
+  opacity: 0.8;           /* Slightly transparent */
+}
+
+
+
+
+
+
+.page-banner {
+  position: relative;
+  background-image: url('../../assets/images/logo/main_img1.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  z-index: 1;
+}
+
+/* Overlay color */
+
+.page-banner::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5); /* You can change color here */
+  z-index: 1;
+}
+
+/* Ensure content stays above overlay */
+
+
+.page-banner .container {
+  position: relative;
+  z-index: 2;
+}
+
+.footer-bottom {
+  background-color: green;
+  padding: 15px;
+}
+
+
+
+
+.whatsapp-link {
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  bottom: 105px;
+  right: 30px;
+  background-color: #25d366;
+  color: #fff;
+  padding: 5px; 
+  border-radius: 50%;
+  text-decoration: none;
+  font-size: 29px;
+  text-align: center;
+  z-index: 9999;
+ }
+
+
+ @media(min-width:375px){
+  .whatsapp-link{
+    bottom: 140px;
+  }
+ }
+ @media(min-width:768px){
+  .whatsapp-link{
+    bottom: 120px;
+  }
+ }
+
+ @media(min-width:1200px) and (max-width:1400px){
+  .whatsapp-link{
+    bottom: 120px;
+  }
+ }
+
+ @media(min-width:1400px) and (max-width:1600px){
+  .whatsapp-link{
+    bottom: 120px;
+  }
+ }
