@@ -31,6 +31,10 @@ CSS TABLE OF CONTENTS
     4.04 --> footer
 
 ------------------------------------------------------------------*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
 :root {
   --inter: "Inter", sans-serif;
@@ -2004,7 +2008,7 @@ input {
 }
 
 .menu-fixed {
-  position: fixed;
+  /* position: fixed; */
   top: 0;
   left: 0;
   width: 100%;
@@ -5319,7 +5323,7 @@ input {
 }
 .contact .content {
   color: var(--white);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/logo/contact.png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/logo/contact_us.png);
   padding: 40px 30px;
 }
 .contact .content h2 {
@@ -6190,7 +6194,7 @@ input {
     padding: 25px 15px;
   }
   .header-one__info {
-    width: 370px;
+    width: 250px;
   }
   .header-one__info .menu-btn {
     margin-right: 15px;
@@ -6337,7 +6341,8 @@ input {
     clip-path: none;
   }
   .header-one .header-section {
-    background-color: var(--heading-color);
+    /* background-color: var(--heading-color); */
+    background-color: #cef0bb;
   }
   .header-one .header-wrapper .main-menu li a {
     color: var(--black);
@@ -6365,7 +6370,7 @@ input {
     display: none;
   }
   .header-one__item .header-wrapper {
-    padding: 0 30px;
+    padding: 0 1  0px;
     justify-content: space-between !important;
     align-items: center !important;
   }
@@ -7028,3 +7033,172 @@ padding: 20px ;
   text-align: center;
  justify-content: center !important ;
  }
+
+
+
+
+
+ .sub-section{
+  display: flex;
+  flex-direction: row;
+ }
+ .samhitha_agri{
+  color:#907521;
+  font-weight: 900;
+  font-size: 30px;
+  /* padding: 10px; */
+  letter-spacing: 8px ;
+  align-items: center;
+  display: flex;
+  align-items: center;
+  padding-top: 20px !important;
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style:var(--shadow);
+
+ }
+
+
+
+
+
+/* Toggle icon style */
+.header-bar {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.header-bar span {
+  width: 25px;
+  height: 3px;
+  background-color: #333;
+}
+
+/* Mobile menu handling */
+@media (max-width: 1199.98px) {
+  .main-menu {
+      display: none;
+      flex-direction: column;
+      background: #fff;
+      padding: 10px;
+      border-top: 1px solid #ccc;
+  }
+
+  .main-menu.show-mobile {
+      display: flex;
+  }
+
+  .main-menu li {
+      margin-bottom: 10px;
+      position: relative;
+  }
+
+  .main-menu .sub-menu {
+      display: none;
+      padding-left: 15px;
+  }
+
+  .main-menu .sub-menu.active {
+      display: block;
+  }
+}
+
+
+
+/* Desktop: Show submenu on hover */
+@media (min-width: 992px) {
+  .has-submenu {
+      position: relative;
+  }
+
+  .has-submenu .sub-menu {
+      display: none;
+      position: absolute;
+      background: #fff;
+      list-style: none;
+      padding: 10px;
+      top: 100%;
+      left: 0;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      z-index: 99;
+  }
+
+  .has-submenu:hover .sub-menu {
+      display: block;
+  }
+}
+
+
+
+@media (max-width: 991.98px) {
+  .main-menu .sub-menu {
+      display: none;
+      padding-left: 15px;
+  }
+
+  .main-menu .sub-menu.active {
+      display: block;
+  }
+}
+
+
+
+
+
+
+/* index page  */
+
+
+.custom-tab {
+  cursor: pointer;
+  background: #f8f9fa;
+  padding: 15px;
+  border: 2px solid #28a745;
+  border-radius: 5px;
+  text-align: center;
+  transition: all 0.3s;
+}
+
+.custom-tab:hover, .custom-tab.active {
+  background: #28a745;
+  color: white;
+}
+
+.custom-tab-content {
+  display: none;
+  margin-top: 30px;
+  background: #f9f9f9;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+.custom-tab-content.active {
+  display: block;
+}
+
+/* h2, h3 {
+  color: #333;
+} */
+
+.contact_text {
+  color: #28a745;
+}
+
+.text-capitalize {
+  text-transform: capitalize;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.natural_agri_section{
+  padding-top: 10px !important;
+}
+
+.natural_agri_image{
+  display: flex;
+  justify-content: center;
+}
