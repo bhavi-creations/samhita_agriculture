@@ -35,14 +35,14 @@
     <section class="banner" data-background="assets/images/bg/banner1.jpg">
         <div class="banner__shape d-none d-xxl-block wow bounceInRight" data-wow-duration=".6s"
             data-wow-delay=".8s">
-            <img src="assets/images/banner/01.png" alt="shape">
+            <img src="assets/images/logo/second_main_images.png" alt="shape">
         </div>
         <!-- <div id="scrollDown" class="banner__scroll-text"><span>SCROLL NOW</span> <span
                     class="banner__scroll-text-line"></span>
             </div> -->
-        <div class="banner__leaf wow slideInLeft d-none d-md-block" data-wow-duration="1s" data-wow-delay="1s">
+        <!-- <div class="banner__leaf wow slideInLeft d-none d-md-block" data-wow-duration="1s" data-wow-delay="1s">
             <img src=" assets/images/shape/leaf.png" alt="shape">
-        </div>
+        </div> -->
         <div class="container">
             <div class="row">
                 <div class="col-xl-4">
@@ -296,7 +296,7 @@
                     data-wow-delay=".2s">
                     <div class="work__item">
                         <div class="work__item-icon">
-                            <img src="assets/images/icon/work1.svg" alt="icon">
+                            <!-- <img src="assets/images/icon/work1.svg" alt="icon"> -->
                             <span>01</span>
                         </div>
                         <h3><a href="service.php">Organic Farming</a></h3>
@@ -312,7 +312,7 @@
                     data-wow-delay=".4s">
                     <div class="work__item">
                         <div class="work__item-icon">
-                            <img src="assets/images/icon/work2.svg" alt="icon">
+                            <!-- <img src="assets/images/icon/work2.svg" alt="icon"> -->
                             <span>02</span>
                         </div>
                         <h3><a href="service.php">Biodynamic Agriculture</a></h3>
@@ -328,7 +328,7 @@
                     data-wow-delay=".6s">
                     <div class="work__item">
                         <div class="work__item-icon">
-                            <img src="assets/images/icon/work3.svg" alt="icon">
+                            <!-- <img src="assets/images/icon/work3.svg" alt="icon"> -->
                             <span>03</span>
                         </div>
                         <h3><a href="service.php">Permaculture Farming</a></h3>
@@ -344,7 +344,7 @@
                     data-wow-delay=".8s">
                     <div class="work__item">
                         <div class="work__item-icon">
-                            <img src="assets/images/icon/work4.svg" alt="icon">
+                            <!-- <img src="assets/images/icon/work4.svg" alt="icon"> -->
                             <span>04</span>
                         </div>
                         <h3><a href="service.php">Agroecology </a></h3>

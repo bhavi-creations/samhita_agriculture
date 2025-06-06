@@ -7208,12 +7208,50 @@ img {
   justify-content: center !important;
 }
 
+.solution_section{
+  color: #456357;
+}
+
+.soli_section{
+  color: #1c4736;
+}
+
+.image_animated{
+  position: absolute;
+  z-index: 2;
+  right: 20px;
+  bottom: 10px;
+
+
+}
+
+.whatsapp-link {
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  bottom: 90px;
+  right: 30px;
+  background-color: #25d366;
+  color: #fff;
+  padding: 5px; 
+  border-radius: 50%;
+  text-decoration: none;
+  font-size: 29px;
+  text-align: center;
+  display: flex;
+  z-index: 9999;
+  flex-direction: column;
+  justify-content: center;
+ }
 
 
 
-
-
-
+/* .about-two__shape-right {
+  position: absolute;
+  right: 40px;
+  bottom: 130px;
+  z-index: -1;
+} */
 
 
 

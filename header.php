@@ -63,8 +63,12 @@
                     <div class="header-wrapper flex-column text-center">
 
                         <!-- Samhitha Title (always centered) -->
-                        <div class="samhitha-title py-2">
-                            <strong class="samhitha_agri">Samhita Soil&nbsp;<span class="primary-color"> Solution</span>    </strong>
+                        <div class="samhitha-title py-2 d-md-none">
+                            <strong class="samhitha_agri">SAMHITA Soil Solution    </strong>
+                        </div>
+
+                        <div class="samhitha-title py-2 d-none d-md-block">
+                            <strong class="samhitha_agri">SAMHITA &nbsp;  <span class="soli_section">Soil</span> &nbsp;<span class="solution_section"> Solution</span>    </strong>
                         </div>
 
                         <!-- Mobile: Logo Left + Toggle Right -->

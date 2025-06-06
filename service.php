@@ -16,17 +16,25 @@
 
     <!-- Work area start here -->
     <section class="work work-five  pb-130">
+
+
+
+    
         <div class="container">
+            
 
             <h2 class="text-center py-5">Biopesticides</h2>
             <div class="row g-4">
+
+
+             
                 <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6 wow fadeInDown" data-wow-duration="1.2s"
                     data-wow-delay=".2s">
                     <div class="work-five__item">
                         <div class="work__item-icon mb-30">
-                            <div class="work-five__icon">
+                            <!-- <div class="work-five__icon">
                                 <i class="fa-light fa-lightbulb-on"></i>
-                            </div>
+                            </div> -->
                             <span>01</span>
                         </div>
                         <h3><a href="biopesticides.php">Pseudomonas fluorescens</a></h3>
@@ -40,9 +48,9 @@
                     data-wow-delay=".4s">
                     <div class="work-five__item">
                         <div class="work__item-icon mb-30">
-                            <div class="work-five__icon">
+                            <!-- <div class="work-five__icon">
                                 <i class="fa-light fa-seedling"></i>
-                            </div>
+                            </div> -->
                             <span>02</span>
                         </div>
                         <h3><a href="biopesticides.php">Pseudomonas fluorescens</a></h3>
@@ -56,9 +64,9 @@
                     data-wow-delay=".6s">
                     <div class="work-five__item">
                         <div class="work__item-icon mb-30">
-                            <div class="work-five__icon">
+                            <!-- <div class="work-five__icon">
                                 <i class="fa-light fa-recycle"></i>
-                            </div>
+                            </div> -->
                             <span>03</span>
                         </div>
                         <h3><a href="biopesticides.php">Bacillus subtilis</a></h3>
@@ -80,9 +88,9 @@
                     data-wow-delay=".8s">
                     <div class="work-five__item">
                         <div class="work__item-icon mb-30">
-                            <div class="work-five__icon">
+                            <!-- <div class="work-five__icon">
                                 <i class="fa-light fa-raindrops"></i>
-                            </div>
+                            </div> -->
                             <span>04</span>
                         </div>
                         <h3><a href="biopesticides.php">Trichoderma viride</a></h3>
@@ -96,9 +104,9 @@
                     data-wow-delay=".2s">
                     <div class="work-five__item">
                         <div class="work__item-icon mb-30">
-                            <div class="work-five__icon">
+                            <!-- <div class="work-five__icon">
                                 <i class="fa-light fa-person-hiking"></i>
-                            </div>
+                            </div> -->
                             <span>05</span>
                         </div>
                         <h3><a href="biopesticides.php">Trichoderma harzianum</a></h3>
@@ -170,9 +178,9 @@
                     data-wow-delay=".2s">
                     <div class="work-five__item">
                         <div class="work__item-icon mb-30">
-                            <div class="work-five__icon">
+                            <!-- <div class="work-five__icon">
                                 <i class="fa-light fa-lightbulb-on"></i>
-                            </div>
+                            </div> -->
                             <span>01</span>
                         </div>
                         <h3><a href="biofertilizers.php">Nitrogen Biofertilizer</a></h3>
@@ -187,9 +195,9 @@
                     data-wow-delay=".4s">
                     <div class="work-five__item">
                         <div class="work__item-icon mb-30">
-                            <div class="work-five__icon">
+                            <!-- <div class="work-five__icon">
                                 <i class="fa-light fa-seedling"></i>
-                            </div>
+                            </div> -->
                             <span>02</span>
                         </div>
                         <h3><a href="biofertilizers.php">Phosphorus & Zinc Biofertilizer</a></h3>
@@ -204,9 +212,9 @@
                     data-wow-delay=".6s">
                     <div class="work-five__item">
                         <div class="work__item-icon mb-30">
-                            <div class="work-five__icon">
+                            <!-- <div class="work-five__icon">
                                 <i class="fa-light fa-recycle"></i>
-                            </div>
+                            </div> -->
                             <span>03</span>
                         </div>
                         <h3><a href="biofertilizers.php">Potassium Biofertilizer</a></h3>
