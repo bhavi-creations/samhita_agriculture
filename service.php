@@ -7,8 +7,8 @@
         <div class="container">
             <h2 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s">Services</h2>
             <div class="breadcrumb-list wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">
-                <a href="index.html">Home :</a>
-                <span class="primary-color">Services 01</span>
+                <a href="index.php">Home :</a>
+                <span class="primary-color">Services</span>
             </div>
         </div>
     </section>
@@ -29,10 +29,10 @@
                             </div>
                             <span>01</span>
                         </div>
-                        <h3><a href="biopesticides.html">Pseudomonas fluorescens</a></h3>
+                        <h3><a href="biopesticides.php">Pseudomonas fluorescens</a></h3>
                         <p>Pseudomonas fluorescens 1% WP is a bio-control agent that protects crops by suppressing
                             soil-borne diseases and promoting plant growth.</p>
-                        <a class="work__item-arrow" href="biopesticides.html"><i
+                        <a class="work__item-arrow" href="biopesticides.php"><i
                                 class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -45,10 +45,10 @@
                             </div>
                             <span>02</span>
                         </div>
-                        <h3><a href="biopesticides.html">Pseudomonas fluorescens</a></h3>
+                        <h3><a href="biopesticides.php">Pseudomonas fluorescens</a></h3>
                         <p>Pseudomonas fluorescens 1.5% LF is a liquid bio-formulation that enhances plant immunity
                             and controls fungal and bacterial diseases in crops naturally</p>
-                        <a class="work__item-arrow" href="biopesticides.html"><i
+                        <a class="work__item-arrow" href="biopesticides.php"><i
                                 class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                             </div>
                             <span>03</span>
                         </div>
-                        <h3><a href="biopesticides.html">Bacillus subtilis</a></h3>
+                        <h3><a href="biopesticides.php">Bacillus subtilis</a></h3>
                         <p>Bacillus subtilis 1.5% LF is a liquid bio-fungicide that prevents fungal infections in
                             crops by colonizing the root zone and boosting plant defense mechanisms.
 
@@ -72,7 +72,7 @@
 
 
                             .</p>
-                        <a class="work__item-arrow" href="biopesticides.html"><i
+                        <a class="work__item-arrow" href="biopesticides.php"><i
                                 class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -85,10 +85,10 @@
                             </div>
                             <span>04</span>
                         </div>
-                        <h3><a href="biopesticides.html">Trichoderma viride</a></h3>
+                        <h3><a href="biopesticides.php">Trichoderma viride</a></h3>
                         <p>Trichoderma viride 1.5% L.F is a liquid bio-fungicide that controls soil-borne plant
                             diseases and promotes healthy root growth through natural antagonistic action</p>
-                        <a class="work__item-arrow" href="biopesticides.html"><i
+                        <a class="work__item-arrow" href="biopesticides.php"><i
                                 class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -101,11 +101,11 @@
                             </div>
                             <span>05</span>
                         </div>
-                        <h3><a href="biopesticides.html">Trichoderma harzianum</a></h3>
+                        <h3><a href="biopesticides.php">Trichoderma harzianum</a></h3>
                         <p>Trichoderma harzianum 2.0% A.S is a biological fungicide that protects crops by
                             suppressing harmful soil-borne pathogens and enhancing root development for better plant
                             growth</p>
-                        <a class="work__item-arrow" href="biopesticides.html"><i
+                        <a class="work__item-arrow" href="biopesticides.php"><i
                                 class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -118,10 +118,10 @@
                                 </div>
                                 <span>06</span>
                             </div>
-                            <h3><a href="service-single.html">Individuals Plant</a></h3>
+                            <h3><a href="service-single.php">Individuals Plant</a></h3>
                             <p>We maintain a busy network of forestry and social development staff along with local
                                 facilitators in the areas we work.</p>
-                            <a class="work__item-arrow" href="service-single.html"><i
+                            <a class="work__item-arrow" href="service-single.php"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -134,10 +134,10 @@
                                 </div>
                                 <span>07</span>
                             </div>
-                            <h3><a href="service-single.html">Animal Rescue</a></h3>
+                            <h3><a href="service-single.php">Animal Rescue</a></h3>
                             <p>We maintain a busy network of forestry and social development staff along with local
                                 facilitators in the areas we work.</p>
-                            <a class="work__item-arrow" href="service-single.html"><i
+                            <a class="work__item-arrow" href="service-single.php"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -150,10 +150,10 @@
                                 </div>
                                 <span>08</span>
                             </div>
-                            <h3><a href="service-single.html">Education plan</a></h3>
+                            <h3><a href="service-single.php">Education plan</a></h3>
                             <p>We maintain a busy network of forestry and social development staff along with local
                                 facilitators in the areas we work.</p>
-                            <a class="work__item-arrow" href="service-single.html"><i
+                            <a class="work__item-arrow" href="service-single.php"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div> -->
@@ -175,11 +175,11 @@
                             </div>
                             <span>01</span>
                         </div>
-                        <h3><a href="biofertilizers.html">Nitrogen Biofertilizer</a></h3>
+                        <h3><a href="biofertilizers.php">Nitrogen Biofertilizer</a></h3>
                         <p>Nitrogen Biofertilizer (Azotobacter tropicalis) is a beneficial microbe that fixes
                             atmospheric nitrogen in the soil, improving soil fertility and promoting healthy plant
                             growth naturally.</p>
-                        <a class="work__item-arrow" href="biofertilizers.html"><i
+                        <a class="work__item-arrow" href="biofertilizers.php"><i
                                 class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -192,11 +192,11 @@
                             </div>
                             <span>02</span>
                         </div>
-                        <h3><a href="biofertilizers.html">Phosphorus & Zinc Biofertilizer</a></h3>
+                        <h3><a href="biofertilizers.php">Phosphorus & Zinc Biofertilizer</a></h3>
                         <p>Phosphorus & Zinc Biofertilizer (Bacillus aryabhattai) enhances plant nutrition by
                             solubilizing unavailable phosphorus and mobilizing zinc in the soil, promoting stronger
                             root and shoot development</p>
-                        <a class="work__item-arrow" href="biofertilizers.html"><i
+                        <a class="work__item-arrow" href="biofertilizers.php"><i
                                 class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -209,11 +209,11 @@
                             </div>
                             <span>03</span>
                         </div>
-                        <h3><a href="biofertilizers.html">Potassium Biofertilizer</a></h3>
+                        <h3><a href="biofertilizers.php">Potassium Biofertilizer</a></h3>
                         <p>Potassium Biofertilizer (Pseudomonas taiwanensis) helps release bound potassium in the
                             soil, boosting plant strength, disease resistance, and improving overall crop quality
                             and yield</p>
-                        <a class="work__item-arrow" href="biofertilizers.html"><i
+                        <a class="work__item-arrow" href="biofertilizers.php"><i
                                 class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -361,7 +361,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-3 wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">
-                        <a href="index.html" class="our-info__logo mb-4 mb-lg-0">
+                        <a href="index.php" class="our-info__logo mb-4 mb-lg-0">
                             <img src="assets/images/logo/logo-light.svg" alt="logo">
                         </a>
                     </div>

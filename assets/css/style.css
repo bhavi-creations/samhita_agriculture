@@ -2818,6 +2818,7 @@ input {
 
 .page-banner {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../../assets/images/banner/page-banner.jpg);
+  /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/logo/main_image_11.png); */
   text-transform: capitalize;
   text-align: center;
 }
@@ -6947,7 +6948,8 @@ padding: 20px ;
 
 .page-banner {
   position: relative;
-  background-image: url('../../assets/images/logo/main_img1.png');
+  background-image: url('../../assets/images/logo/fffff.png');
+  /* background-image: url('../../assets/images/logo/main_img11.png'); */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -7177,9 +7179,7 @@ padding: 20px ;
   display: block;
 }
 
-/* h2, h3 {
-  color: #333;
-} */
+
 
 .contact_text {
   color: #28a745;
@@ -7202,3 +7202,98 @@ img {
   display: flex;
   justify-content: center;
 }
+
+.service_details{
+  display: flex;
+  justify-content: center !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

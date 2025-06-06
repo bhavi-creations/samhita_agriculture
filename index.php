@@ -61,8 +61,8 @@
                             farming for healthy soil, food, and <span class="primary-color">future</span></h1>
                         <div class="row g-4 align-items-center">
                             <div class="col-md-4">
-                                <a href="about.html" class="btn-one wow fadeInUp" data-wow-duration="1.5s"
-                                    data-wow-delay=".5s"><span>Discover with us</span> <i
+                                <a href="contact.php" class="btn-one wow fadeInUp" data-wow-duration="1.5s"
+                                    data-wow-delay=".5s"><span>Contact us</span> <i
                                         class="fa-solid fa-angles-right"></i></a>
                             </div>
                             <div class="col-md-8">
@@ -162,63 +162,61 @@
 
 
 
-    <section class="py-5">
-        <div class="container">
-            <h2 class="text-center text-capitalize mb-5 contact_text">Comparing Chemical and Organic Farming</h2>
+    <section class="py-5 banner" data-background="assets/images/bg/banner1.jpg">
+        <div class="container" data-aos="fade-up">
+            <h2 class="text-center text-capitalize mb-5 contact_text" data-aos="fade-down">
+                Comparing Chemical and Organic Farming
+            </h2>
 
             <!-- Tabs -->
-            <div class="row text-center justify-content-center mb-4">
+            <div class="row text-center justify-content-center mb-4" data-aos="fade-up">
                 <div class="col-md-3 custom-tab active m-2" data-target="#chemical-tab">Chemical Agriculture</div>
                 <div class="col-md-3 custom-tab m-2" data-target="#natural-tab">Natural Agriculture</div>
             </div>
 
             <!-- Tab Contents -->
-            <div id="chemical-tab" class="custom-tab-content active">
+            <div id="chemical-tab" class="custom-tab-content active" data-aos="fade-right">
                 <h3 class="text-center text-capitalize contact_text mb-4">Chemical Agriculture</h3>
                 <div class="row align-items-center">
-                    <div class="col-md-6 natural_agri_image">
+                    <div class="col-md-6 natural_agri_image" data-aos="fade-right">
                         <img src="assets/images/logo/chemical_agri.png" alt="Chemical Agriculture">
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6" data-aos="fade-left">
                         <p class="natural_agri_section">
-                            The widespread reliance on chemical fertilizers, pesticides, and herbicides in conventional agriculture may increase short-term yields but comes with serious long-term consequences. These effects are far-reaching, impacting human health, environmental sustainability, and the overall ecological balanc </p>
+                            The widespread reliance on chemical fertilizers, pesticides, and herbicides in conventional agriculture may increase short-term yields but comes with serious long-term consequences. These effects are far-reaching, impacting human health, environmental sustainability, and the overall ecological balance.
+                        </p>
                         <h4 class="natural_agri_section">Effect of using chemical in Agricultural</h4>
-                        <p> <i class="fa fa-check-circle"></i> &nbsp; Soil Degradation</p>
-                        <p> <i class="fa fa-check-circle"></i> &nbsp; Water Pollution</p>
-                        <p> <i class="fa fa-check-circle"></i> &nbsp; Health Risks</p>
-                        <p> <i class="fa fa-check-circle"></i> &nbsp; Loss of Biodiversity </p>
-                        <p> <i class="fa fa-check-circle"></i> &nbsp; Air Pollution</p>
-
-
-
-
+                        <p><i class="fa fa-check-circle"></i> &nbsp; Soil Degradation</p>
+                        <p><i class="fa fa-check-circle"></i> &nbsp; Water Pollution</p>
+                        <p><i class="fa fa-check-circle"></i> &nbsp; Health Risks</p>
+                        <p><i class="fa fa-check-circle"></i> &nbsp; Loss of Biodiversity</p>
+                        <p><i class="fa fa-check-circle"></i> &nbsp; Air Pollution</p>
                     </div>
                 </div>
             </div>
 
-            <div id="natural-tab" class="custom-tab-content">
+            <div id="natural-tab" class="custom-tab-content" data-aos="fade-left">
                 <h3 class="text-center text-capitalize contact_text mb-4">Natural Agriculture</h3>
                 <div class="row align-items-center">
-                    <div class="col-md-6 natural_agri_image">
+                    <div class="col-md-6 natural_agri_image" data-aos="fade-right">
                         <img src="assets/images/logo/natural_agri.png" alt="Natural Agriculture" class="img-fluid">
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6" data-aos="fade-left">
                         <p class="natural_agri_section">
-                            Natural agriculture is a sustainable farming practice that relies on minimal human intervention and avoids the use of chemical fertilizers, synthetic pesticides, or genetically modified organisms (GMOs). It emphasizes harmony with nature, improving soil health, and using traditional, organic methods for crop cultivation
+                            Natural agriculture is a sustainable farming practice that relies on minimal human intervention and avoids the use of chemical fertilizers, synthetic pesticides, or genetically modified organisms (GMOs). It emphasizes harmony with nature, improving soil health, and using traditional, organic methods for crop cultivation.
                         </p>
-                        <h4 class="natural_agri_section"> Use of natural Agriculture</h4>
-                        <p> <i class="fa fa-check-circle"></i> &nbsp;  Enhances Soil Fertility</p>
-                        <p> <i class="fa fa-check-circle"></i> &nbsp;  Protects Human Health</p>
-                        <p> <i class="fa fa-check-circle"></i> &nbsp; Supports Biodiversity</p>
-                        <p> <i class="fa fa-check-circle"></i> &nbsp; Reduces Water Usage</p>
-                        <p> <i class="fa fa-check-circle"></i> &nbsp; Eco-Friendly & Low Carbon Footprint</p>
-                        <!-- <p> <i class="fa fa-check-circle"></i> &nbsp; </p> -->
+                        <h4 class="natural_agri_section">Uses of natural Agriculture</h4>
+                        <p><i class="fa fa-check-circle"></i> &nbsp; Enhances Soil Fertility</p>
+                        <p><i class="fa fa-check-circle"></i> &nbsp; Protects Human Health</p>
+                        <p><i class="fa fa-check-circle"></i> &nbsp; Supports Biodiversity</p>
+                        <p><i class="fa fa-check-circle"></i> &nbsp; Reduces Water Usage</p>
+                        <p><i class="fa fa-check-circle"></i> &nbsp; Eco-Friendly & Low Carbon Footprint</p>
                     </div>
                 </div>
             </div>
-
         </div>
     </section>
+
 
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -236,7 +234,13 @@
 
 
 
+<script>
+        AOS.init();
+    </script>
 
+
+
+   
 
 
 
@@ -295,10 +299,10 @@
                             <img src="assets/images/icon/work1.svg" alt="icon">
                             <span>01</span>
                         </div>
-                        <h3><a href="service.html">Organic Farming</a></h3>
+                        <h3><a href="service.php">Organic Farming</a></h3>
                         <p>Focuses on using natural compost, vermicompost, green manure, and bio-pesticides instead
                             of chemicals</p>
-                        <a class="work__item-arrow" href="service.html"><i class="fa-solid fa-arrow-right"></i></a>
+                        <a class="work__item-arrow" href="service.php"><i class="fa-solid fa-arrow-right"></i></a>
                         <div class="work__item-leaf">
                             <img src="assets/images/shape/work-leaf.png" alt="">
                         </div>
@@ -311,10 +315,10 @@
                             <img src="assets/images/icon/work2.svg" alt="icon">
                             <span>02</span>
                         </div>
-                        <h3><a href="service.html">Biodynamic Agriculture</a></h3>
+                        <h3><a href="service.php">Biodynamic Agriculture</a></h3>
                         <p>A spiritual-ecological method developed by Rudolf Steiner. It involves using biodynamic
                             preparations</p>
-                        <a class="work__item-arrow" href="service.html"><i class="fa-solid fa-arrow-right"></i></a>
+                        <a class="work__item-arrow" href="service.php"><i class="fa-solid fa-arrow-right"></i></a>
                         <div class="work__item-leaf">
                             <img src="assets/images/shape/work-leaf.png" alt="">
                         </div>
@@ -327,10 +331,10 @@
                             <img src="assets/images/icon/work3.svg" alt="icon">
                             <span>03</span>
                         </div>
-                        <h3><a href="service.html">Permaculture Farming</a></h3>
+                        <h3><a href="service.php">Permaculture Farming</a></h3>
                         <p>Designs agricultural systems that mimic natural ecosystems. It emphasizes diversity,
                             self-sufficiency, and minimal waste.</p>
-                        <a class="work__item-arrow" href="service.html"><i class="fa-solid fa-arrow-right"></i></a>
+                        <a class="work__item-arrow" href="service.php"><i class="fa-solid fa-arrow-right"></i></a>
                         <div class="work__item-leaf">
                             <img src="assets/images/shape/work-leaf.png" alt="">
                         </div>
@@ -343,10 +347,10 @@
                             <img src="assets/images/icon/work4.svg" alt="icon">
                             <span>04</span>
                         </div>
-                        <h3><a href="service.html">Agroecology </a></h3>
+                        <h3><a href="service.php">Agroecology </a></h3>
                         <p>Combines scientific knowledge with traditional practices to build resilient,
                             environmentally sound farms.</p>
-                        <a class="work__item-arrow" href="service.html"><i class="fa-solid fa-arrow-right"></i></a>
+                        <a class="work__item-arrow" href="service.php"><i class="fa-solid fa-arrow-right"></i></a>
                         <div class="work__item-leaf">
                             <img src="assets/images/shape/work-leaf.png" alt="">
                         </div>
@@ -484,10 +488,10 @@
                         </div>
 
 
-                        <!-- <a href="biopesticides.html" class="btn-one wow fadeInUp" data-wow-duration="1.5s"
+                        <!-- <a href="biopesticides.php" class="btn-one wow fadeInUp" data-wow-duration="1.5s"
                                 data-wow-delay=".5s"><span>More Details</span> <i
                                     class="fa-solid fa-angles-right"></i></a> -->
-                        <!-- <a href="biopesticides.html" class=" bio_btn wow fadeInUp" data-wow-duration="1.6s"
+                        <!-- <a href="biopesticides.php" class=" bio_btn wow fadeInUp" data-wow-duration="1.6s"
                                 data-wow-delay=".6s"><span>More Details</span></a> -->
                     </div>
                 </div>
@@ -577,19 +581,23 @@
                         </div>
 
 
-                        <!-- <a href="biopesticides.html" class="btn-one wow fadeInUp" data-wow-duration="1.5s"
+                        <!-- <a href="biopesticides.php" class="btn-one wow fadeInUp" data-wow-duration="1.5s"
                                 data-wow-delay=".5s"><span>More Details</span> <i
                                     class="fa-solid fa-angles-right"></i></a> -->
 
-                        <!-- <a href="biopesticides.html" class=" bio_btn wow fadeInUp" data-wow-duration="1.6s"
+                        <!-- <a href="biopesticides.php" class=" bio_btn wow fadeInUp" data-wow-duration="1.6s"
                                 data-wow-delay=".6s"><span>More Details</span></a> -->
 
                     </div>
                 </div>
 
             </div>
-            <a href="service.html" class="btn-one wow fadeInUp button_service" data-wow-duration="1.5s"
-                data-wow-delay=".5s"><span>More Details</span> <i class="fa-solid fa-angles-right"></i></a>
+
+
+            <div class="service_details align-items-center">
+                <a href="service.php" class="btn-one wow fadeInUp button_service" data-wow-duration="1.5s"
+                    data-wow-delay=".5s"><span>More Details</span> <i class="fa-solid fa-angles-right"></i></a>
+            </div>
             <!-- <div class="row g-4">
                     <div class="col-xl-6">
                         <div class="service__left-item">
@@ -924,9 +932,9 @@
                                         </div>
                                         <div class="donation__item-progress-bar"></div>
                                     </div>
-                                    <h3><a href="donation-single.html">The Mary Donate For Youth Health & plants</a>
+                                    <h3><a href="donation-single.php">The Mary Donate For Youth Health & plants</a>
                                     </h3>
-                                    <a class="donation__item-arrow" href="donation-single.html"><i
+                                    <a class="donation__item-arrow" href="donation-single.php"><i
                                             class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
@@ -942,9 +950,9 @@
                                         </div>
                                         <div class="donation__item-progress-bar"></div>
                                     </div>
-                                    <h3><a href="donation-single.html">Need Help Donate For Pet <br> Doctor & nurse</a>
+                                    <h3><a href="donation-single.php">Need Help Donate For Pet <br> Doctor & nurse</a>
                                     </h3>
-                                    <a class="donation__item-arrow" href="donation-single.html"><i
+                                    <a class="donation__item-arrow" href="donation-single.php"><i
                                             class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
@@ -960,9 +968,9 @@
                                         </div>
                                         <div class="donation__item-progress-bar"></div>
                                     </div>
-                                    <h3><a href="donation-single.html">The Mary Donate For Youth Health & plants</a>
+                                    <h3><a href="donation-single.php">The Mary Donate For Youth Health & plants</a>
                                     </h3>
-                                    <a class="donation__item-arrow" href="donation-single.html"><i
+                                    <a class="donation__item-arrow" href="donation-single.php"><i
                                             class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
@@ -991,7 +999,7 @@
                         <h2 class="text-white wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">We Have
                             The Power Today To <br> Change Tomorrow</h2>
                     </div>
-                    <a href="contact.html" class="btn-one-light wow fadeInUp" data-wow-duration="1.6s"
+                    <a href="contact.php" class="btn-one-light wow fadeInUp" data-wow-duration="1.6s"
                         data-wow-delay=".6s"><span>Contact Us</span> <i class="fa-solid fa-angles-right"></i></a>
                 </div>
             </div>
@@ -1086,7 +1094,8 @@
     <!-- Testimonial area end here -->
 
     <!-- Team area start here -->
-    <section class="team pt-130">
+    <section class="team pt-130" id="team_memeber">
+
         <div class="team__shape fall__animation">
             <img src="assets/images/shape/team.png" alt="shape">
         </div>
@@ -1111,7 +1120,7 @@
                                         <a href="#0"><i class="fa-brands fa-youtube"></i></a>
                                     </div> -->
                             </div>
-                            <h3><a href="team-single.html"> A. Hutchison</a></h3>
+                            <h3><a href="#team_memeber"> A. Hutchison</a></h3>
                             <span>Founder</span>
                         </div>
                     </div>
@@ -1127,7 +1136,7 @@
                                         <a href="#0"><i class="fa-brands fa-youtube"></i></a>
                                     </div> -->
                             </div>
-                            <h3><a href="team-single.html">Bonnie J. Britt</a></h3>
+                            <h3><a href="#team_memeber">Bonnie J. Britt</a></h3>
                             <span>Forest Officer</span>
                         </div>
                     </div>
@@ -1143,7 +1152,7 @@
                                         <a href="#0"><i class="fa-brands fa-youtube"></i></a>
                                     </div> -->
                             </div>
-                            <h3><a href="team-single.html">Francis A. Cote</a></h3>
+                            <h3><a href="#team_memeber">Francis A. Cote</a></h3>
                             <span>Garden Maker</span>
                         </div>
                     </div>
@@ -1159,7 +1168,7 @@
                                         <a href="#0"><i class="fa-brands fa-youtube"></i></a>
                                     </div> -->
                             </div>
-                            <h3><a href="team-single.html">L. Lawhorn</a></h3>
+                            <h3><a href="#team_memeber">L. Lawhorn</a></h3>
                             <span>Co - Founder</span>
                         </div>
                     </div>
@@ -1182,8 +1191,8 @@
                     <h2 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">get news from Agriculture
                     </h2>
                 </div>
-                <a href="blog-3.html" class="btn-one mt-4 mt-md-0 wow fadeInUp" data-wow-duration="1.6s"
-                    data-wow-delay=".6s"><span>view all news</span> <i class="fa-solid fa-angles-right"></i></a>
+                <!-- <a href="blog-3.PHP" class="btn-one mt-4 mt-md-0 wow fadeInUp" data-wow-duration="1.6s"
+                    data-wow-delay=".6s"><span>view all news</span> <i class="fa-solid fa-angles-right"></i></a> -->
             </div>
             <div class="row g-4 justify-content-center">
                 <div class="col-xl-8 wow fadeInLeft" data-wow-duration="1.2s" data-wow-delay=".2s">
@@ -1195,7 +1204,7 @@
                                         <div class="col-md-5">
                                             <div class="blog__item-left-content">
                                                 <span class="blog__tag">Environment</span>
-                                                <h3><a href="blog-single.html">IIVR’s Natural Farming Outreach in
+                                                <h3><a href="blog-single.php">IIVR’s Natural Farming Outreach in
                                                         UP</a></h3>
                                                 <p>Over 2,000 farmers across 6 districts trained in eco-friendly
                                                     practices.
@@ -1220,7 +1229,7 @@
                                         <div class="col-md-5">
                                             <div class="blog__item-left-content">
                                                 <span class="blog__tag">Environment</span>
-                                                <h3><a href="blog-single.html">Gadkari Promotes Biochar and
+                                                <h3><a href="blog-single.php">Gadkari Promotes Biochar and
                                                         Mechanization</a></h3>
                                                 <p>Union Minister urges use of biochar and solar tractors to cut
                                                     costs.
@@ -1243,7 +1252,7 @@
                                         <div class="col-md-5">
                                             <div class="blog__item-left-content">
                                                 <span class="blog__tag">Environment</span>
-                                                <h3><a href="blog-single.html">UP's Push for Large-Scale Natural
+                                                <h3><a href="blog-single.php">UP's Push for Large-Scale Natural
                                                         Farming</a></h3>
                                                 <p>Targeting 50 lakh farmers under the Viksit Krishi Sankalp
                                                     Abhiyan.
@@ -1270,10 +1279,10 @@
                 </div>
                 <div class="col-xl-4 col-lg-6 wow fadeInRight" data-wow-duration="1.4s" data-wow-delay=".4s">
                     <div class="blog__item-right">
-                        <a href="blog-single.html" class="image d-block">
+                        <a href="blog-single.php" class="image d-block">
                             <img src="assets/images/logo/latest_img.png" alt="image">
                         </a>
-                        <h3><a href="blog-single.html">Natural agriculture promotes healthy soil, chemical-free
+                        <h3><a href="blog-single.php">Natural agriculture promotes healthy soil, chemical-free
                                 crops, and sustainable living</a>
                         </h3>
                         <!-- <div class="d-flex align-items-center justify-content-between">
@@ -1292,7 +1301,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-3 wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">
-                        <a href="index.html" class="our-info__logo mb-4 mb-lg-0">
+                        <a href="index.php" class="our-info__logo mb-4 mb-lg-0">
                             <img src="assets/images/logo/logo-light.svg" alt="logo">
                         </a>
                     </div>

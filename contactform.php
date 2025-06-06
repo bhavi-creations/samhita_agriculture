@@ -9,13 +9,13 @@ require 'vendor/autoload.php'; // Adjust the path to autoload.php based on your 
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Assign POST data to variables
-    $contactname = $_POST['contactname'] ?? '';
+    $contactname = $_POST['name'] ?? '';
 
-    $contactnumber = $_POST['contactnumber'] ?? '';
-    $contactemail = $_POST['contactemail'] ?? '';
+    $contactnumber = $_POST['number'] ?? '';
+    $contactemail = $_POST['email'] ?? '';
  
 
-    $contactmessage = $_POST['contactmessage'] ?? '';
+    $contactmeassage = $_POST['meassage'] ?? '';
 
     
 
@@ -48,11 +48,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <p><strong>Email</strong>  $contactemail</p>
           
          
-            <p><strong>Message:</strong>$contactmessage</p>
+            <p><strong>Message:</strong>$contactmeassage</p>
         ";
 
         $mail->send();
-        echo '<script> window.alert("Message has been sent.\n\nPlease click OK."); window.location.href="index.html";</script>';
+        echo '<script> window.alert("Message has been sent.\n\nPlease click OK."); window.location.href="index.php";</script>';
     } catch (Exception $e) {
         echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
     }

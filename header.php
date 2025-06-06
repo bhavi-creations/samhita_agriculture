@@ -24,6 +24,15 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
+
+
+
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" rel="stylesheet">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    
+
 </head>
 
 <body>
@@ -55,7 +64,7 @@
 
                         <!-- Samhitha Title (always centered) -->
                         <div class="samhitha-title py-2">
-                            <strong class="samhitha_agri">Samhita Soil Solution</strong>
+                            <strong class="samhitha_agri">Samhita Soil&nbsp;<span class="primary-color"> Solution</span>    </strong>
                         </div>
 
                         <!-- Mobile: Logo Left + Toggle Right -->
@@ -132,22 +141,22 @@
     </script> -->
 
     <script>
-function handleClick(event) {
-    // Only on small screens: prevent default link and toggle submenu
-    if (window.innerWidth < 992) {
-        event.preventDefault();
-        const subMenu = event.target.nextElementSibling;
-        if (subMenu && subMenu.classList.contains('sub-menu')) {
-            subMenu.classList.toggle('active');
+        function handleClick(event) {
+            // Only on small screens: prevent default link and toggle submenu
+            if (window.innerWidth < 992) {
+                event.preventDefault();
+                const subMenu = event.target.nextElementSibling;
+                if (subMenu && subMenu.classList.contains('sub-menu')) {
+                    subMenu.classList.toggle('active');
+                }
+            }
         }
-    }
-}
 
-function handleHover(event) {
-    // Optional: prevent hover toggle on small screens
-    if (window.innerWidth < 992) {
-        return;
-    }
-    // On desktop, no need to block hover
-}
-</script>
+        function handleHover(event) {
+            // Optional: prevent hover toggle on small screens
+            if (window.innerWidth < 992) {
+                return;
+            }
+            // On desktop, no need to block hover
+        }
+    </script>
