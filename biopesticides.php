@@ -22,10 +22,10 @@
 
 
 
-            <div class="col-md-6   col-12 bio_section" data-aos="fade-up">
+            <div class="col-md-6   col-12 bio_section" >
                 <img src="assets/images/logo/5.png" alt="" class="img-fluid hover-pop ">
             </div>
-            <div class="col-md-6 col-12  bio_paragraph" data-aos="fade-down">
+            <div class="col-md-6 col-12  bio_paragraph" >
 
                 <h4>Pseudomonas fluorescens 1% WP</h4>
                 <p>
@@ -41,7 +41,7 @@
         <div class="row biofertilizer_section">
 
 
-            <div class="col-md-6   col-12 bio_paragraph" data-aos="fade-right">
+            <div class="col-md-6   col-12 bio_paragraph" >
                 <h4> Pseudomonas fluorescens 1.5% LF</h4>
                 <p>
                     Pseudomonas fluorescens 1.5% LF is a liquid bio-control formulation used to suppress a wide
@@ -50,7 +50,7 @@
                     pathogens, protecting crops from diseases like wilt, rot, and damping-off
                 </p>
             </div>
-            <div class="col-md-6   col-12 bio_section" data-aos="fade-left">
+            <div class="col-md-6   col-12 bio_section" >
                 <img src="assets/images/logo/pseudomonas_1.png" alt="" class="img-fluid hover-pop ">
             </div>
 
@@ -58,10 +58,10 @@
 
 
         <div class="row biofertilizer_section">
-            <div class="col-md-6   col-12 bio_section" data-aos="fade-down">
+            <div class="col-md-6   col-12 bio_section" >
                 <img src="assets/images/logo/bacillus .png" alt="" class="img-fluid hover-pop ">
             </div>
-            <div class="col-md-6   col-12 bio_paragraph" data-aos="fade-right">
+            <div class="col-md-6   col-12 bio_paragraph" >
 
                 <h4> Bacillus subtilis 1.5% LF </h4>
                 <p>
@@ -76,7 +76,7 @@
         <div class="row biofertilizer_section">
 
 
-            <div class="col-md-6   col-12 bio_paragraph" data-aos="fade-down">
+            <div class="col-md-6   col-12 bio_paragraph" >
                 <h4> Trichoderma viride 1.5% L.F</h4>
                 <p>
                     Trichoderma viride 1.5% L.F is a liquid biofungicide widely used to combat soil-borne fungal
@@ -86,17 +86,17 @@
                     nutrients
                 </p>
             </div>
-            <div class="col-md-6   col-12 bio_section" data-aos="fade-up">
+            <div class="col-md-6   col-12 bio_section" >
                 <img src="assets/images/logo/trichoderma .png" alt="" class="img-fluid hover-pop ">
             </div>
 
         </div>
 
         <div class="row biofertilizer_section">
-            <div class="col-md-6   col-12 bio_section" data-aos="fade-right">
+            <div class="col-md-6   col-12 bio_section" >
                 <img src="assets/images/logo/trichoderma_1.png" alt="" class="img-fluid hover-pop ">
             </div>
-            <div class="col-md-6   col-12 bio_paragraph" data-aos="fade-left">
+            <div class="col-md-6   col-12 bio_paragraph" >
 
                 <h4>Trichoderma harzianum – 2.0% A.S </h4>
                 <p>
