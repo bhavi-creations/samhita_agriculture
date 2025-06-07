@@ -23,7 +23,7 @@
 
 
             <div class="col-md-6   col-12 bio_section" data-aos="fade-up">
-                <img src="assets/images/logo/pseudomonas.png" alt="" class="img-fluid hover-pop ">
+                <img src="assets/images/logo/5.png" alt="" class="img-fluid hover-pop ">
             </div>
             <div class="col-md-6 col-12  bio_paragraph" data-aos="fade-down">
 
