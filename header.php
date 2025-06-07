@@ -64,11 +64,11 @@
 
                         <!-- Samhitha Title (always centered) -->
                         <div class="samhitha-title py-2 d-md-none">
-                            <strong class="samhitha_agri">SAMHITA    Soil   Solution </strong>
+                            <strong class="samhitha_agri">SAMHITA    Soil   Solutions </strong>
                         </div>
 
                         <div class="samhitha-title py-2 d-none d-md-block">
-                            <strong class="samhitha_agri">SAMHITA &nbsp;Soil  &nbsp; Solution </strong>
+                            <strong class="samhitha_agri">SAMHITA &nbsp;Soil  &nbsp; Solutions </strong>
                         </div>
 
                         <!-- Mobile: Logo Left + Toggle Right -->
