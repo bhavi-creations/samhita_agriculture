@@ -20,10 +20,10 @@
         <div class="row biofertilizer_section">
 
 
-            <div class="col-md-6   col-12 bio_section wow fadeInUp" data-aos="fade-up">
+            <div class="col-md-6   col-12 bio_section wow fadeInUp" >
                 <img src="assets/images/logo/pu.png" alt="" class="img-fluid hover-pop ">
             </div>
-            <div class="col-md-6 col-12  bio_paragraph"  data-aos="fade-right">
+            <div class="col-md-6 col-12  bio_paragraph"  >
 
                 <h4>Nitrogen Biofertilizer (Azotobacter tropicalis)</h4>
                 <p>
@@ -44,7 +44,7 @@
 
 
 
-            <div class="col-md-6   col-12 bio_paragraph" data-aos="fade-down">
+            <div class="col-md-6   col-12 bio_paragraph" >
                 <h4> Phosphorus & Zinc Biofertilizer (Bacillus aryabhattai)</h4>
                 <p>
                     Phosphorus & Zinc biofertilizers containing Bacillus aryabhattai play a crucial role in
@@ -55,7 +55,7 @@
                 </p>
             </div>
 
-            <div class="col-md-6   col-12 bio_section" data-aos="fade-left">
+            <div class="col-md-6   col-12 bio_section" >
                 <img src="assets/images/logo/phosphorus.png" alt="" class="img-fluid hover-pop ">
             </div>
 
@@ -70,10 +70,10 @@
 
         <div class="row biofertilizer_section">
 
-            <div class="col-md-6   col-12 bio_section" data-aos="fade-left">
+            <div class="col-md-6   col-12 bio_section" >
                 <img src="assets/images/logo/potassium.png" alt="" class="img-fluid hover-pop ">
             </div>
-            <div class="col-md-6   col-12 bio_paragraph" data-aos="fade-right">
+            <div class="col-md-6   col-12 bio_paragraph" >
 
                 <h4> Potassium Biofertilizer (Pseudomonas taiwanensis)</h4>
                 <p>
@@ -86,10 +86,7 @@
             </div>
         </div>
 
-        <!-- data-aos="fade-right"
-        data-aos="fade-down"
-        data-aos="fade-up"
-        data-aos="fade-left" -->
+      
 
 
 

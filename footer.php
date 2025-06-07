@@ -143,9 +143,7 @@
                 </ul>
             </div>
         </div>
-        <a href="https://api.whatsapp.com/send?phone=9848549349" style="color: #fff;" class="whatsapp-link" target="_blank">
-            <i class="fab fa-whatsapp"></i>
-        </a>
+      
 
         <!-- <a href="https://api.whatsapp.com/send?phone=7993118888" style="color: #fff;" class="whatsapp-link"
                 target="_blank">

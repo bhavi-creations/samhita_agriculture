@@ -31,7 +31,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" rel="stylesheet">
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
-    
+
 
 </head>
 
@@ -64,11 +64,11 @@
 
                         <!-- Samhitha Title (always centered) -->
                         <div class="samhitha-title py-2 d-md-none">
-                            <strong class="samhitha_agri">SAMHITA Soil Solution    </strong>
+                            <strong class="samhitha_agri">SAMHITA Soil  Solution </strong>
                         </div>
 
                         <div class="samhitha-title py-2 d-none d-md-block">
-                            <strong class="samhitha_agri">SAMHITA &nbsp;  <span class="soli_section">Soil</span> &nbsp;<span class="solution_section"> Solution</span>    </strong>
+                            <strong class="samhitha_agri">SAMHITA &nbsp; <span class="soli_section">Soil</span> &nbsp;<span class="solution_section"> Solution</span> </strong>
                         </div>
 
                         <!-- Mobile: Logo Left + Toggle Right -->
@@ -164,3 +164,11 @@
             // On desktop, no need to block hover
         }
     </script>
+
+
+
+
+
+    <a href="https://api.whatsapp.com/send?phone=9848549349" style="color: #fff;" class="whatsapp-link" target="_blank">
+        <i class="fab fa-whatsapp"></i>
+    </a>
