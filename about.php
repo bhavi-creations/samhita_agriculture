@@ -339,7 +339,7 @@
     <!-- Team area start here -->
     <!-- Team area start here -->
 
-    <section class="team pt-130" id="team_memeber">
+    <!-- <section class="team pt-130" id="team_memeber">
 
         <div class="team__shape fall__animation">
             <img src="assets/images/shape/team.png" alt="shape">
@@ -358,12 +358,12 @@
                         <div class="team__item">
                             <div class="team__item-image">
                                 <img src="assets/images/reviews/4.png" alt="image">
-                                <!-- <div class="team__item-image-icon social-icon">
+                                <div class="team__item-image-icon social-icon">
                                 <a href="#0"><i class="fa-brands fa-facebook-f"></i></a>
                                 <a href="#0"><i class="fa-brands fa-twitter"></i></a>
                                 <a href="#0"><i class="fa-brands fa-linkedin-in"></i></a>
                                 <a href="#0"><i class="fa-brands fa-youtube"></i></a>
-                            </div> -->
+                            </div>
                             </div>
                             <h3><a href="#team_memeber"> A. Hutchison</a></h3>
                             <span>Founder</span>
@@ -374,12 +374,12 @@
                         <div class="team__item">
                             <div class="team__item-image">
                                 <img src="assets/images/reviews/5.png" alt="image">
-                                <!-- <div class="team__item-image-icon social-icon">
+                                <div class="team__item-image-icon social-icon">
                                 <a href="#0"><i class="fa-brands fa-facebook-f"></i></a>
                                 <a href="#0"><i class="fa-brands fa-twitter"></i></a>
                                 <a href="#0"><i class="fa-brands fa-linkedin-in"></i></a>
                                 <a href="#0"><i class="fa-brands fa-youtube"></i></a>
-                            </div> -->
+                            </div>
                             </div>
                             <h3><a href="#team_memeber">Bonnie J. Britt</a></h3>
                             <span>Forest Officer</span>
@@ -390,12 +390,12 @@
                         <div class="team__item">
                             <div class="team__item-image">
                                 <img src="assets/images/reviews/6.png" alt="image">
-                                <!-- <div class="team__item-image-icon social-icon">
+                                <div class="team__item-image-icon social-icon">
                                 <a href="#0"><i class="fa-brands fa-facebook-f"></i></a>
                                 <a href="#0"><i class="fa-brands fa-twitter"></i></a>
                                 <a href="#0"><i class="fa-brands fa-linkedin-in"></i></a>
                                 <a href="#0"><i class="fa-brands fa-youtube"></i></a>
-                            </div> -->
+                            </div>
                             </div>
                             <h3><a href="#team_memeber">Francis A. Cote</a></h3>
                             <span>Garden Maker</span>
@@ -406,12 +406,12 @@
                         <div class="team__item">
                             <div class="team__item-image">
                                 <img src="assets/images/reviews/9.png" alt="image">
-                                <!-- <div class="team__item-image-icon social-icon">
+                                <div class="team__item-image-icon social-icon">
                                 <a href="#0"><i class="fa-brands fa-facebook-f"></i></a>
                                 <a href="#0"><i class="fa-brands fa-twitter"></i></a>
                                 <a href="#0"><i class="fa-brands fa-linkedin-in"></i></a>
                                 <a href="#0"><i class="fa-brands fa-youtube"></i></a>
-                            </div> -->
+                            </div>
                             </div>
                             <h3><a href="#team_memeber">L. Lawhorn</a></h3>
                             <span>Co - Founder</span>
@@ -420,7 +420,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- Team area end here -->
 

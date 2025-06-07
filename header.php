@@ -42,7 +42,7 @@
         <div id="loading-center">
             <div id="loading-center-absolute">
                 <div class="loading-icon text-center d-flex flex-column align-items-center justify-content-center">
-                    <img class="loading-logo" src="assets/images/preloader.svg" alt="icon">
+                    <img class="loading-logo" src="assets/images/logo/Samhita.png" alt="icon" >
                 </div>
             </div>
         </div>
@@ -64,11 +64,11 @@
 
                         <!-- Samhitha Title (always centered) -->
                         <div class="samhitha-title py-2 d-md-none">
-                            <strong class="samhitha_agri">SAMHITA Soil  Solution </strong>
+                            <strong class="samhitha_agri">SAMHITA    Soil   Solution </strong>
                         </div>
 
                         <div class="samhitha-title py-2 d-none d-md-block">
-                            <strong class="samhitha_agri">SAMHITA &nbsp; <span class="soli_section">Soil</span> &nbsp;<span class="solution_section"> Solution</span> </strong>
+                            <strong class="samhitha_agri">SAMHITA &nbsp;Soil  &nbsp; Solution </strong>
                         </div>
 
                         <!-- Mobile: Logo Left + Toggle Right -->
@@ -105,6 +105,8 @@
                                     <li><a href="biofertilizers.php">Biofertilizers</a></li>
                                 </ul>
                             </li>
+
+                            <li><a href="gallery.php">Gallery </a></li>
 
                             <li><a href="contact.php">Contact Us</a></li>
                         </ul>
