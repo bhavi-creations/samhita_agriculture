@@ -35,8 +35,8 @@
                                         class="fa-solid fa-phone-volume pe-1 primary-color"></i>
                                     91-9848549349, <br> &nbsp; &nbsp;&nbsp; 9491822559
                                 </a></li>
-                            <li><a href="#0"><i class="fa-solid fa-envelope pe-1 primary-color"></i>
-                                    samhitasoilsolutions <br> @gmail.com</a>
+                            <li><a href="#"><i class="fa-solid fa-envelope pe-1 primary-color"></i>
+                            samhitasoilsolutions@gmail.com </a>
                             </li>
                         </ul>
                     </div>

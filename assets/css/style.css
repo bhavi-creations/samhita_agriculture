@@ -69,7 +69,7 @@ body {
   background-color: var(--white);
   line-height: 28px;
   font-weight: 400;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 
 h1,
@@ -7343,19 +7343,122 @@ line-break: auto;
 
 
 @media (max-width:768px) {
-  .modile_samhita{
-    font-size: ;
-  }
-  
+ .samhitha_images_section{
+  width: 120px;
+  align-items: center !important;
+  margin-bottom: -150px;
+ }
+}
+
+
+/* new navbar  */
+.marquee-section {
+  background-color: #36773c;
+  color: white;
+  padding: 8px 0px 0px 6px;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center; */
 }
 
 
 
+/* navbar  */
+
+
+
+.vs-menu-toggle {
+  border: none;
+  font-size: 22px;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  padding: 0;
+  line-height: 1;
+  width: 33px;
+  height: 33px;
+  line-height: 33px;
+  font-size: 18px;
+  z-index: 1;
+  color: $white-color;
+  background-color: $theme-color;
+  border-radius: 50%;
+  &:hover {
+    background-color: $title-color;
+    color: $white-color;
+  }
+}
+
+.vs-menu-area {
+  width: 100%;
+  max-width: 310px;
+  background-color: #fff;
+  border-right: 3px solid $theme-color;
+  height: 100%;
+  position: relative;
+  left: -1000px;
+  opacity: 0;
+  visibility: hidden;
+  transition: all ease 1s;
+  z-index: 1;
+
+  &:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 100%;
+    max-height: 122px;
+    background-color: $theme-color;
+    opacity: 0.1;
+    z-index: -1;
+  }
+}
+
+&.vs-body-visible {
+  opacity: 1;
+  visibility: visible;
+  width: 100%;
+  transition: all ease 0.8s;
+
+  .vs-menu-area {
+    left: 0;
+    opacity: 1;
+    visibility: visible;
+    transition: all ease 1s;
+  }
+}
+
+/* .founder_secton {
+  border-left: 5px solid green !important;
+  padding: 15px;
+} */
 
 
 
 
+.founder_secton {
+  border-left: 2px solid green;
+  background-color: #f0fff0;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 128, 0, 0.1); 
+  transition: all 0.3s ease;
+}
+.founder_secton:hover {
+  background-color: #e2ffe2;
+  box-shadow: 0 6px 12px rgba(0, 128, 0, 0.2);
+}
+.founder_secton h3 {
+  color: #2e7d32; /* dark green */
+}
 
+.about_middle_section{
+margin-bottom: 50px;
+margin-top: -100px !important;
+}
 
 
 

@@ -144,6 +144,16 @@
                                 Biological control laboratory, kakinada and as Mandal Agricultural officer, kajuluru
                                 Resigned and then set up this industry, out of passion and having
                                 experience in govt. Lab</p>
+
+                            <p>
+                                Samhita Soil Solutions is a pioneering company in the field of biopesticides, biofertilizers, and micronutrients. Our company was founded by Balusu Parvathi Rajyam, BSc (Ag), a renowned agricultural scientist with a passion for sustainable farming practices and former Assistant Director in the Agriculture Department of the AP Government
+
+
+                            </p>
+
+
+
+
                         </div>
                         <h3 class="pb-30 wow fadeInUp" data-wow-duration="1.8s" data-wow-delay=".8s">🌿 "Benefits of Natural Farming for Sustainable Agriculture</h3>
                         <div class="d-flex align-items-center justify-content-between flex-wrap mb-10">
@@ -172,10 +182,22 @@
                                 </li>
                             </ul>
                         </div>
-                        <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s">Natural agriculture
-                            improves soil health, grows chemical-free food, and lowers farming costs.
-                            It ensures crop resilience, promotes environmental sustainability, and empowers rural
-                            communities</p>
+                        <div class="founder_secton d-none d-lg-block">
+                            <h3>Message from the Founder</h3>
+                            <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s">
+
+                                "I am committed to empowering farmers with innovative, eco-friendly solutions that enhance crop yields, improve soil health, and promote sustainable agriculture. At Samhita Soil Solutions, we strive to make a positive impact on the agricultural community and the environment." - Balusu Parvathi Rajyam
+                            </p>
+                        </div>
+
+
+                        <div class="d-lg-none ">
+                            <h3>Message from the Founder</h3>
+                            <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s">
+
+                                "I am committed to empowering farmers with innovative, eco-friendly solutions that enhance crop yields, improve soil health, and promote sustainable agriculture. At Samhita Soil Solutions, we strive to make a positive impact on the agricultural community and the environment." - Balusu Parvathi Rajyam
+                            </p>
+                        </div>
                         <div class="about_info d-flex align-items-center pt-65 wow fadeInUp"
                             data-wow-duration="1.9s" data-wow-delay=".9s">
                             <!-- <a href="about.php" class="btn-one"><span>More About us</span> <i
@@ -194,6 +216,17 @@
             </div>
         </div>
     </section>
+
+
+
+
+    <!-- <section>
+        <div class="contianer about_middle_section">
+            <h3 class="text-center ">"Empowering Sustainable Agriculture with Certified Eco-Friendly Solutions" </h3>
+
+        </div>
+    </section> -->
+
 
 
 
@@ -247,7 +280,7 @@
                 <div class="col-lg-5 achievement__bor-right wow fadeInUp" data-wow-duration="1.2s"
                     data-wow-delay=".2s">
                     <div class="achievement__item">
-                        <h2 class="text-white pt-3 pb-3">🌿 Diverse Paths in Natural Farming
+                        <h2 class="text-white pt-3 pb-3">🌿 Diverse Paths in Organic Farming
                         </h2>
                     </div>
                 </div>
@@ -559,8 +592,7 @@
                                 <i class="fa-solid fa-quote-right"></i>
                             </div>
                             <div class="testimonial__item-content">
-                                <p>"Switching to natural farming has transformed my land. The soil is richer, pests
-                                    are fewer, and my vegetables taste better than ever."
+                                <p>"Switching to organic farming has completely transformed my land and my livelihood. The soil is richer, pests are manageable without chemicals, and my produce is healthier and in higher demand."
                                 </p>
                             </div>
                         </div>
@@ -580,8 +612,7 @@
                                 <i class="fa-solid fa-quote-right"></i>
                             </div>
                             <div class="testimonial__item-content">
-                                <p>"Natural agriculture helped reduce my input costs drastically. Now I earn more,
-                                    and my crops are in high demand in local markets."
+                                <p>"Organic practices not only improved our crop quality but also reduced our input costs over time. Composting, natural fertilizers, and crop rotation are now a way of life on our farm."
                                 </p>
                             </div>
                         </div>
@@ -601,8 +632,7 @@
                                 <i class="fa-solid fa-quote-right"></i>
                             </div>
                             <div class="testimonial__item-content">
-                                <p>"Biofertilizers and compost have completely replaced chemicals on my farm. I feel
-                                    safer, and so does my community."
+                                <p>Consumers appreciate the taste and safety of organic produce. I’ve built trust in my community by delivering food grown without harmful pesticides or GMOs.
                                 </p>
                             </div>
                         </div>

@@ -94,12 +94,9 @@
                     <div class="section-header mb-5">
                         <h5 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s"><img
                                 src="assets/images/icon/leaf.svg" alt="image"> ABOUT US</h5>
-                        <h2 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">🌱 Natural
-                            Agriculture: Farming in Harmony with Nature</h2>
-                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Embrace a
-                            chemical-free, soil-friendly approach that restores ecological balance, improves crop
-                            quality, and supports long-term sustainability Natural agriculture honors traditional
-                            wisdom while promoting healthy food, thriving farms, and a greener planet</p>
+                        <h2 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">🌱 Organic Agriculture: Cultivating Health from the Soil Up</h2>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">
+                            Organic agriculture is a holistic approach to growing food in harmony with nature, emphasizing healthy soil, biodiversity, and eco-friendly practices. Techniques like composting, crop rotation, and natural pest control yield safer, more nutritious crops while minimizing environmental impact
                     </div>
                     <div class="about__info wow fadeInUp" data-wow-duration="1.8s" data-wow-delay=".8s">
                         <!-- <div class="about__info-info-con">
@@ -165,13 +162,13 @@
     <section class="py-5 banner" data-background="assets/images/bg/banner1.jpg">
         <div class="container" data-aos="fade-up">
             <h2 class="text-center text-capitalize mb-5 contact_text" data-aos="fade-down">
-                Comparing Chemical and Organic Farming
+                Comparing Organic and Chemical Farming
             </h2>
 
             <!-- Tabs -->
             <div class="row text-center justify-content-center mb-4" data-aos="fade-up">
 
-                <div class="col-md-3 custom-tab active m-2" data-target="#natural-tab">Natural Agriculture</div>
+                <div class="col-md-3 custom-tab active m-2" data-target="#natural-tab">Organic Agriculture</div>
                 <div class="col-md-3 custom-tab  m-2" data-target="#chemical-tab">Chemical Agriculture</div>
             </div>
 
@@ -197,21 +194,20 @@
             </div>
 
             <div id="natural-tab" class="custom-tab-content active" data-aos="fade-left">
-                <h3 class="text-center text-capitalize contact_text mb-4">Natural Agriculture</h3>
+                <h3 class="text-center text-capitalize contact_text mb-4">Organic Agriculture</h3>
                 <div class="row align-items-center">
                     <div class="col-md-6 natural_agri_image" data-aos="fade-right">
                         <img src="assets/images/logo/natural_agri.png" alt="Natural Agriculture" class="img-fluid">
                     </div>
                     <div class="col-md-6" data-aos="fade-left">
                         <p class="natural_agri_section">
-                            Natural agriculture is a sustainable farming practice that relies on minimal human intervention and avoids the use of chemical fertilizers, synthetic pesticides, or genetically modified organisms (GMOs). It emphasizes harmony with nature, improving soil health, and using traditional, organic methods for crop cultivation.
-                        </p>
-                        <h4 class="natural_agri_section">Uses of natural Agriculture</h4>
+                            Organic farming is a holistic and sustainable agricultural system that avoids the use of synthetic fertilizers, harmful pesticides, and genetically modified organisms (GMOs). Instead, it promotes natural methods to enhance soil fertility, protect crop health, and ensure safe, nutritious produce. The focus is on working with nature—not against it—by preserving ecological balance and boosting long-term farm productivity </p>
+                        <h4 class="natural_agri_section">Improves Soil Health</h4>
                         <p><i class="fa fa-check-circle"></i> &nbsp; Enhances Soil Fertility</p>
-                        <p><i class="fa fa-check-circle"></i> &nbsp; Protects Human Health</p>
+                        <p><i class="fa fa-check-circle"></i> &nbsp;Preserves Biodiversity</p>
                         <p><i class="fa fa-check-circle"></i> &nbsp; Supports Biodiversity</p>
                         <p><i class="fa fa-check-circle"></i> &nbsp; Reduces Water Usage</p>
-                        <p><i class="fa fa-check-circle"></i> &nbsp; Eco-Friendly & Low Carbon Footprint</p>
+                        <p><i class="fa fa-check-circle"></i> &nbsp; Saves Water Resources/p>
                     </div>
                 </div>
             </div>
@@ -280,15 +276,11 @@
                         <div class="section-header m-0">
                             <h5 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s"><img
                                     src="assets/images/icon/leaf.svg" alt="image"> HOW WE WORK</h5>
-                            <h2 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s"> 🌾 Natural
-                                Farming
-                                for Food Security</h2>
+                            <h2 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s"> 🌾Organic Farming for Food Security</h2>
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Empowering farmers
-                            with organic methods that boost yield naturally and ensure communities have access to
-                            safe, nutritious, chemical-free food.</p>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Empowering farmers with soil-enriching, chemical-free practices that naturally boost yields and deliver safe, nutritious food to every community</p>
                     </div>
                 </div>
             </div>
@@ -316,9 +308,8 @@
                             <!-- <img src="assets/images/icon/work2.svg" alt="icon"> -->
                             <span>02</span>
                         </div>
-                        <h3><a href="service.php">Biodynamic Agriculture</a></h3>
-                        <p>A spiritual-ecological method developed by Rudolf Steiner. It involves using biodynamic
-                            preparations</p>
+                        <h3><a href="service.php">Eco-Friendly Farming</a></h3>
+                        <p>Organic farming minimizes pollution and supports a healthier planet by avoiding synthetic inputs. It nurtures nature with sustainable practices</p>
                         <a class="work__item-arrow" href="service.php"><i class="fa-solid fa-arrow-right"></i></a>
                         <div class="work__item-leaf">
                             <img src="assets/images/shape/work-leaf.png" alt="">
@@ -332,9 +323,8 @@
                             <!-- <img src="assets/images/icon/work3.svg" alt="icon"> -->
                             <span>03</span>
                         </div>
-                        <h3><a href="service.php">Permaculture Farming</a></h3>
-                        <p>Designs agricultural systems that mimic natural ecosystems. It emphasizes diversity,
-                            self-sufficiency, and minimal waste.</p>
+                        <h3><a href="service.php">Healthy Soil, Healthy Food</a></h3>
+                        <p>Natural compost and crop rotation enrich the soil, leading to more nutritious and chemical-free food for everyone</p>
                         <a class="work__item-arrow" href="service.php"><i class="fa-solid fa-arrow-right"></i></a>
                         <div class="work__item-leaf">
                             <img src="assets/images/shape/work-leaf.png" alt="">
@@ -348,9 +338,8 @@
                             <!-- <img src="assets/images/icon/work4.svg" alt="icon"> -->
                             <span>04</span>
                         </div>
-                        <h3><a href="service.php">Agroecology </a></h3>
-                        <p>Combines scientific knowledge with traditional practices to build resilient,
-                            environmentally sound farms.</p>
+                        <h3><a href="service.php">Protects Biodiversity </a></h3>
+                        <p>Encourages a balanced ecosystem by supporting pollinators, earthworms, and other beneficial organisms</p>
                         <a class="work__item-arrow" href="service.php"><i class="fa-solid fa-arrow-right"></i></a>
                         <div class="work__item-leaf">
                             <img src="assets/images/shape/work-leaf.png" alt="">
@@ -566,15 +555,14 @@
                                             data-image="assets/images/service/04.jpg" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                             aria-expanded="false" aria-controls="collapseFive">
-                                            Cost-Effective for Farmers
+                                            Natural Boosters for Soil and Plant Health
                                         </button>
                                     </h2>
                                     <div id="collapseFive" class="accordion-collapse collapse"
                                         aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>Biofertilizers are cheaper than synthetic fertilizers, making them
-                                                ideal for small and large-scale organic farming
-                                            </p>
+                                            <p>Biofertilizers are natural microbes that boost soil fertility by fixing nitrogen and enhancing plant growth.
+                                                They reduce the need for chemicals, improve soil health, and support sustainable farming</p>
                                         </div>
                                     </div>
                                 </div>
@@ -696,7 +684,7 @@
                 <div class="col-lg-5 achievement__bor-right wow fadeInUp" data-wow-duration="1.2s"
                     data-wow-delay=".2s">
                     <div class="achievement__item">
-                        <h2 class="text-white pt-3 pb-3">🌿 Diverse Paths in Natural Farming
+                        <h2 class="text-white pt-3 pb-3">🌿 Diverse Paths in Organic Farming
                         </h2>
                     </div>
                 </div>
@@ -771,13 +759,8 @@
                         <div class="section-header pr-20">
                             <h5 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s"><img
                                     src="assets/images/icon/leaf.svg" alt="image"> OUR case study</h5>
-                            <h2 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">A Model for
-                                Sustainable Growth</h2>
-                            <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">We promote a
-                                community-driven agricultural model rooted in natural practices, empowering farmers
-                                with eco-friendly techniques, bio-inputs, and localized solutions. Our approach not
-                                only restores soil health and boosts productivity but also ensures long-term food
-                                security, climate resilience, and rural prosperity</p>
+                            <h2 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">Organic Farming: A Path to Sustainable Growth</h2>
+                            <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Organic farming empowers communities by using eco-friendly methods, natural inputs, and local wisdom. It restores soil health, increases crop productivity, and supports long-term food security while building climate resilience and uplifting rural livelihoods</p>
                         </div>
                         <div class="arry-btn mb-4 d-block d-lg-none">
                             <button class="arry-prev project-arry-prev"><i
@@ -992,7 +975,7 @@
             <img src="assets/images/shape/leaf-theme2.png" alt="shape">
         </div>
         <div class="container">
-            <div class="involve__bg pt-130 pb-130" data-background="./assets/images/logo/samhitha_invovled_image">
+            <div class="involve__bg pt-130 pb-130" data-background="assets/images/logo/samhitha_invovled_image.png">
                 <div class="involve__item text-center">
                     <div class="section-header">
                         <h5 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s"><img
@@ -1205,8 +1188,8 @@
                                         <div class="col-md-5">
                                             <div class="blog__item-left-content">
                                                 <span class="blog__tag">Environment</span>
-                                                <h3><a href="blog-single.php">IIVR’s Natural Farming Outreach in
-                                                        UP</a></h3>
+                                                <h3>IIVR’s Natural Farming Outreach in
+                                                        UP</h3>
                                                 <p>Over 2,000 farmers across 6 districts trained in eco-friendly
                                                     practices.
                                                     Focus on bio-inputs, pest management, and sustainable crop
@@ -1230,8 +1213,8 @@
                                         <div class="col-md-5">
                                             <div class="blog__item-left-content">
                                                 <span class="blog__tag">Environment</span>
-                                                <h3><a href="blog-single.php">Gadkari Promotes Biochar and
-                                                        Mechanization</a></h3>
+                                                <h3>Gadkari Promotes Biochar and
+                                                        Mechanization</h3>
                                                 <p>Union Minister urges use of biochar and solar tractors to cut
                                                     costs.
                                                     Plans launched to boost organic profits via Bhakti Farm Market.
@@ -1253,8 +1236,8 @@
                                         <div class="col-md-5">
                                             <div class="blog__item-left-content">
                                                 <span class="blog__tag">Environment</span>
-                                                <h3><a href="blog-single.php">UP's Push for Large-Scale Natural
-                                                        Farming</a></h3>
+                                                <h3>UP's Push for Large-Scale Organic
+                                                        Farming</></h3>
                                                 <p>Targeting 50 lakh farmers under the Viksit Krishi Sankalp
                                                     Abhiyan.
                                                     Initiative includes KVK upgrades and drone-based crop tech
@@ -1280,10 +1263,10 @@
                 </div>
                 <div class="col-xl-4 col-lg-6 wow fadeInRight" data-wow-duration="1.4s" data-wow-delay=".4s">
                     <div class="blog__item-right">
-                        <a href="blog-single.php" class="image d-block">
+                        <div class="image d-block">
                             <img src="assets/images/logo/latest_img.png" alt="image">
-                        </a>
-                        <h3><a href="blog-single.php">Natural agriculture promotes healthy soil, chemical-free
+                        </div>
+                        <h3 class="p-2">Organic agriculture promotes healthy soil, chemical-free
                                 crops, and sustainable living</a>
                         </h3>
                         <!-- <div class="d-flex align-items-center justify-content-between">
