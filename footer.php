@@ -134,7 +134,7 @@
                                 Branding By @
                             </p>
                             <img src="assets/images/logo/Bhavi_Branding_Stamp.png" class="img-fluid bhavi" alt=""
-                                style="width: 50px;">
+                                style="width: 50px;"> Bhavi creations pvt ltd
                         </a>
 
                         <div class="cs_footer_bottom copy_bg text-white">
