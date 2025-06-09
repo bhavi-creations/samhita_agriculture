@@ -170,12 +170,13 @@
 
             <!-- Tabs -->
             <div class="row text-center justify-content-center mb-4" data-aos="fade-up">
-                <div class="col-md-3 custom-tab active m-2" data-target="#chemical-tab">Chemical Agriculture</div>
-                <div class="col-md-3 custom-tab m-2" data-target="#natural-tab">Natural Agriculture</div>
+
+                <div class="col-md-3 custom-tab active m-2" data-target="#natural-tab">Natural Agriculture</div>
+                <div class="col-md-3 custom-tab  m-2" data-target="#chemical-tab">Chemical Agriculture</div>
             </div>
 
             <!-- Tab Contents -->
-            <div id="chemical-tab" class="custom-tab-content active" data-aos="fade-right">
+            <div id="chemical-tab" class="custom-tab-content " data-aos="fade-right">
                 <h3 class="text-center text-capitalize contact_text mb-4">Chemical Agriculture</h3>
                 <div class="row align-items-center">
                     <div class="col-md-6 natural_agri_image" data-aos="fade-right">
@@ -195,7 +196,7 @@
                 </div>
             </div>
 
-            <div id="natural-tab" class="custom-tab-content" data-aos="fade-left">
+            <div id="natural-tab" class="custom-tab-content active" data-aos="fade-left">
                 <h3 class="text-center text-capitalize contact_text mb-4">Natural Agriculture</h3>
                 <div class="row align-items-center">
                     <div class="col-md-6 natural_agri_image" data-aos="fade-right">
@@ -234,13 +235,13 @@
 
 
 
-<script>
+    <script>
         AOS.init();
     </script>
 
 
 
-   
+
 
 
 
@@ -991,7 +992,7 @@
             <img src="assets/images/shape/leaf-theme2.png" alt="shape">
         </div>
         <div class="container">
-            <div class="involve__bg pt-130 pb-130" data-background="assets/images/reviews/Involved_img.png">
+            <div class="involve__bg pt-130 pb-130" data-background="./assets/images/logo/samhitha_invovled_image">
                 <div class="involve__item text-center">
                     <div class="section-header">
                         <h5 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s"><img
@@ -1094,7 +1095,7 @@
     <!-- Testimonial area end here -->
 
     <!-- Team area start here -->
-    <section class="team pt-130" id="team_memeber">
+    <!-- <section class="team pt-130" id="team_memeber">
 
         <div class="team__shape fall__animation">
             <img src="assets/images/shape/team.png" alt="shape">
@@ -1113,12 +1114,12 @@
                         <div class="team__item">
                             <div class="team__item-image">
                                 <img src="assets/images/reviews/4.png" alt="image">
-                                <!-- <div class="team__item-image-icon social-icon">
+                                <div class="team__item-image-icon social-icon">
                                         <a href="#0"><i class="fa-brands fa-facebook-f"></i></a>
                                         <a href="#0"><i class="fa-brands fa-twitter"></i></a>
                                         <a href="#0"><i class="fa-brands fa-linkedin-in"></i></a>
                                         <a href="#0"><i class="fa-brands fa-youtube"></i></a>
-                                    </div> -->
+                                    </div>
                             </div>
                             <h3><a href="#team_memeber"> A. Hutchison</a></h3>
                             <span>Founder</span>
@@ -1129,12 +1130,12 @@
                         <div class="team__item">
                             <div class="team__item-image">
                                 <img src="assets/images/reviews/5.png" alt="image">
-                                <!-- <div class="team__item-image-icon social-icon">
+                                <div class="team__item-image-icon social-icon">
                                         <a href="#0"><i class="fa-brands fa-facebook-f"></i></a>
                                         <a href="#0"><i class="fa-brands fa-twitter"></i></a>
                                         <a href="#0"><i class="fa-brands fa-linkedin-in"></i></a>
                                         <a href="#0"><i class="fa-brands fa-youtube"></i></a>
-                                    </div> -->
+                                    </div>
                             </div>
                             <h3><a href="#team_memeber">Bonnie J. Britt</a></h3>
                             <span>Forest Officer</span>
@@ -1145,12 +1146,12 @@
                         <div class="team__item">
                             <div class="team__item-image">
                                 <img src="assets/images/reviews/6.png" alt="image">
-                                <!-- <div class="team__item-image-icon social-icon">
+                                <div class="team__item-image-icon social-icon">
                                         <a href="#0"><i class="fa-brands fa-facebook-f"></i></a>
                                         <a href="#0"><i class="fa-brands fa-twitter"></i></a>
                                         <a href="#0"><i class="fa-brands fa-linkedin-in"></i></a>
                                         <a href="#0"><i class="fa-brands fa-youtube"></i></a>
-                                    </div> -->
+                                    </div>
                             </div>
                             <h3><a href="#team_memeber">Francis A. Cote</a></h3>
                             <span>Garden Maker</span>
@@ -1161,12 +1162,12 @@
                         <div class="team__item">
                             <div class="team__item-image">
                                 <img src="assets/images/reviews/9.png" alt="image">
-                                <!-- <div class="team__item-image-icon social-icon">
+                                <div class="team__item-image-icon social-icon">
                                         <a href="#0"><i class="fa-brands fa-facebook-f"></i></a>
                                         <a href="#0"><i class="fa-brands fa-twitter"></i></a>
                                         <a href="#0"><i class="fa-brands fa-linkedin-in"></i></a>
                                         <a href="#0"><i class="fa-brands fa-youtube"></i></a>
-                                    </div> -->
+                                    </div>
                             </div>
                             <h3><a href="#team_memeber">L. Lawhorn</a></h3>
                             <span>Co - Founder</span>
@@ -1175,7 +1176,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Team area end here -->
 
     <!-- Blog area start here -->

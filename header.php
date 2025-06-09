@@ -64,7 +64,11 @@
 
                         <!-- Samhitha Title (always centered) -->
                         <div class="samhitha-title py-2 d-block d-md-none">
-                            <strong class="samhitha_agri">SAMHITA  <br>  Soil  <br> Solutions </strong>
+                            <strong class="samhitha_agri">
+                                SAMHITA  <br> Soil  <br>    Solutions  </strong>
+
+
+                                
                         </div>
 
                       
@@ -91,6 +95,20 @@
                             </div>
                         </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
                         <!-- Navigation Menu -->
                         <ul class="main-menu mx-auto">
                             <li><a href="index.php">Home</a></li>

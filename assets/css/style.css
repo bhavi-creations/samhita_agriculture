@@ -7342,7 +7342,12 @@ line-break: auto;
 }
 
 
-
+@media (max-width:768px) {
+  .modile_samhita{
+    font-size: ;
+  }
+  
+}
 
 
 
