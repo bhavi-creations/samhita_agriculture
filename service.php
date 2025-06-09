@@ -37,8 +37,8 @@
                             </div> -->
                             <span>01</span>
                         </div>
-                        <h3><a href="biopesticides.php">Pseudomonas fluorescens</a></h3>
-                        <p>Pseudomonas fluorescens 1% WP is a bio-control agent that protects crops by suppressing
+                        <h3><a href="biopesticides.php">pseudomonas fluorescens</a></h3>
+                        <p>pseudomonas fluorescens 1% WP is a bio-control agent that protects crops by suppressing
                             soil-borne diseases and promoting plant growth.</p>
                         <a class="work__item-arrow" href="biopesticides.php"><i
                                 class="fa-solid fa-arrow-right"></i></a>
@@ -53,8 +53,8 @@
                             </div> -->
                             <span>02</span>
                         </div>
-                        <h3><a href="biopesticides.php">Pseudomonas fluorescens</a></h3>
-                        <p>Pseudomonas fluorescens 1.5% LF is a liquid bio-formulation that enhances plant immunity
+                        <h3><a href="biopesticides.php">pseudomonas fluorescens</a></h3>
+                        <p>pseudomonas fluorescens 1.5% LF is a liquid bio-formulation that enhances plant immunity
                             and controls fungal and bacterial diseases in crops naturally</p>
                         <a class="work__item-arrow" href="biopesticides.php"><i
                                 class="fa-solid fa-arrow-right"></i></a>
@@ -218,7 +218,7 @@
                             <span>03</span>
                         </div>
                         <h3><a href="biofertilizers.php">Potassium Biofertilizer</a></h3>
-                        <p>Potassium Biofertilizer (Pseudomonas taiwanensis) helps release bound potassium in the
+                        <p>Potassium Biofertilizer (pseudomonas taiwanensis) helps release bound potassium in the
                             soil, boosting plant strength, disease resistance, and improving overall crop quality
                             and yield</p>
                         <a class="work__item-arrow" href="biofertilizers.php"><i
@@ -274,7 +274,7 @@
                 <div class="col-lg-5 achievement__bor-right wow fadeInUp" data-wow-duration="1.2s"
                     data-wow-delay=".2s">
                     <div class="achievement__item">
-                        <h2 class="text-white pt-3 pb-3">🌿 Diverse Paths in Natural Farming
+                        <h2 class="text-white pt-3 pb-3">🌿 Diverse Paths in Organic Farming
                         </h2>
                     </div>
                 </div>

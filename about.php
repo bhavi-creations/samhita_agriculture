@@ -155,7 +155,7 @@
 
 
                         </div>
-                        <h3 class="pb-30 wow fadeInUp" data-wow-duration="1.8s" data-wow-delay=".8s">🌿 "Benefits of Natural Farming for Sustainable Agriculture</h3>
+                        <h3 class="pb-30 wow fadeInUp" data-wow-duration="1.8s" data-wow-delay=".8s">🌿 "Benefits of Organic Farming for Sustainable Agriculture</h3>
                         <div class="d-flex align-items-center justify-content-between flex-wrap mb-10">
                             <ul class="wow fadeInDown" data-wow-duration="1.2s" data-wow-delay=".2s">
                                 <li class="mb-30"><img class="pe-2" src="assets/images/icon/leaf.svg" alt="icon">
@@ -327,7 +327,7 @@
                                     src="assets/images/icon/leaf.svg" alt="image"> OUR History</h5>
                             <h2 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">
                                 History of Our
-                                natural Aggriculture</h2>
+                                Organic Aggriculture</h2>
                         </div>
                         <!-- <h5 class="pb-30 wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">
                                 Elit
@@ -338,7 +338,7 @@
                             before</p>
 
                         <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s">industrialization
-                            introduced chemical farming. Today, there's a growing shift back to natural practices to
+                            introduced chemical farming. Today, there's a growing shift back to Organic  practices to
                             revive soil health and ensure sustainable food systems</p>
                     </div>
                     <div class="d-flex align-items-center gap-5 flex-wrap mt-45 mb-30">
@@ -511,7 +511,7 @@
                                 <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2"
                                     data-bs-parent="#accordionExample-two">
                                     <div class="accordion-body">
-                                        <p>Spread knowledge about natural farming and its environmental benefit</p>
+                                        <p>Spread knowledge about Organic farming and its environmental benefit</p>
                                     </div>
                                 </div>
                             </div>
@@ -612,7 +612,7 @@
                                 <i class="fa-solid fa-quote-right"></i>
                             </div>
                             <div class="testimonial__item-content">
-                                <p>"Organic practices not only improved our crop quality but also reduced our input costs over time. Composting, natural fertilizers, and crop rotation are now a way of life on our farm."
+                                <p>"Organic practices not only improved our crop quality but also reduced our input costs over time. Composting, Organic fertilizers, and crop rotation are now a way of life on our farm."
                                 </p>
                             </div>
                         </div>

@@ -67,7 +67,7 @@
 
                 <div class="header-one__logo d-none d-xl-block">
                     <a href="index.php">
-                        <img src="assets/images/logo/logo_111.png" alt="logo" class="img-fluid">
+                        <img src="assets/images/logo/logo_111.png" alt="logo" class="img-fluid" ">
                     </a>
                 </div>
                 <div class="header-one__item w-100">
