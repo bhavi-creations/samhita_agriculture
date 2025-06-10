@@ -54,20 +54,24 @@
 
 
 
-    <!-- <section>
-        <marquee behavior="" direction="">
-            organic forming for hunajisdfn
+    <section>
+        <marquee class="marquee-section">
+        Organic Farming  Growing Naturally for a Healthier Future &nbsp; &nbsp; / &nbsp; &nbsp;
+        Improves Soil Health &nbsp; &nbsp; / &nbsp; &nbsp;
+        Produces Safe and Nutritious Food &nbsp; &nbsp; / &nbsp; &nbsp;
+        Protects the Environment 
+
         </marquee>
-    </section> -->
+    </section>
 
     <!-- Header area start here -->
     <header class="header header-one bor-bottom">
         <div class="header-section">
             <div class="d-flex justify-content-between align-items-center">
 
-                <div class="header-one__logo d-none d-xl-block">
+                <div class="header_one__logo d-none d-xl-block pb-3">
                     <a href="index.php">
-                        <img src="assets/images/logo/logo_111.png" alt="logo" class="img-fluid" ">
+                        <img src="assets/images/logo/header_logo.png" alt="logo" class="img-fluid" >
                     </a>
                 </div>
                 <div class="header-one__item w-100">
@@ -84,12 +88,12 @@
 
                       
 
-                        <div class="samhitha-title py-2 d-none d-md-block">
+                        <div class="samhitha-title  d-none d-md-block">
                             <strong class="samhitha_agri">SAMHITA &nbsp;Soil &nbsp; Solutions </strong>
                         </div>
 
                         <!-- Mobile: Logo Left + Toggle Right -->
-                        <div class="d-flex justify-content-between align-items-center d-xl-none px-3 w-100">
+                        <div class="d-flex justify-content-between align-items-center d-xl-none mobile_toggle_bar px-3 w-100">
                             <!-- Logo on Left -->
                             <div class="logo-menu">
                                 <a href="index.php" class="logo">
@@ -147,7 +151,7 @@
 
 
 
-                <div class="header-one__item d-none d-xl-block">
+                <div class="header-one__item sub_menu_section d-none d-xl-block">
                     <ul class="header-wrapper header-one__info bor-left">
                         <!-- <li class="menu-btn">
                   <a href="contact.php"><span>Get a quote</span> <i class="fa-solid fa-angles-right"></i></a>

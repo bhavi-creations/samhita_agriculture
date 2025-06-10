@@ -168,8 +168,8 @@
             <!-- Tabs -->
             <div class="row text-center justify-content-center mb-4" data-aos="fade-up">
 
-                <div class="col-md-3 custom-tab active m-2" data-target="#natural-tab">Organic Agriculture</div>
-                <div class="col-md-3 custom-tab  m-2" data-target="#chemical-tab">Chemical Agriculture</div>
+                <div class="col-md-3 custom-tab active m-2 " data-target="#natural-tab">Organic Agriculture</div>
+                <div class="col-md-3 custom-tab  m-2  " data-target="#chemical-tab">Chemical Agriculture</div>
             </div>
 
             <!-- Tab Contents -->

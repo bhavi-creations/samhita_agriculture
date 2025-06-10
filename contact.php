@@ -50,7 +50,7 @@
                             <!-- <button class="mt-40">Submit Now <i class="fa-solid fa-arrow-right-long"></i></button> -->
 
                             <div class="col-lg-12">
-                                <button type="submit" class="btn_bg w-100">Submit</button>
+                                <button type="submit" class="btn_bg w-100 button_contact">Submit</button>
                             </div>
                         </form>
                     </div>

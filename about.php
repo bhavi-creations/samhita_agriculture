@@ -198,7 +198,7 @@
                                 "I am committed to empowering farmers with innovative, eco-friendly solutions that enhance crop yields, improve soil health, and promote sustainable agriculture. At Samhita Soil Solutions, we strive to make a positive impact on the agricultural community and the environment." - Balusu Parvathi Rajyam
                             </p>
                         </div>
-                        <div class="about_info d-flex align-items-center pt-65 wow fadeInUp"
+                        <div class="about_info d-flex align-items-center pt-65 wow fadeInUp sub_menu_section"
                             data-wow-duration="1.9s" data-wow-delay=".9s">
                             <!-- <a href="about.php" class="btn-one"><span>More About us</span> <i
                                         class="fa-solid fa-angles-right"></i></a> -->
@@ -323,25 +323,41 @@
                 <div class="col-xl-6">
                     <div class="about-two__right-item">
                         <div class="section-header mb-4">
-                            <h5 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s"><img
-                                    src="assets/images/icon/leaf.svg" alt="image"> OUR History</h5>
+                            <!-- <h5 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s"><img
+                                    src="assets/images/icon/leaf.svg" alt="image"> OUR History</h5> -->
                             <h2 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">
-                                History of Our
-                                Organic Aggriculture</h2>
+                                Agriculture with Certified Eco-Friendly Solutions</h2>
                         </div>
                         <!-- <h5 class="pb-30 wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">
                                 Elit
                                 ullamcorper dignissim cras tincidunt lobortis feugiat vibe</h5> -->
-                        <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s">Agriculture in India
-                            dates back over 10,000 years, beginning with ancient civilizations along river valleys.
-                            Traditional farming methods, based on nature and local knowledge, sustained generations
-                            before</p>
+                        <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s">As the only company in Andhra Pradesh with Government of India certification, we offer a unique blend of biopesticides, biofertilizers, and micronutrients that are not only effective but also environmentally friendly. Our products are designed to promote sustainable agriculture practices, improve crop yields, and enhance soil health</p>
 
-                        <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s">industrialization
-                            introduced chemical farming. Today, there's a growing shift back to Organic  practices to
-                            revive soil health and ensure sustainable food systems</p>
+                        <h3 class="wow fadeInUp">
+                            Biopesticides
+                        </h3>
+
+
+                        <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s">1. Pseudomonas fluorescens 1% - WP: Controls soil-borne and seed-borne plant pathogens, including fungi, bacteria, and nematodes. <br>
+                            2. Pseudomonas fluorescens 1.5% LF: Same description as above. <br>
+                            3. Bacillus subtilis - 1.5% LF: Fungicide, bactericide, and growth promoter. <br>
+                            4. Trichoderma viride - 1.5% L.F.: Fungicide and growth promoter. <br>
+                            5. Trichoderma harzianum - 2.0% A.S: Fungicide and growth promoter.
+                        </p>
                     </div>
-                    <div class="d-flex align-items-center gap-5 flex-wrap mt-45 mb-30">
+
+
+                    <h3 class="wow fadeInUp">
+                        Biofertilizers
+
+                    </h3>
+
+
+                    <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s">1. Nitrogen, N biofertilizer (Azatobacter tropicalis): Fixes nitrogen from air, soil, and root nodules for healthy plant growth. <br>
+                        2. Phosphorus & Zinc, P& Zn biofertilizer (Bacillus aryabhattai): Solubilizes zinc and phosphate for plant strength and resistance. <br>
+                        3. Potassium, K biofertilizer (Pseudomonas taiwanensis): Mobilizes potassium ions for high-quality crop yields.
+                    </p>
+                    <!-- <div class="d-flex align-items-center gap-5 flex-wrap mt-45 mb-30">
                         <ul class="wow fadeInDown" data-wow-duration="1.4s" data-wow-delay=".4s">
                             <li><img class="pe-2" src="assets/images/icon/leaf.svg" alt="icon">
                                 Ancient Origins
@@ -352,12 +368,12 @@
                                 Green Revolution Shift
                             </li>
                         </ul>
-                        <!-- <ul class="wow fadeInDown" data-wow-duration="1.4s" data-wow-delay=".4s">
+                        <ul class="wow fadeInDown" data-wow-duration="1.4s" data-wow-delay=".4s">
                                 <li><img class="pe-2" src="assets/images/icon/leaf.svg" alt="icon">
                                     Return to Roots
                                 </li>
-                            </ul> -->
-                    </div>
+                            </ul>
+                    </div> -->
                 </div>
                 <div class="col-xl-6">
                     <div class="image">
@@ -476,11 +492,7 @@
                             <h2 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">🌱 How You Can
                                 Help
                             </h2>
-                            <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Everyone—whether a
-                                consumer, student, or policymaker—has a role to play in supporting sustainable
-                                agriculture. By making conscious choices, promoting eco-friendly practices, and
-                                valuing farmers' work, we can protect the land that feeds us and help shape a
-                                healthier, greener future.</p>
+                            <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Organic farming is more than just growing food without chemicals—it's a way of respecting nature, protecting the soil, and building a healthier future. With eco-friendly techniques, natural inputs, and traditional wisdom, it offers a sustainable path for farmers and communities alike</p>
                         </div>
                         <div class="accordion" id="accordionExample-two">
                             <div class="accordion-item wow fadeInDown" data-wow-duration="1.2s"
@@ -550,9 +562,61 @@
                                         </div>
                                     </div>
                                 </div> -->
+
+                            <div class="accordion-item bor-top wow fadeInDown  dropdown_content_about" data-wow-duration="1.4s"
+                                data-wow-delay=".4s">
+                                <h2 class="accordion-header" id="heading5">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false"
+                                        aria-controls="collapse5">
+                                        Produces Clean, Chemical-Free Food
+                                    </button>
+                                </h2>
+                                <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5"
+                                    data-bs-parent="#accordionExample-two">
+                                    <div class="accordion-body">
+                                        <p>No synthetic fertilizers or pesticides are used, ensuring safer, more nutritious food for consumers and a toxin-free environment for farmers</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item wow fadeInDown  dropdown_content_about" data-wow-duration="1.6s"
+                                data-wow-delay=".6s">
+                                <h2 class="accordion-header" id="heading6">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="false"
+                                        aria-controls="collapse6">
+                                        Supports Environmental and Climate Health
+                                    </button>
+                                </h2>
+                                <div id="collapse6" class="accordion-collapse collapse" aria-labelledby="heading6"
+                                    data-bs-parent="#accordionExample-two">
+                                    <div class="accordion-body">
+                                        <p>By avoiding harmful chemicals and focusing on biodiversity, organic farming reduces pollution, protects ecosystems, and helps fight climate change</p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="accordion-item wow fadeInDown  dropdown_content_about" data-wow-duration="1.6s"
+                                data-wow-delay=".6s">
+                                <h2 class="accordion-header" id="heading7">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse" data-bs-target="#collapse7" aria-expanded="false"
+                                        aria-controls="collapse7">
+                                        Builds Healthy Soil Naturally
+                                    </button>
+                                </h2>
+                                <div id="collapse7" class="accordion-collapse collapse" aria-labelledby="heading7"
+                                    data-bs-parent="#accordionExample-two">
+                                    <div class="accordion-body">
+                                        <p>Organic farming uses compost, green manure, and crop rotation to enrich the soil. This boosts fertility and helps crops grow stronger without synthetic inputs</p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
+
                         <!-- <a href="#0" class="btn-one mt-35"><span>join with us</span> <i
-                                    class="fa-solid fa-angles-right"></i></a> -->
+                                class="fa-solid fa-angles-right"></i></a> -->
                     </div>
                 </div>
             </div>
