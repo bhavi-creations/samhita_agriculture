@@ -84,7 +84,7 @@
     <!-- Banner area end here -->
 
     <!-- About area start here -->
-    <section class="about pt-130 pb-65">
+    <section class="about pt-60 pb-65">
         <div class="about__leaf fall__animation">
             <img src="assets/images/about/leaf.png" alt="">
         </div>
@@ -266,7 +266,7 @@
     <!-- Video area end here -->
 
     <!-- Work area start here -->
-    <section class="work pt-130 pb-130">
+    <section class="work pt-60 pb-60">
         <div class="container">
 
 
@@ -295,7 +295,7 @@
                         <h3><a href="service.php">Organic Farming</a></h3>
                         <p>Focuses on using natural compost, vermicompost, green manure, and bio-pesticides instead
                             of chemicals</p>
-                        <a class="work__item-arrow" href="service.php"><i class="fa-solid fa-arrow-right"></i></a>
+                        <a class="work__item-arrow" href="service.php"><i class="fa-solid fa-arrow-right"> </i></a>
                         <div class="work__item-leaf">
                             <img src="assets/images/shape/work-leaf.png" alt="">
                         </div>
@@ -352,7 +352,7 @@
     <!-- Work area end here -->
 
     <!-- Service area start here -->
-    <section class="service pb-130">
+    <section class="service pb-60">
         <div class="service__shape wow slideInRight d-none d-xl-block" data-wow-duration="1s" data-wow-delay="1s">
             <img src=" assets/images/shape/service1.png" alt="shape">
         </div>
@@ -719,7 +719,7 @@
     <!-- Achievement area end here -->
 
     <!-- Project area start here -->
-    <section class="project pt-130 pb-130">
+    <section class="project pt-60 pb-60">
         <div class="project__wrp">
             <div class="project__wrp-shape sway_Y__animation d-none d-md-block">
                 <img src="assets/images/shape/project1.png" alt="shape">
@@ -966,7 +966,7 @@
     <!-- Donation area end here -->
 
     <!-- Involve area start here -->
-    <section class="involve pt-130 pb-130">
+    <section class="involve pt-60 pb-60">
         <div class="involve__leaf wow slideInLeft d-none d-sm-block" data-wow-duration="1s" data-wow-delay="1s">
             <img src="assets/images/shape/leaf-theme.png" alt="shape">
         </div>
@@ -992,7 +992,7 @@
     <!-- Involve area end here -->
 
     <!-- Testimonial area start here -->
-    <section class="testimonial pt-130 pb-130 sub-bg">
+    <section class="testimonial pt-60 pb-60 sub-bg">
         <div class="container">
             <div class="testimonial__head-wrp mb-65">
                 <div class="section-header m-0">
@@ -1163,7 +1163,7 @@
     <!-- Team area end here -->
 
     <!-- Blog area start here -->
-    <section class="blog pt-130 pb-130">
+    <section class="blog pt-60 pb-60">
         <div class="blog__shape d-none fall__animation d-sm-block">
             <img src="assets/images/shape/blog.png" alt="shape">
         </div>
