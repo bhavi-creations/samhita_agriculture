@@ -89,7 +89,7 @@
                       
 
                         <div class="samhitha-title  d-none d-md-block">
-                            <strong class="samhitha_agri">SAMHITA &nbsp;Soil &nbsp; Solutions </strong>
+                            <strong class="samhitha_agri">SAMHITA&nbsp;Soil&nbsp;Solutions </strong>
                         </div>
 
                         <!-- Mobile: Logo Left + Toggle Right -->
