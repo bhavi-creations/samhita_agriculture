@@ -992,7 +992,7 @@
     <!-- Involve area end here -->
 
     <!-- Testimonial area start here -->
-    <section class="testimonial pt-60 pb-60 sub-bg">
+    <section class="testimonial pt-130 pb-130 sub-bg">
         <div class="container">
             <div class="testimonial__head-wrp mb-65">
                 <div class="section-header m-0">
@@ -1023,8 +1023,7 @@
                                 <i class="fa-solid fa-quote-right"></i>
                             </div>
                             <div class="testimonial__item-content">
-                                <p>"Switching to natural farming has transformed my land. The soil is richer, pests
-                                    are fewer, and my vegetables taste better than ever."
+                                <p>"Switching to organic farming has completely transformed my land and my livelihood. The soil is richer, pests are manageable without chemicals, and my produce is healthier and in higher demand."
                                 </p>
                             </div>
                         </div>
@@ -1044,8 +1043,7 @@
                                 <i class="fa-solid fa-quote-right"></i>
                             </div>
                             <div class="testimonial__item-content">
-                                <p>"Natural agriculture helped reduce my input costs drastically. Now I earn more,
-                                    and my crops are in high demand in local markets."
+                                <p>"Organic practices not only improved our crop quality but also reduced our input costs over time. Composting, Organic fertilizers, and crop rotation are now a way of life on our farm."
                                 </p>
                             </div>
                         </div>
@@ -1065,8 +1063,7 @@
                                 <i class="fa-solid fa-quote-right"></i>
                             </div>
                             <div class="testimonial__item-content">
-                                <p>"Biofertilizers and compost have completely replaced chemicals on my farm. I feel
-                                    safer, and so does my community."
+                                <p>Consumers appreciate the taste and safety of organic produce. I’ve built trust in my community by delivering food grown without harmful pesticides or GMOs.
                                 </p>
                             </div>
                         </div>
@@ -1188,12 +1185,8 @@
                                         <div class="col-md-5">
                                             <div class="blog__item-left-content">
                                                 <span class="blog__tag">Environment</span>
-                                                <h3>IIVR’s Natural Farming Outreach in
-                                                        UP</h3>
-                                                <p>Over 2,000 farmers across 6 districts trained in eco-friendly
-                                                    practices.
-                                                    Focus on bio-inputs, pest management, and sustainable crop
-                                                    methods.
+                                                <h3>Farmers’ body urges AP govt to embrace organic inputs</h3>
+                                                <p>The Federation of All India Farmer Associations (FAIFA) has emphasized the need for climate-resilient farming in Andhra Pradesh. They advocate targeted subsidies for organic inputs, micro‑irrigation, and renewable energy to support small farmers facing climate threats
 
                                                 </p>
                                                 <!-- <span class="blog__item-left-content-info">By <strong>Max
@@ -1214,7 +1207,7 @@
                                             <div class="blog__item-left-content">
                                                 <span class="blog__tag">Environment</span>
                                                 <h3>Gadkari Promotes Biochar and
-                                                        Mechanization</h3>
+                                                    Mechanization</h3>
                                                 <p>Union Minister urges use of biochar and solar tractors to cut
                                                     costs.
                                                     Plans launched to boost organic profits via Bhakti Farm Market.
@@ -1237,7 +1230,8 @@
                                             <div class="blog__item-left-content">
                                                 <span class="blog__tag">Environment</span>
                                                 <h3>UP's Push for Large-Scale Organic
-                                                        Farming</></h3>
+                                                    Farming</>
+                                                </h3>
                                                 <p>Targeting 50 lakh farmers under the Viksit Krishi Sankalp
                                                     Abhiyan.
                                                     Initiative includes KVK upgrades and drone-based crop tech
@@ -1267,7 +1261,7 @@
                             <img src="assets/images/logo/latest_img.png" alt="image">
                         </div>
                         <h3 class="p-2">Organic agriculture promotes healthy soil, chemical-free
-                                crops, and sustainable living</a>
+                            crops, and sustainable living</a>
                         </h3>
                         <!-- <div class="d-flex align-items-center justify-content-between">
                                 <span class="blog__tag">Environment</span>
