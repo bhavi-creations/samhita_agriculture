@@ -47,7 +47,7 @@
             <div class="row">
                 <div class="col-xl-4">
                     <div class="banner__image wow fadeInLeft" data-wow-duration="1.2s" data-wow-delay=".2s">
-                        <img src="assets/images/logo/main_img11.png" alt="image">
+                        <img src="assets/images/logo/fffffff.png" alt="image">
                         <!-- <div class="banner__image-text">
                                 <img src="assets/images/banner/text.png" alt="strock-text">
                             </div> -->

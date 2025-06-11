@@ -338,11 +338,11 @@
                         </h3>
 
 
-                        <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s">1. Pseudomonas fluorescens 1% - WP: Controls soil-borne and seed-borne plant pathogens, including fungi, bacteria, and nematodes. <br>
-                            2. Pseudomonas fluorescens 1.5% LF: Same description as above. <br>
-                            3. Bacillus subtilis - 1.5% LF: Fungicide, bactericide, and growth promoter. <br>
-                            4. Trichoderma viride - 1.5% L.F.: Fungicide and growth promoter. <br>
-                            5. Trichoderma harzianum - 2.0% A.S: Fungicide and growth promoter.
+                        <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s">  <strong>1. Pseudomonas fluorescens 1% - WP:</strong> Controls soil-borne and seed-borne plant pathogens, including fungi, bacteria, and nematodes. <br>
+                        <strong>      2. Pseudomonas fluorescens 1.5% LF:</strong> Same description as above. <br>
+                        <strong>    3. Bacillus subtilis - 1.5% LF:</strong>  Fungicide, bactericide, and growth promoter. <br>
+                        <strong>   4. Trichoderma viride - 1.5% L.F.:</strong>   Fungicide and growth promoter. <br>
+                        <strong>   5. Trichoderma harzianum - 2.0% A.S:</strong>   Fungicide and growth promoter.
                         </p>
                     </div>
 
@@ -353,9 +353,9 @@
                     </h3>
 
 
-                    <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s">1. Nitrogen, N biofertilizer (Azatobacter tropicalis): Fixes nitrogen from air, soil, and root nodules for healthy plant growth. <br>
-                        2. Phosphorus & Zinc, P& Zn biofertilizer (Bacillus aryabhattai): Solubilizes zinc and phosphate for plant strength and resistance. <br>
-                        3. Potassium, K biofertilizer (Pseudomonas taiwanensis): Mobilizes potassium ions for high-quality crop yields.
+                    <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s">  <strong> 1. Nitrogen, N biofertilizer (Azatobacter tropicalis): </strong>Fixes nitrogen from air, soil, and root nodules for healthy plant growth. <br>
+                    <strong> 2. Phosphorus & Zinc, P& Zn biofertilizer (Bacillus aryabhattai):</strong> Solubilizes zinc and phosphate for plant strength and resistance. <br>
+                    <strong>  3. Potassium, K biofertilizer (Pseudomonas taiwanensis):</strong>  Mobilizes potassium ions for high-quality crop yields.
                     </p>
                     <!-- <div class="d-flex align-items-center gap-5 flex-wrap mt-45 mb-30">
                         <ul class="wow fadeInDown" data-wow-duration="1.4s" data-wow-delay=".4s">
@@ -377,7 +377,7 @@
                 </div>
                 <div class="col-xl-6">
                     <div class="image">
-                        <img src="assets/images/logo/old_farming.png" alt="image">
+                        <img src="assets/images/logo/olod_images_2.png" alt="image">
                     </div>
                 </div>
             </div>
