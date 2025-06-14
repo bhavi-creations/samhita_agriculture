@@ -338,11 +338,11 @@
                         </h3>
 
 
-                        <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s">  <strong>1. Pseudomonas fluorescens 1% - WP:</strong> Controls soil-borne and seed-borne plant pathogens, including fungi, bacteria, and nematodes. <br>
-                        <strong>      2. Pseudomonas fluorescens 1.5% LF:</strong> Same description as above. <br>
-                        <strong>    3. Bacillus subtilis - 1.5% LF:</strong>  Fungicide, bactericide, and growth promoter. <br>
-                        <strong>   4. Trichoderma viride - 1.5% L.F.:</strong>   Fungicide and growth promoter. <br>
-                        <strong>   5. Trichoderma harzianum - 2.0% A.S:</strong>   Fungicide and growth promoter.
+                        <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s"> <strong>1. Pseudomonas fluorescens 1% - WP:</strong> Controls soil-borne and seed-borne plant pathogens, including fungi, bacteria, and nematodes. <br>
+                            <strong> 2. Pseudomonas fluorescens 1.5% LF:</strong> Same description as above. <br>
+                            <strong> 3. Bacillus subtilis - 1.5% LF:</strong> Fungicide, bactericide, and growth promoter. <br>
+                            <strong> 4. Trichoderma viride - 1.5% L.F.:</strong> Fungicide and growth promoter. <br>
+                            <strong> 5. Trichoderma harzianum - 2.0% A.S:</strong> Fungicide and growth promoter.
                         </p>
                     </div>
 
@@ -353,9 +353,9 @@
                     </h3>
 
 
-                    <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s">  <strong> 1. Nitrogen, N biofertilizer (Azatobacter tropicalis): </strong>Fixes nitrogen from air, soil, and root nodules for healthy plant growth. <br>
-                    <strong> 2. Phosphorus & Zinc, P& Zn biofertilizer (Bacillus aryabhattai):</strong> Solubilizes zinc and phosphate for plant strength and resistance. <br>
-                    <strong>  3. Potassium, K biofertilizer (Pseudomonas taiwanensis):</strong>  Mobilizes potassium ions for high-quality crop yields.
+                    <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s"> <strong> 1. Nitrogen, N biofertilizer (Azatobacter tropicalis): </strong>Fixes nitrogen from air, soil, and root nodules for healthy plant growth. <br>
+                        <strong> 2. Phosphorus & Zinc, P& Zn biofertilizer (Bacillus aryabhattai):</strong> Solubilizes zinc and phosphate for plant strength and resistance. <br>
+                        <strong> 3. Potassium, K biofertilizer (Pseudomonas taiwanensis):</strong> Mobilizes potassium ions for high-quality crop yields.
                     </p>
                     <!-- <div class="d-flex align-items-center gap-5 flex-wrap mt-45 mb-30">
                         <ul class="wow fadeInDown" data-wow-duration="1.4s" data-wow-delay=".4s">
@@ -485,7 +485,21 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="involve-two__item help-area__item">
+
+                    <div class="section-header mb-4">
+                        <h5 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s"><img
+                                src="assets/images/icon/leaf.svg" alt="image"> HOW YOU CAN HELP</h5>
+                        <h2 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">🌱 Fundamental Nutrients for Healthy Soil
+
+
+                        </h2>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong>  N (Nitrogen):* </strong> Your statement that Nitrogen is "basically for vegetation" is spot on. Nitrogen is a primary component of chlorophyll, the molecule responsible for photosynthesis, and a crucial building block for amino acids, proteins, and nucleic acids. This directly translates to robust *vegetative growth*, leading to lush foliage, stems, and overall plant size</p>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong>P (Phosphorus) & Zn (Zinc):* </strong> You've linked these to "root and shoot strength & resistance." This is largely accurate</p>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> Phosphorus*  </strong>is vital for energy transfer within the plant (ATP), which is essential for cell division and the development of strong root systems. A well-developed root system is fundamental for nutrient and water uptake, contributing to overall plant vigor and stability, which can be interpreted as "strength." It also plays a role in early plant growth and maturity</p>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> *Zinc*  </strong> is a micronutrient that acts as a cofactor for many enzymes involved in plant metabolism. It's crucial for auxin synthesis (a growth hormone) and protein synthesis. Zinc deficiency can lead to stunted growth and poor development. Its role in overall plant health and metabolic processes indirectly contributes to the plant's ability to withstand stress and thus its "resistance" to various factors </p>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong>K (Potassium):*  </strong> Your summary of Potassium being "basically for immunity and better Reproduction" is excellent. </p>
+                    </div>
+                    <!-- <div class="involve-two__item help-area__item">
                         <div class="section-header mb-4">
                             <h5 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s"><img
                                     src="assets/images/icon/leaf.svg" alt="image"> HOW YOU CAN HELP</h5>
@@ -544,25 +558,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- <div class="accordion-item wow fadeInDown" data-wow-duration="1.8s"
-                                    data-wow-delay=".8s">
-                                    <h2 class="accordion-header" id="heading4">
-                                        <button class="accordion-button collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false"
-                                            aria-controls="collapse4">
-                                            Eco Development
-                                        </button>
-                                    </h2>
-                                    <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4"
-                                        data-bs-parent="#accordionExample-two">
-                                        <div class="accordion-body">
-                                            <p>Tree planting is the act of planting young trees, shrubs, or other woody
-                                                plants into the ground to establish new forests
-                                                or enhance existing ones. It is a crucial component of environmental</p>
-                                        </div>
-                                    </div>
-                                </div> -->
-
+                           
                             <div class="accordion-item bor-top wow fadeInDown  dropdown_content_about" data-wow-duration="1.4s"
                                 data-wow-delay=".4s">
                                 <h2 class="accordion-header" id="heading5">
@@ -615,9 +611,9 @@
                             </div>
                         </div>
 
-                        <!-- <a href="#0" class="btn-one mt-35"><span>join with us</span> <i
-                                class="fa-solid fa-angles-right"></i></a> -->
-                    </div>
+                        <a href="#0" class="btn-one mt-35"><span>join with us</span> <i
+                                class="fa-solid fa-angles-right"></i></a>
+                    </div> -->
                 </div>
             </div>
         </div>

@@ -57,6 +57,11 @@
                                         class="fa-solid fa-chevron-right pe-1 primary-color"></i> About
                                 </a>
                             </li>
+
+                            <li class="pb-1"><a href="gallery.php"><i
+                                        class="fa-solid fa-chevron-right pe-1 primary-color"></i> Gallery
+                                </a>
+                            </li>
                             <!-- <li class="pb-1"><a href="service.php"><i
                                             class="fa-solid fa-chevron-right pe-1 primary-color"></i> Service
                                 </li> -->
