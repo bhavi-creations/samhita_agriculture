@@ -3,7 +3,41 @@
     <div class="container">
         <div class="pt-65 pb-65">
             <div class="row g-4">
-                <div class="col-xl-3 col-md-6 wow fadeInUp sub_menu_section" data-wow-duration="1.2s" data-wow-delay=".2s">
+
+                <div class="col-xl-2 col-md-6 wow fadeInUp" data-wow-duration="1.8s" data-wow-delay=".8s">
+                    <!-- <div class="footer__item">
+                            <div class="footer__item-title">
+                                <h4>recent news</h4>
+                                <span class="footer__item-title-line"></span><span
+                                    class="footer__item-title-line2"></span>
+                            </div>
+                            <ul class="footer__item-blog">
+                                <li class="pb-3">
+                                    <img src="assets/images/footer/01.png" alt="image">
+                                    <div class="ms-3">
+                                        <h4><a href="blog-single.php">Close up picture of the sapling</a></h4>
+                                        <span>2 weeks ago</span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <img src="assets/images/footer/02.png" alt="image">
+                                    <div class="ms-3">
+                                        <h4><a href="blog-single.php">Close up picture of the sapling</a></h4>
+                                        <span>2 weeks ago</span>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div> -->
+
+
+                    <a href="index.php"> <img src="assets/images/logo/logo_111.png" alt="" class="img-fluid w-100"></a>
+
+
+
+                </div>
+
+
+                <div class="col-xl-4 col-md-6 wow fadeInUp sub_menu_section" data-wow-duration="1.2s" data-wow-delay=".2s">
                     <div class="footer__item">
                         <div class="footer__item-title">
                             <h4>about Agricultural</h4>
@@ -18,30 +52,11 @@
                                     class="fa-solid fa-location-arrow"></i></a> -->
                     </div>
                 </div>
-                <div class="col-xl-3 col-md-6 wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">
-                    <div class="footer__item sub_menu_section">
-                        <div class="footer__item-title">
-                            <h4>Get in touch!</h4>
-                            <span class="footer__item-title-line"></span><span
-                                class="footer__item-title-line2"></span>
-                        </div>
-                        <ul>
-                            <li class="pb-3"><a href="#0"><i
-                                        class="fa-solid fa-location-dot pe-1 primary-color"></i>
-                                    2-46-26/21, venkat nagar kakinada -533003
-                                </a>
-                            </li>
-                            <li class="pb-3"><a href="tel:+91-9848549349"><i
-                                        class="fa-solid fa-phone-volume pe-1 primary-color"></i>
-                                    91-9848549349, <br> &nbsp; &nbsp; 9491822559
-                                </a></li>
-                            <li><a href="#0"><i class="fa-solid fa-envelope pe-1 primary-color"></i>
-                                    samhitasoilsolutions@gmail.com </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-md-6 wow fadeInUp sub_menu_section " data-wow-duration="1.6s" data-wow-delay=".6s">
+
+
+
+
+                <div class="col-xl-2 col-md-6 wow fadeInUp sub_menu_section " data-wow-duration="1.6s" data-wow-delay=".6s">
                     <div class="footer__item">
                         <div class="footer__item-title">
                             <h4>Quick Link</h4>
@@ -84,37 +99,35 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-xl-3 col-md-6 wow fadeInUp" data-wow-duration="1.8s" data-wow-delay=".8s">
-                    <!-- <div class="footer__item">
-                            <div class="footer__item-title">
-                                <h4>recent news</h4>
-                                <span class="footer__item-title-line"></span><span
-                                    class="footer__item-title-line2"></span>
-                            </div>
-                            <ul class="footer__item-blog">
-                                <li class="pb-3">
-                                    <img src="assets/images/footer/01.png" alt="image">
-                                    <div class="ms-3">
-                                        <h4><a href="blog-single.php">Close up picture of the sapling</a></h4>
-                                        <span>2 weeks ago</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <img src="assets/images/footer/02.png" alt="image">
-                                    <div class="ms-3">
-                                        <h4><a href="blog-single.php">Close up picture of the sapling</a></h4>
-                                        <span>2 weeks ago</span>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div> -->
-
-
-                    <a href="index.php"> <img src="assets/images/logo/logo_111.png" alt="" class="img-fluid"></a>
 
 
 
+
+
+                <div class="col-xl-4 col-md-6 wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">
+                    <div class="footer__item sub_menu_section">
+                        <div class="footer__item-title">
+                            <h4>Get in touch!</h4>
+                            <span class="footer__item-title-line"></span><span
+                                class="footer__item-title-line2"></span>
+                        </div>
+                        <ul>
+                            <li class="pb-3"><a href="#0"><i
+                                        class="fa-solid fa-location-dot pe-1 primary-color"></i>
+                                    2-46-26/21, venkat nagar kakinada -533003
+                                </a>
+                            </li>
+                            <li class="pb-3"><a href="tel:+91-9848549349"><i
+                                        class="fa-solid fa-phone-volume pe-1 primary-color"></i>
+                                    91-9848549349, <br> &nbsp; &nbsp; &nbsp; &nbsp; 9491822559
+                                </a></li>
+                            <li><a href="#0"><i class="fa-solid fa-envelope pe-1 primary-color"></i>
+                                    samhitasoilsolutions@gmail.com </a>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
+
             </div>
         </div>
     </div>

@@ -317,7 +317,7 @@
     <!-- Achievement area end here -->
 
     <!-- History area start here -->
-    <section class="about-two history-area pt-130 pb-130">
+    <section class="about-two history-area pt-65 pb-65">
         <div class="container">
             <div class="row g-5 align-items-center">
                 <div class="col-xl-6">
@@ -476,15 +476,15 @@
     <!-- Team area end here -->
 
     <!-- Involved area start here -->
-    <section class="involve-two help-area mt-130 mb-130">
+    <section class="involve-two help-area mt-65 mb-65">
         <div class="container">
             <div class="row g-4">
-                <div class="col-lg-6">
+                <div class="col-xl-6 ">
                     <div class="image pe-lg-5 pe-0">
                         <img src="assets/images/logo/help_img.png" alt="image">
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-xl-6 ">
 
                     <div class="section-header mb-4">
                         <h5 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s"><img
@@ -621,7 +621,7 @@
     <!-- Involved area end here -->
 
     <!-- Testimonial area start here -->
-    <section class="testimonial pt-130 pb-130 sub-bg">
+    <section class="testimonial pt-65 pb-130 sub-bg">
         <div class="container">
             <div class="testimonial__head-wrp mb-65">
                 <div class="section-header m-0">
