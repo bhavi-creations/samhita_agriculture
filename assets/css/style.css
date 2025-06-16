@@ -37,6 +37,9 @@ CSS TABLE OF CONTENTS
 
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap'); */
 :root {
   --inter: "Inter", sans-serif;
   --primary-color: #4baf47;
@@ -60,6 +63,8 @@ CSS TABLE OF CONTENTS
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   outline: none;
+  font-family: "poppins", Georgia;
+ 
 }
 
 body {
@@ -8516,6 +8521,7 @@ margin-bottom: 2px;
 
 .header_one__logo {
   padding: 0px 10px;
+  display: flex;
 }
 
 .sub-menu li a {
@@ -8550,3 +8556,187 @@ margin-bottom: 2px;
     .button_contact{
       padding: 30px !important;
     }
+
+
+
+
+
+
+    /* General menu styling */
+.main-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.main-menu li {
+  position: relative;
+}
+.main-menu li a {
+  display: block;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: #2e7d32;
+  font-weight: 600;
+}
+
+/* Submenu */
+.sub-menu {
+  display: none;
+  position: absolute;
+  background-color: #f8e9e9;
+  top: 100%;
+  left: 0;
+  min-width: 180px;
+  z-index: 999;
+  border-radius: 5px;
+}
+.has-submenu:hover .sub-menu {
+  display: block;
+}
+.sub-menu li a {
+  padding: 8px 20px;
+}
+
+/* Hamburger icon */
+.header-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  cursor: pointer;
+}
+.header-bar span {
+  width: 25px;
+  height: 3px;
+  background-color: #2e7d32;
+}
+
+/* Mobile menu toggle */
+.mobile-menu {
+  display: none;
+}
+.mobile-menu.show-mobile {
+  display: block;
+}
+.mobile-menu .sub-menu {
+  position: static;
+  background-color: #f8f8f8;
+}
+
+.header_color_section{
+  background-color: green !
+  ;
+}
+
+.main_section_home{
+  background-color: #ecfbde !important;
+}
+
+.first_images_section{
+ /* padding: 100px !important; */
+ /* justify-content: center; */
+}
+.mobile_device_image{
+  padding: 0px 0px !important;
+}
+.mobile_device_image img{
+  border: 2px solid #ecfbde !important;
+
+}
+
+.first_images_section p{
+  font-weight: 500;
+}
+
+.mobile_device_image img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+
+@media (max-width:768px)  {
+  .first_images_section{
+   padding: 40px !important;
+   }
+}
+
+
+@media (min-width:768px)  and (max-width:992px ) {
+  .first_images_section{
+   /* padding: 40px !important; */
+   padding-left: 60px !important;
+   padding: 20px 0px;
+   }
+}
+
+/* card stylings  */
+.progress-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  /* background-color: #fff; */
+  background-color: #ecfbde;
+
+
+
+ 
+}
+
+/* card stylings  */
+
+.progress-card:hover{
+  background-color:#cbe6b2 !important ;
+}
+.transition-hover:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.progress {
+  height: 15px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  font-size: 12px;
+  line-height: 8px;
+}
+.card_section{
+  padding: 20px;
+}
+
+
+
+
+@media (min-width:992px)  and (max-width:1200px ) {
+  .first_images_section{
+   padding-left: 60px !important ;
+   padding: 20px 0px;
+   }
+}
+
+.second_images_section{
+  display: flex;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+
+
+@media (min-width:1200px)  and (max-width:1600px ) {
+  .first_images_section{
+   padding-left: 150px !important ;
+  padding-top: 80px;
+   }
+}
+
+.service{
+  background-color: #e3eadc ;
+}
+
+.first_images_section h3{
+  font-family: 'Gill Sans';
+}
+.first_images_section p{
+  font-family: 'Segoe UI';
+}

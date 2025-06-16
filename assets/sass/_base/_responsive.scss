@@ -73,7 +73,7 @@
 		padding: 10px 0;
 	}
 	.menu-btn-wrapper {
-		display: none;
+		// display: none;
 	}
 	.header-wrapper {
 		.logo-menu {
@@ -95,7 +95,7 @@
 		overflow-y: auto;
 		overflow-x: hidden;
 		&:not(.active) {
-			display: none !important;
+			// display: none !important;
 			transition: var(--transition);
 		}
 		li {
@@ -190,7 +190,7 @@
 			display: block;
 		}
 		.light_logo {
-			display: none;
+			// display: none;
 		}
 	}
 	.header-one {
@@ -218,7 +218,7 @@
 	}
 	.header-five {
 		.header-top {
-			display: none !important;
+			// display: none !important;
 		}
 		.header-bar {
 			span {

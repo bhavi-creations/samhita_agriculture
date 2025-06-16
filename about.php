@@ -314,6 +314,7 @@
     </section>
 
 
+
     <!-- Achievement area end here -->
 
     <!-- History area start here -->
@@ -493,11 +494,11 @@
 
 
                         </h2>
-                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong>  N (Nitrogen):* </strong> Your statement that Nitrogen is "basically for vegetation" is spot on. Nitrogen is a primary component of chlorophyll, the molecule responsible for photosynthesis, and a crucial building block for amino acids, proteins, and nucleic acids. This directly translates to robust *vegetative growth*, leading to lush foliage, stems, and overall plant size</p>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> N (Nitrogen):* </strong> Your statement that Nitrogen is "basically for vegetation" is spot on. Nitrogen is a primary component of chlorophyll, the molecule responsible for photosynthesis, and a crucial building block for amino acids, proteins, and nucleic acids. This directly translates to robust *vegetative growth*, leading to lush foliage, stems, and overall plant size</p>
                         <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong>P (Phosphorus) & Zn (Zinc):* </strong> You've linked these to "root and shoot strength & resistance." This is largely accurate</p>
-                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> Phosphorus*  </strong>is vital for energy transfer within the plant (ATP), which is essential for cell division and the development of strong root systems. A well-developed root system is fundamental for nutrient and water uptake, contributing to overall plant vigor and stability, which can be interpreted as "strength." It also plays a role in early plant growth and maturity</p>
-                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> *Zinc*  </strong> is a micronutrient that acts as a cofactor for many enzymes involved in plant metabolism. It's crucial for auxin synthesis (a growth hormone) and protein synthesis. Zinc deficiency can lead to stunted growth and poor development. Its role in overall plant health and metabolic processes indirectly contributes to the plant's ability to withstand stress and thus its "resistance" to various factors </p>
-                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong>K (Potassium):*  </strong> Your summary of Potassium being "basically for immunity and better Reproduction" is excellent. </p>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> Phosphorus* </strong>is vital for energy transfer within the plant (ATP), which is essential for cell division and the development of strong root systems. A well-developed root system is fundamental for nutrient and water uptake, contributing to overall plant vigor and stability, which can be interpreted as "strength." It also plays a role in early plant growth and maturity</p>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> *Zinc* </strong> is a micronutrient that acts as a cofactor for many enzymes involved in plant metabolism. It's crucial for auxin synthesis (a growth hormone) and protein synthesis. Zinc deficiency can lead to stunted growth and poor development. Its role in overall plant health and metabolic processes indirectly contributes to the plant's ability to withstand stress and thus its "resistance" to various factors </p>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong>K (Potassium):* </strong> Your summary of Potassium being "basically for immunity and better Reproduction" is excellent. </p>
                     </div>
                     <!-- <div class="involve-two__item help-area__item">
                         <div class="section-header mb-4">

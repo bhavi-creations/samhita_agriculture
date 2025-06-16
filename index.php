@@ -31,6 +31,108 @@
 <!-- Sidebar area end here -->
 
 <main>
+    <!-- <section class="d-block d-lg-none">
+        <div class="containe mobile_device_image">
+            <div class="row justify-content-center">
+                <div class="col-12 p-3">
+                    <img src="./assets/images/logo/mobile_devices_images.png" alt="Mobile Devices" class="img-fluid w-100" style="max-width: 100%; height: auto;">
+                </div>
+            </div>
+        </div>
+    </section> -->
+
+
+
+    <section class="main_section_home ">
+        <div class="container-fluid">
+
+
+            <div class="row ">
+
+                <div class=" col-12 col-md-6 first_images_section">
+                    <h3>
+                        🌿 The Organic Way to a Better Future
+                    </h3>
+                    <p class="">Embracing organic farming supports health, protects the environment, and ensures a sustainable future.
+                        It nurtures soil, preserves biodiversity, and delivers chemical-free, nutritious food</p>
+                    <!-- <p> 🌾 Healthy Soil Management</p>
+                    <p>🐞 Promotes Biodiversity</p>
+                    <p>💧 Water Conservation</p>
+                    <p>🌍 Eco-Friendly Approach</p> -->
+
+                </div>
+                <div class=" col-12 col-md-6   second_images_section ">
+
+                    <img src="./assets/images/logo/cc_images.jpg" alt="" class="img-fluid">
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+    <section class="card_section">
+        <div class="container">
+            <!-- Add this inside a container or section -->
+            <div class="row">
+                <!-- Card 1 -->
+                <div class="col-md-4 mb-4">
+                    <div class="progress-card p-4 text-center shadow-sm rounded h-100 transition-hover">
+                        <i class="fas fa-leaf fa-2x mb-3 text-success"></i>
+
+                        <!-- <img src="assets/images/icons/carbon.png" alt="Carbon Icon" class="mb-3" style="width: 60px;"> -->
+                        <h5 class="mb-2">Carbon Offsetting</h5>
+                        <p class="small text-muted">Carbon Offsetting in organic farming helps reduce greenhouse gas emissions by promoting natural carbon absorption through healthy soil practices</p>
+                        <div class="progress mt-3">
+                            <div class="progress-bar bg-success" style="width: 80%;" role="progressbar" aria-valuenow="80"
+                                aria-valuemin="0" aria-valuemax="100">80%</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card 2 -->
+                <div class="col-md-4 mb-4">
+                    <div class="progress-card p-4 text-center shadow-sm rounded h-100 transition-hover">
+                        <i class="fas fa-tint fa-2x mb-3 text-primary"></i>
+
+                        <!-- <img src="assets/images/icons/water.png" alt="Water Icon" class="mb-3" style="width: 60px;"> -->
+                        <h5 class="mb-2">Water Conservation</h5>
+                        <p class="small text-muted">Water Conservation in organic farming ensures efficient water use through natural methods like mulching, composting, and rainwater harvesting</p>
+                        <div class="progress mt-3">
+                            <div class="progress-bar bg-primary" style="width: 90%;" role="progressbar" aria-valuenow="90"
+                                aria-valuemin="0" aria-valuemax="100">90%</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card 3 -->
+                <div class="col-md-4 mb-4">
+                    <div class="progress-card p-4 text-center shadow-sm rounded h-100 transition-hover">
+                        <i class="fas fa-recycle fa-2x mb-3 text-warning"></i>
+
+                        <!-- <img src="assets/images/icons/ewaste.png" alt="E-waste Icon" class="mb-3" style="width: 60px;"> -->
+                        <h5 class="mb-2">E-Waste Recycling</h5>
+                        <p class="small text-muted">E-Waste Recycling supports organic farming by promoting sustainability and reducing environmental pollution from discarded electronic materials</p>
+                        <div class="progress mt-3">
+                            <div class="progress-bar bg-warning" style="width: 70%;" role="progressbar" aria-valuenow="70"
+                                aria-valuemin="0" aria-valuemax="100">70%</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+
+
+
+
+
+
     <!-- Banner area start here -->
     <section class="banner" data-background="assets/images/bg/banner1.jpg">
         <div class="banner__shape d-none d-xxl-block wow bounceInRight" data-wow-duration=".6s"
@@ -84,7 +186,7 @@
     <!-- Banner area end here -->
 
     <!-- About area start here -->
-    <section class="about pt-60 pb-65">
+    <!-- <section class="about pt-60 pb-65">
         <div class="about__leaf fall__animation">
             <img src="assets/images/about/leaf.png" alt="">
         </div>
@@ -99,7 +201,7 @@
                             Organic agriculture is a holistic approach to growing food in harmony with nature, emphasizing healthy soil, biodiversity, and eco-friendly practices. Techniques like composting, crop rotation, and natural pest control yield safer, more nutritious crops while minimizing environmental impact
                     </div>
                     <div class="about__info wow fadeInUp" data-wow-duration="1.8s" data-wow-delay=".8s">
-                        <!-- <div class="about__info-info-con">
+                        <div class="about__info-info-con">
                                 <ul>
                                     <li>
                                         <img src="assets/images/about/info.png" alt="image">
@@ -112,7 +214,7 @@
                             </div>
                             <div class="about__info-signature">
                                 <img src="assets/images/about/signature.png" alt="icon">
-                            </div> -->
+                            </div>
                     </div>
                 </div>
                 <div class="col-xl-5">
@@ -154,7 +256,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- About area end here -->
 
 

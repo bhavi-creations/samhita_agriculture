@@ -24,6 +24,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 
 
@@ -56,52 +57,51 @@
 
     <section>
         <marquee class="marquee-section">
-        Organic Farming  Growing Naturally for a Healthier Future &nbsp; &nbsp; / &nbsp; &nbsp;
-        Improves Soil Health &nbsp; &nbsp; / &nbsp; &nbsp;
-        Produces Safe and Nutritious Food &nbsp; &nbsp; / &nbsp; &nbsp;
-        Protects the Environment 
+            Organic Farming Growing Naturally for a Healthier Future &nbsp; &nbsp; / &nbsp; &nbsp;
+            Improves Soil Health &nbsp; &nbsp; / &nbsp; &nbsp;
+            Produces Safe and Nutritious Food &nbsp; &nbsp; / &nbsp; &nbsp;
+            Protects the Environment
 
         </marquee>
     </section>
 
     <!-- Header area start here -->
-    <header class="header header-one bor-bottom">
+    <header class="header header-one bor-bottom d-block d-xl-none">
         <div class="header-section">
             <div class="d-flex justify-content-between align-items-center">
 
                 <div class="header_one__logo d-none d-xl-block pb-3">
                     <a href="index.php">
-                        <img src="assets/images/logo/header_logo.png" alt="logo" class="img-fluid" >
+                        <img src="assets/images/logo/header_logo.png" alt="logo" class="img-fluid">
                     </a>
                 </div>
                 <div class="header-one__item w-100">
                     <div class="header-wrapper flex-column text-center">
 
-                        <!-- Samhitha Title (always centered) -->
                         <div class="samhitha-title py-2 d-block d-md-none">
                             <strong class="samhitha_agri">
-                                SAMHITA  <br> Soil  <br>    Solutions  </strong>
+                                SAMHITA <br> Soil <br> Solutions </strong>
 
 
-                                
+
                         </div>
 
-                      
+
 
                         <div class="samhitha-title  d-none d-md-block">
                             <strong class="samhitha_agri">SAMHITA&nbsp;Soil&nbsp;Solutions </strong>
                         </div>
 
-                        <!-- Mobile: Logo Left + Toggle Right -->
+
                         <div class="d-flex justify-content-between align-items-center d-xl-none mobile_toggle_bar px-3 w-100">
-                            <!-- Logo on Left -->
+
                             <div class="logo-menu">
                                 <a href="index.php" class="logo">
                                     <img src="assets/images/logo/logo_111.png" alt="logo" style="width: 70px;">
                                 </a>
                             </div>
 
-                            <!-- Toggle on Right -->
+
                             <div class="header-bar"
                                 onclick="document.querySelector('.main-menu').classList.toggle('show-mobile')">
                                 <span></span>
@@ -123,8 +123,7 @@
 
 
 
-                        
-                        <!-- Navigation Menu -->
+
                         <ul class="main-menu mx-auto">
                             <li><a href="index.php">Home</a></li>
                             <li><a href="about.php">About Us</a></li>
@@ -153,9 +152,7 @@
 
                 <div class="header-one__item sub_menu_section d-none d-xl-block">
                     <ul class="header-wrapper header-one__info bor-left">
-                        <!-- <li class="menu-btn">
-                  <a href="contact.php"><span>Get a quote</span> <i class="fa-solid fa-angles-right"></i></a>
-                </li> -->
+
                         <li class="menu_info bg-image ms-0" data-background="assets/images/header/header-info-bg.png">
                             <i class="fa-solid call_ico fa-phone-volume"></i>
                             <div class="call_info">
@@ -174,11 +171,51 @@
 
 
 
+    <!-- Desktop Header: visible on ≥992px -->
+    <header class="header header-one bor-bottom d-none d-xl-block  header_color_section">
+        <div class="header-section">
+            <div class="d-flex justify-content-between align-items-center flex-wrap px-3">
 
+                <!-- Logo + Name -->
+                <div class="header_one__logo d-flex align-items-center">
+                    <a href="index.php">
+                        <img src="assets/images/logo/header_logo.png" alt="logo" class="img-fluid" style="width: 70px;">
+                    </a>
+                    <div class="ms-2 text-uppercase fw-bold" style="color:#2e7d32; line-height: 1.2;">
+                        <p class="mb-0">Samhita</p>
+                        <p class="mb-0">Soil</p>
+                        <p class="mb-0">Solutions</p>
+                    </div>
+                </div>
 
+                <!-- Desktop Menu -->
+                <div class="desktop-menu d-flex ms-auto">
+                    <ul class="main-menu d-flex mb-0 list-unstyled">
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="about.php">About Us</a></li>
+                        <li class="has-submenu">
+                            <a href="service.php">Services</a>
+                            <ul class="sub-menu">
+                                <li><a href="biopesticides.php">Biopesticides</a></li>
+                                <li><a href="biofertilizers.php">Biofertilizers</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="gallery.php">Gallery</a></li>
+                        <li><a href="contact.php">Contact Us</a></li>
+                    </ul>
+                </div>
 
+            </div>
+        </div>
+    </header>
 
     
+
+
+
+
+
+
 
 
     <!-- <script>
