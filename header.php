@@ -54,7 +54,6 @@
 
 
 
-
     <section>
         <marquee class="marquee-section">
             Organic Farming Growing Naturally for a Healthier Future &nbsp; &nbsp; / &nbsp; &nbsp;

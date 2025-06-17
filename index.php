@@ -685,10 +685,16 @@
             </div>
 
 
+            <div class="index_section">            <img src="assets/images/about/leaf.png" alt="" >
+</div>
+
             <div class="service_details align-items-center">
                 <a href="service.php" class="btn-one wow fadeInUp button_service" data-wow-duration="1.5s"
                     data-wow-delay=".5s"><span>More Details</span> <i class="fa-solid fa-angles-right"></i></a>
             </div>
+
+
+
             <!-- <div class="row g-4">
                     <div class="col-xl-6">
                         <div class="service__left-item">

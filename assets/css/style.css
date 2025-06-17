@@ -2114,7 +2114,9 @@ input {
 }
 
 .header-section {
-  background-color: var(--white);
+  /* background-color: var(--white); */
+  background-color: #ecfbde
+ !important;
 }
 
 .menu-fixed {
@@ -8254,6 +8256,9 @@ text-align: center;
   background: #f9f9f9;
   padding: 20px;
   border: 1px solid #ccc;
+  /* font-family: "adobe-garamond-pro"; */
+  font-family: sans-serif;
+
 }
 
 .custom-tab-content.active {
@@ -8623,7 +8628,7 @@ margin-bottom: 2px;
 }
 
 .header_color_section{
-  background-color: green !
+  background-color: green  !important
   ;
 }
 
@@ -8739,4 +8744,20 @@ margin-bottom: 2px;
 }
 .first_images_section p{
   font-family: 'Segoe UI';
+}
+
+
+
+
+.index_section {
+    /* position: relative; */
+}
+
+.index_section img {
+    position: absolute;
+    bottom: 50px;
+    right: 0;
+    width: 100px; /* Adjust size as needed */
+    height: auto;
+    z-index: 10;
 }
