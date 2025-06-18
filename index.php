@@ -43,30 +43,41 @@
 
 
 
-    <section class="main_section_home ">
+    <section class="main_section_home  ">
         <div class="container-fluid">
 
 
             <div class="row ">
 
+
+
                 <div class=" col-12 col-md-6 first_images_section">
                     <h3>
-                        🌿 The Organic Way to a Better Future
+                        🌿 Soil is the Heart of  <span class="organic_index"> Organic Farming</span> 
                     </h3>
-                    <p class="">Embracing organic farming supports health, protects the environment, and ensures a sustainable future.
-                        It nurtures soil, preserves biodiversity, and delivers chemical-free, nutritious food</p>
-                    <!-- <p> 🌾 Healthy Soil Management</p>
-                    <p>🐞 Promotes Biodiversity</p>
-                    <p>💧 Water Conservation</p>
-                    <p>🌍 Eco-Friendly Approach</p> -->
+                    <p class="">We enrich it naturally through composting and organic methods to boost fertility and biodiversity.
+                        Healthy soil leads to thriving crops, balanced ecosystems, and chemical-free food production</p>
+                        <!-- <p>
+                        We enrich it organically through composting and sustainable methods to boost fertility and biodiversity. Healthy soil leads to thriving crops, balanced ecosystems, and chemical-free food production. Our organic practices nurture the land without depleting it, ensuring sustainability for generations to come. By working in harmony with organic principles, we grow food that is as pure as the soil it comes from
+                        </p> -->
+
 
                 </div>
                 <div class=" col-12 col-md-6   second_images_section ">
 
-                    <img src="./assets/images/logo/cc_images.jpg" alt="" class="img-fluid">
+                    <img src="./assets/images/logo/22.png" alt="" class="img-fluid">
                 </div>
             </div>
+            <div class="index_section_1"> <img src="assets/images/about/leaf.png" alt="">
+            </div>
         </div>
+
+
+
+
+        <!-- <div class="why-choose-one__shape-1 float-bob-y">
+            <img src="assets/images/logo/why-choose-one-shape-2.png" alt="" class="img-fluid">
+        </div> -->
     </section>
 
 
@@ -74,58 +85,6 @@
 
 
 
-    <section class="card_section">
-        <div class="container">
-            <!-- Add this inside a container or section -->
-            <div class="row">
-                <!-- Card 1 -->
-                <div class="col-md-4 mb-4">
-                    <div class="progress-card p-4 text-center shadow-sm rounded h-100 transition-hover">
-                        <i class="fas fa-leaf fa-2x mb-3 text-success"></i>
-
-                        <!-- <img src="assets/images/icons/carbon.png" alt="Carbon Icon" class="mb-3" style="width: 60px;"> -->
-                        <h5 class="mb-2">Carbon Offsetting</h5>
-                        <p class="small text-muted">Carbon Offsetting in organic farming helps reduce greenhouse gas emissions by promoting natural carbon absorption through healthy soil practices</p>
-                        <div class="progress mt-3">
-                            <div class="progress-bar bg-success" style="width: 80%;" role="progressbar" aria-valuenow="80"
-                                aria-valuemin="0" aria-valuemax="100">80%</div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Card 2 -->
-                <div class="col-md-4 mb-4">
-                    <div class="progress-card p-4 text-center shadow-sm rounded h-100 transition-hover">
-                        <i class="fas fa-tint fa-2x mb-3 text-primary"></i>
-
-                        <!-- <img src="assets/images/icons/water.png" alt="Water Icon" class="mb-3" style="width: 60px;"> -->
-                        <h5 class="mb-2">Water Conservation</h5>
-                        <p class="small text-muted">Water Conservation in organic farming ensures efficient water use through natural methods like mulching, composting, and rainwater harvesting</p>
-                        <div class="progress mt-3">
-                            <div class="progress-bar bg-primary" style="width: 90%;" role="progressbar" aria-valuenow="90"
-                                aria-valuemin="0" aria-valuemax="100">90%</div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Card 3 -->
-                <div class="col-md-4 mb-4">
-                    <div class="progress-card p-4 text-center shadow-sm rounded h-100 transition-hover">
-                        <i class="fas fa-recycle fa-2x mb-3 text-warning"></i>
-
-                        <!-- <img src="assets/images/icons/ewaste.png" alt="E-waste Icon" class="mb-3" style="width: 60px;"> -->
-                        <h5 class="mb-2">E-Waste Recycling</h5>
-                        <p class="small text-muted">E-Waste Recycling supports organic farming by promoting sustainability and reducing environmental pollution from discarded electronic materials</p>
-                        <div class="progress mt-3">
-                            <div class="progress-bar bg-warning" style="width: 70%;" role="progressbar" aria-valuenow="70"
-                                aria-valuemin="0" aria-valuemax="100">70%</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </section>
 
 
 
@@ -140,16 +99,16 @@
             <img src="assets/images/logo/second_main_images.png" alt="shape">
         </div>
         <!-- <div id="scrollDown" class="banner__scroll-text"><span>SCROLL NOW</span> <span
-                    class="banner__scroll-text-line"></span>
-            </div> -->
-        <!-- <div class="banner__leaf wow slideInLeft d-none d-md-block" data-wow-duration="1s" data-wow-delay="1s">
-            <img src=" assets/images/shape/leaf.png" alt="shape">
+                class="banner__scroll-text-line"></span>
         </div> -->
+        <div class="banner__leaf wow slideInLeft d-none d-md-block" data-wow-duration="1s" data-wow-delay="1s">
+            <img src=" assets/images/shape/leaf.png" alt="shape">
+        </div>
         <div class="container">
             <div class="row">
                 <div class="col-xl-4">
                     <div class="banner__image wow fadeInLeft" data-wow-duration="1.2s" data-wow-delay=".2s">
-                        <img src="assets/images/logo/fffffff.png" alt="image">
+                        <img src="assets/images/logo/main_img_22.png" alt="image">
                         <!-- <div class="banner__image-text">
                                 <img src="assets/images/banner/text.png" alt="strock-text">
                             </div> -->
@@ -181,6 +140,8 @@
                     </div>
                 </div>
             </div>
+
+
         </div>
     </section>
     <!-- Banner area end here -->
@@ -303,7 +264,7 @@
                     </div>
                     <div class="col-md-6" data-aos="fade-left">
                         <p class="natural_agri_section">
-                            Organic farming is a holistic and sustainable agricultural system that avoids the use of synthetic fertilizers, harmful pesticides, and genetically modified organisms (GMOs). Instead, it promotes natural methods to enhance soil fertility, protect crop health, and ensure safe, nutritious produce. The focus is on working with nature—not against it—by preserving ecological balance and boosting long-term farm productivity </p>
+                            Organic farming is a holistic and sustainable agricultural system that avoids the use of synthetic fertilizers, harmful pesticides, and genetically modified organisms (GMOs). Instead, it promotes Organic methods to enhance soil fertility, protect crop health, and ensure safe, nutritious produce. The focus is on working with nature—not against it—by preserving ecological balance and boosting long-term farm productivity </p>
                         <h4 class="natural_agri_section">Improves Soil Health</h4>
                         <p><i class="fa fa-check-circle"></i> &nbsp; Enhances Soil Fertility</p>
                         <p><i class="fa fa-check-circle"></i> &nbsp;Preserves Biodiversity</p>
@@ -315,6 +276,11 @@
             </div>
         </div>
     </section>
+
+
+
+
+
 
 
 
@@ -394,9 +360,11 @@
                             <!-- <img src="assets/images/icon/work1.svg" alt="icon"> -->
                             <span>01</span>
                         </div>
-                        <h3><a href="service.php">Organic Farming</a></h3>
-                        <p>Focuses on using natural compost, vermicompost, green manure, and bio-pesticides instead
-                            of chemicals</p>
+                        <h3><a href="service.php">Organic Bio Farming</a></h3>
+                        <p>BIopesticides,Biofertilizer instant of chemicals uses vermi compost,farmyard menuare (FYM)</p>
+
+                        <!-- <p>Focuses on using natural compost, vermicompost, green manure, and bio-pesticides instead
+                            of chemicals</p> -->
                         <a class="work__item-arrow" href="service.php"><i class="fa-solid fa-arrow-right"> </i></a>
                         <div class="work__item-leaf">
                             <img src="assets/images/shape/work-leaf.png" alt="">
@@ -411,7 +379,7 @@
                             <span>02</span>
                         </div>
                         <h3><a href="service.php">Eco-Friendly Farming</a></h3>
-                        <p>Organic farming minimizes pollution and supports a healthier planet by avoiding synthetic inputs. It nurtures nature with sustainable practices</p>
+                        <p>Organic farming minimizes pollution and supports a healthier planet by avoiding synthetic inputs. It nurtures nature the soil and crops with sustainable practices</p>
                         <a class="work__item-arrow" href="service.php"><i class="fa-solid fa-arrow-right"></i></a>
                         <div class="work__item-leaf">
                             <img src="assets/images/shape/work-leaf.png" alt="">
@@ -426,7 +394,7 @@
                             <span>03</span>
                         </div>
                         <h3><a href="service.php">Healthy Soil, Healthy Food</a></h3>
-                        <p>Natural compost and crop rotation enrich the soil, leading to more nutritious and chemical-free food for everyone</p>
+                        <p>Bio farming along with compost and crop rotation enrich the soil, leading to more nutritious and chemical-free food for everyone</p>
                         <a class="work__item-arrow" href="service.php"><i class="fa-solid fa-arrow-right"></i></a>
                         <div class="work__item-leaf">
                             <img src="assets/images/shape/work-leaf.png" alt="">
@@ -441,7 +409,7 @@
                             <span>04</span>
                         </div>
                         <h3><a href="service.php">Protects Biodiversity </a></h3>
-                        <p>Encourages a balanced ecosystem by supporting pollinators, earthworms, and other beneficial organisms</p>
+                        <p> Beneficial for a balanced ecosystem by support's pollinator, earthworms, and other beneficial organisms</p>
                         <a class="work__item-arrow" href="service.php"><i class="fa-solid fa-arrow-right"></i></a>
                         <div class="work__item-leaf">
                             <img src="assets/images/shape/work-leaf.png" alt="">
@@ -532,7 +500,7 @@
                                     <div id="collapseTwo" class="accordion-collapse collapse"
                                         aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>They attack only harmful insects or pathogens, preserving beneficial
+                                            <p>They attack only harmful insects or pathogens, preserving beneficial micro
                                                 organisms like bees and earthwormsl
                                             </p>
                                         </div>
@@ -551,9 +519,13 @@
                                     <div id="collapseThree" class="accordion-collapse collapse"
                                         aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>Unlike chemical pesticides, biopesticides work in natural ways,
-                                                lowering the risk of pests developing resistance
+                                            <p>Unlike chemical pesticides, biopesticides , don't induces the risk of increrasing soil health and crop integrity
+
                                             </p>
+
+                                            <!-- <p>Unlike chemical pesticides, biopesticides work in natural ways,
+                                                lowering the risk of pests developing resistance
+                                            </p> -->
                                         </div>
                                     </div>
                                 </div>
@@ -600,14 +572,14 @@
                                             data-image="assets/images/service/01.jpg" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseSix"
                                             aria-expanded="true" aria-controls="collapseSix">
-                                            Enhance Soil Fertility Naturally
+                                            Organically Enhance Soil Fertility Naturally
                                         </button>
                                     </h2>
                                     <div id="collapseSix" class="accordion-collapse collapse"
                                         aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>Biofertilizers enrich the soil with beneficial microbes that fix
-                                                nitrogen, solubilize phosphorus, and improve nutrient availability
+                                                nitrogen, solubilize phosphorus, and mobilize potassium improve nutrient availability
                                             </p>
                                         </div>
                                     </div>
@@ -625,9 +597,13 @@
                                     <div id="collapseSeven" class="accordion-collapse collapse"
                                         aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>They reduce dependency on chemical fertilizers and promote long-term
+                                            <p>They promote lone-term soil health Safeguarding . The environment and reduce dependency on chemical fertilizers and promote long-term
                                                 soil health without harming the environment
                                             </p>
+
+                                            <!-- <p>They reduce dependency on chemical fertilizers and promote long-term
+                                                soil health without harming the environment
+                                            </p> -->
                                         </div>
                                     </div>
                                 </div>
@@ -685,8 +661,8 @@
             </div>
 
 
-            <div class="index_section">            <img src="assets/images/about/leaf.png" alt="" >
-</div>
+            <div class="index_section"> <img src="assets/images/about/leaf.png" alt="">
+            </div>
 
             <div class="service_details align-items-center">
                 <a href="service.php" class="btn-one wow fadeInUp button_service" data-wow-duration="1.5s"
@@ -792,7 +768,7 @@
                 <div class="col-lg-5 achievement__bor-right wow fadeInUp" data-wow-duration="1.2s"
                     data-wow-delay=".2s">
                     <div class="achievement__item">
-                        <h2 class="text-white pt-3 pb-3">🌿 Diverse Paths in Organic Farming
+                        <h2 class="text-white pt-3 pb-3">🌿Soil is the Living Foundation of Organic Farming
                         </h2>
                     </div>
                 </div>
@@ -802,7 +778,7 @@
                         <img src="assets/images/icon/achieve1.png" alt="icon">
                         <!-- <img src="assets/images/logo/1.png" alt="icon"> -->
 
-                        <h5>Permaculture Farming</h5>
+                        <h5>Boosts Soil Fertility Organically</h5>
                         <!-- <span class="count">6,472,068</span> -->
                     </div>
                 </div>
@@ -810,14 +786,14 @@
                     data-wow-delay=".6s">
                     <div class="achievement__item text-center">
                         <img src="assets/images/icon/achieve2.png" alt="icon">
-                        <h5>Biodynamic Agriculture</h5>
+                        <h5>Supports Biodiversity & Microbial Life</h5>
                         <!-- <span class="count">38,768</span> -->
                     </div>
                 </div>
                 <div class="col-lg-2 wow fadeInUp" data-wow-duration="1.8s" data-wow-delay=".8s">
                     <div class="achievement__item text-center">
                         <img src="assets/images/icon/achieve3.png" alt="icon">
-                        <h5>Agroecology</h5>
+                        <h5>Healthy Soil, Healthy Future</h5>
                         <!-- <span class="count">1,193,210</span> -->
                     </div>
                 </div>
@@ -868,7 +844,7 @@
                             <h5 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s"><img
                                     src="assets/images/icon/leaf.svg" alt="image"> OUR case study</h5>
                             <h2 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">Organic Farming: A Path to Sustainable Growth</h2>
-                            <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Organic farming empowers communities by using eco-friendly methods, natural inputs, and local wisdom. It restores soil health, increases crop productivity, and supports long-term food security while building climate resilience and uplifting rural livelihoods</p>
+                            <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Organic farming empowers communities by using eco-friendly methods, Bio products , and local wisdom. It restores soil health, increases crop productivity, and supports long-term food security while building climate resilience and uplifting rural livelihoods</p>
                         </div>
                         <div class="arry-btn mb-4 d-block d-lg-none">
                             <button class="arry-prev project-arry-prev"><i
@@ -889,21 +865,29 @@
                                         <div class="swiper-slide">
                                             <div class="project__item">
                                                 <h3>Regenerative Farming</h3>
-                                                <p>Regenerative farming rebuilds organic matter and restores
-                                                    degraded soil. It focuses on biodiversity, natural
+
+                                                <p>
+                                                    Restore Rejuvenate the degreate soil leading to soil Regeneration
+                                                </p>
+                                                <!-- <p>Regenerative farming rebuilds organic matter and restores
+                                                    degraded soil. 
+                                                    It focuses on biodiversity, natural
                                                     <br>composting, and minimal tilling to enhance long-term land
                                                     productivity.
 
 
-                                                </p>
+                                                </p> -->
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="project__item">
                                                 <h3>Farmer Empowerment</h3>
-                                                <p>Empowering farmers with knowledge, natural techniques, and market
-                                                    access ensures self-reliance, increased yields, and sustainable
+                                                <p>increased yields, and sustainable
                                                     livelihoods
+
+
+                                                    Empowering farmers with knowledge, natural techniques, and market
+                                                    access ensures self-reliance,
                                                 </p>
                                             </div>
                                         </div>
@@ -921,7 +905,7 @@
                                         <div class="swiper-slide">
                                             <div class="project__item">
                                                 <h3>Organic Inputs</h3>
-                                                <p>Using biofertilizers, compost, and natural pest control replaces
+                                                <p>Using biofertilizers, Biopesticides replaces
                                                     chemicals with safe, eco-friendly inputs that maintain purity
                                                     and protect the ecosystem.
 
@@ -932,7 +916,7 @@
                                         <div class="swiper-slide">
                                             <div class="project__item">
                                                 <h3>Climate Resilience</h3>
-                                                <p>Our natural farming methods help crops withstand climate
+                                                <p>Our Organic farming methods help crops withstand climate
                                                     stress—ensuring food security despite droughts, floods, and
                                                     changing weather patterns.
 
@@ -987,6 +971,69 @@
         </div>
     </section>
     <!-- Project area end here -->
+
+
+
+
+
+
+
+
+
+
+
+    <section class="card_section">
+        <div class="container">
+            <!-- Add this inside a container or section -->
+            <div class="row">
+                <!-- Card 1 -->
+                <div class="col-md-4 mb-4">
+                    <div class="progress-card p-4 text-center shadow-sm rounded h-100 transition-hover">
+                        <i class="fas fa-leaf fa-2x mb-3 text-success"></i>
+
+                        <!-- <img src="assets/images/icons/carbon.png" alt="Carbon Icon" class="mb-3" style="width: 60px;"> -->
+                        <h5 class="mb-2">Carbon Offsetting</h5>
+                        <p class="small text-muted">Carbon Offsetting in organic farming helps reduce greenhouse gas emissions by promoting natural carbon absorption through healthy soil practices in organic farming</p>
+                        <div class="progress mt-3">
+                            <div class="progress-bar bg-success" style="width: 80%;" role="progressbar" aria-valuenow="80"
+                                aria-valuemin="0" aria-valuemax="100">80%</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card 2 -->
+                <div class="col-md-4 mb-4">
+                    <div class="progress-card p-4 text-center shadow-sm rounded h-100 transition-hover">
+                        <i class="fas fa-tint fa-2x mb-3 text-primary"></i>
+
+                        <!-- <img src="assets/images/icons/water.png" alt="Water Icon" class="mb-3" style="width: 60px;"> -->
+                        <h5 class="mb-2">Water Conservation</h5>
+                        <p class="small text-muted">Water Conservation in organic farming ensures efficient water use through Organic methods like mulching, composting, and rainwater harvesting</p>
+                        <div class="progress mt-3">
+                            <div class="progress-bar bg-primary" style="width: 90%;" role="progressbar" aria-valuenow="90"
+                                aria-valuemin="0" aria-valuemax="100">90%</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card 3 -->
+                <div class="col-md-4 mb-4">
+                    <div class="progress-card p-4 text-center shadow-sm rounded h-100 transition-hover">
+                        <i class="fas fa-recycle fa-2x mb-3 text-warning"></i>
+
+                        <!-- <img src="assets/images/icons/ewaste.png" alt="E-waste Icon" class="mb-3" style="width: 60px;"> -->
+                        <h5 class="mb-2">E-Waste Recycling</h5>
+                        <p class="small text-muted">E-Waste Recycling supports organic farming by promoting sustainability and reducing environmental pollution from discarded electronic materials</p>
+                        <div class="progress mt-3">
+                            <div class="progress-bar bg-warning" style="width: 70%;" role="progressbar" aria-valuenow="70"
+                                aria-valuemin="0" aria-valuemax="100">70%</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
 
     <!-- Donation area start here -->
     <!-- <section class="donation pt-130 pb-130" data-background="assets/images/bg/donation.jpg">
@@ -1380,6 +1427,10 @@
             </div>
         </div>
     </section>
+
+
+
+
     <!-- Blog area end here -->
 
     <!-- Our info area start here -->

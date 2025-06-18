@@ -119,7 +119,7 @@
                             </li>
                             <li class="pb-3"><a href="tel:+91-9848549349"><i
                                         class="fa-solid fa-phone-volume pe-1 primary-color"></i>
-                                    91-9848549349, <br> &nbsp; &nbsp; &nbsp; &nbsp; 9491822559
+                                    91-9848549349,  9491822559
                                 </a></li>
                             <li><a href="#0"><i class="fa-solid fa-envelope pe-1 primary-color"></i>
                                     samhitasoilsolutions@gmail.com </a>
@@ -145,7 +145,21 @@
                 </p>
 
                 <ul class="footer-menu wow fadeInRight up" data-wow-delay=".5s">
-                    <li>
+                    <li class="d-block d-md-none">
+                        <a href="https://bhavicreations.com/" target="_blank"
+                            style="text-decoration: none; color: #ffffff; display: flex; align-items: center; line-height :20px;">
+                            <p class="mini_text last_text mb-0">
+                                Branding By @
+                            </p>
+                            <img src="assets/images/logo/Bhavi_Branding_Stamp.png" class="img-fluid bhavi" alt=""
+                                style="width: 40px;">Bhavi creations <br> pvt ltd
+                             
+                        </a>
+
+                        <div class="cs_footer_bottom copy_bg text-white">
+                    </li>
+
+                    <li class="d-none d-md-block">
                         <a href="https://bhavicreations.com/" target="_blank"
                             style="text-decoration: none; color: #ffffff; display: flex; align-items: center;">
                             <p class="mini_text last_text mb-0">
@@ -153,10 +167,12 @@
                             </p>
                             <img src="assets/images/logo/Bhavi_Branding_Stamp.png" class="img-fluid bhavi" alt=""
                                 style="width: 50px;"> Bhavi creations pvt ltd
+                            
                         </a>
 
                         <div class="cs_footer_bottom copy_bg text-white">
                     </li>
+
 
                 </ul>
             </div>

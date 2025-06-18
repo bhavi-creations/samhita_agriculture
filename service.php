@@ -37,7 +37,7 @@
                             </div> -->
                             <span>01</span>
                         </div>
-                        <h3><a href="biopesticides.php">pseudomonas fluorescens</a></h3>
+                        <h3><a href="biopesticides.php">Pseudomonas fluorescens</a></h3>
                         <p>pseudomonas fluorescens 1% WP is a bio-control agent that protects crops by suppressing
                             soil-borne diseases and promoting plant growth.</p>
                         <a class="work__item-arrow" href="biopesticides.php"><i
@@ -53,7 +53,7 @@
                             </div> -->
                             <span>02</span>
                         </div>
-                        <h3><a href="biopesticides.php">pseudomonas fluorescens</a></h3>
+                        <h3><a href="biopesticides.php">Pseudomonas fluorescens</a></h3>
                         <p>pseudomonas fluorescens 1.5% LF is a liquid bio-formulation that enhances plant immunity
                             and controls fungal and bacterial diseases in crops naturally</p>
                         <a class="work__item-arrow" href="biopesticides.php"><i

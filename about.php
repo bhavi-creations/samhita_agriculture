@@ -142,11 +142,16 @@
                             <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Worked as
                                 Agricultural Officer , for the Dept of Ag. Andhra Pradesh from 2006 to 2012 in
                                 Biological control laboratory, kakinada and as Mandal Agricultural officer, kajuluru
-                                Resigned and then set up this industry, out of passion and having
-                                experience in govt. Lab</p>
+                                and then set up this industry, out of passion and having
+                                experience in govt. Lab
+                            </p>
+
+                            <p> In <strong> ICAR-IIHR </strong> an incubatee in an from ICAR-IIHR</p>
+
+
 
                             <p>
-                                Samhita Soil Solutions is a pioneering company in the field of biopesticides, biofertilizers, and micronutrients. Our company was founded by Balusu Parvathi Rajyam, BSc (Ag), a renowned agricultural scientist with a passion for sustainable farming practices and former Assistant Director in the Agriculture Department of the AP Government
+                                Samhita Soil Solutions is a pioneering company in the field of biopesticides, biofertilizers, and micronutrients. Our company was founded by Balusu Parvathi Rajyam, BSc (Ag), a renowned agricultural scientist with a passion for sustainable farming practices and former Agriculture Office in the Agriculture Department of the AP Government
 
 
                             </p>
@@ -280,7 +285,7 @@
                 <div class="col-lg-5 achievement__bor-right wow fadeInUp" data-wow-duration="1.2s"
                     data-wow-delay=".2s">
                     <div class="achievement__item">
-                        <h2 class="text-white pt-3 pb-3">🌿 Diverse Paths in Organic Farming
+                        <h2 class="text-white pt-3 pb-3">🌿Soil is the Living Foundation of Organic Farming
                         </h2>
                     </div>
                 </div>
@@ -290,7 +295,7 @@
                         <img src="assets/images/icon/achieve1.png" alt="icon">
                         <!-- <img src="assets/images/logo/1.png" alt="icon"> -->
 
-                        <h5>Permaculture Farming</h5>
+                        <h5>Boosts Soil Fertility Organically</h5>
                         <!-- <span class="count">6,472,068</span> -->
                     </div>
                 </div>
@@ -298,14 +303,14 @@
                     data-wow-delay=".6s">
                     <div class="achievement__item text-center">
                         <img src="assets/images/icon/achieve2.png" alt="icon">
-                        <h5>Biodynamic Agriculture</h5>
+                        <h5>Supports Biodiversity & Microbial Life</h5>
                         <!-- <span class="count">38,768</span> -->
                     </div>
                 </div>
                 <div class="col-lg-2 wow fadeInUp" data-wow-duration="1.8s" data-wow-delay=".8s">
                     <div class="achievement__item text-center">
                         <img src="assets/images/icon/achieve3.png" alt="icon">
-                        <h5>Agroecology</h5>
+                        <h5>Healthy Soil, Healthy Future</h5>
                         <!-- <span class="count">1,193,210</span> -->
                     </div>
                 </div>
@@ -340,7 +345,7 @@
 
 
                         <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s"> <strong>1. Pseudomonas fluorescens 1% - WP:</strong> Controls soil-borne and seed-borne plant pathogens, including fungi, bacteria, and nematodes. <br>
-                            <strong> 2. Pseudomonas fluorescens 1.5% LF:</strong> Same description as above. <br>
+                            <strong> 2. Pseudomonas fluorescens 1.5% LF:</strong> Controls soil-borne and seed-borne plant pathogens, including fungi, bacteria, and nematodes. <br>
                             <strong> 3. Bacillus subtilis - 1.5% LF:</strong> Fungicide, bactericide, and growth promoter. <br>
                             <strong> 4. Trichoderma viride - 1.5% L.F.:</strong> Fungicide and growth promoter. <br>
                             <strong> 5. Trichoderma harzianum - 2.0% A.S:</strong> Fungicide and growth promoter.
@@ -494,11 +499,11 @@
 
 
                         </h2>
-                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> N (Nitrogen):* </strong> Your statement that Nitrogen is "basically for vegetation" is spot on. Nitrogen is a primary component of chlorophyll, the molecule responsible for photosynthesis, and a crucial building block for amino acids, proteins, and nucleic acids. This directly translates to robust *vegetative growth*, leading to lush foliage, stems, and overall plant size</p>
-                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong>P (Phosphorus) & Zn (Zinc):* </strong> You've linked these to "root and shoot strength & resistance." This is largely accurate</p>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> N (Nitrogen):* </strong> Nitrogen is "basically for vegetation" is on. Nitrogen is a primary component of chlorophyll, the molecule responsible for photosynthesis, and a crucial building block for amino acids, proteins, and nucleic acids. This directly translates to robust *vegetative growth*, leading to lush foliage, stems, and overall plant size</p>
+                        <!-- <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong>P (Phosphorus) & Zn (Zinc):* </strong> You've linked these to "root and shoot strength & resistance." This is largely accurate</p> -->
                         <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> Phosphorus* </strong>is vital for energy transfer within the plant (ATP), which is essential for cell division and the development of strong root systems. A well-developed root system is fundamental for nutrient and water uptake, contributing to overall plant vigor and stability, which can be interpreted as "strength." It also plays a role in early plant growth and maturity</p>
                         <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> *Zinc* </strong> is a micronutrient that acts as a cofactor for many enzymes involved in plant metabolism. It's crucial for auxin synthesis (a growth hormone) and protein synthesis. Zinc deficiency can lead to stunted growth and poor development. Its role in overall plant health and metabolic processes indirectly contributes to the plant's ability to withstand stress and thus its "resistance" to various factors </p>
-                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong>K (Potassium):* </strong> Your summary of Potassium being "basically for immunity and better Reproduction" is excellent. </p>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> Reproduction:* </strong> Potassium plays a critical role in flowering, fruit development, and seed formation. Adequate potassium ensures proper filling of grains and fruits, leading to better yield quality and quantity, which directly supports "better reproduction</p>
                     </div>
                     <!-- <div class="involve-two__item help-area__item">
                         <div class="section-header mb-4">
@@ -622,7 +627,7 @@
     <!-- Involved area end here -->
 
     <!-- Testimonial area start here -->
-    <section class="testimonial pt-65 pb-130 sub-bg">
+    <!-- <section class="testimonial pt-65 pb-130 sub-bg">
         <div class="container">
             <div class="testimonial__head-wrp mb-65">
                 <div class="section-header m-0">
@@ -701,7 +706,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Testimonial area end here -->
 
     <!-- Our info area start here -->

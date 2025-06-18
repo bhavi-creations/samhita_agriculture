@@ -126,18 +126,14 @@
                         <ul class="main-menu mx-auto">
                             <li><a href="index.php">Home</a></li>
                             <li><a href="about.php">About Us</a></li>
-                            <li class="has-submenu">
-                                <a
-                                    href="service.php"
-                                    onmouseover="handleHover(event)"
-                                    onclick="handleClick(event)">
-                                    Services
-                                </a>
+                            <li class="has-submenu mobile-click-toggle">
+                                <a href="#" onclick="toggleSubmenu(event)">Services</a>
                                 <ul class="sub-menu">
                                     <li><a href="biopesticides.php">Biopesticides</a></li>
                                     <li><a href="biofertilizers.php">Biofertilizers</a></li>
                                 </ul>
                             </li>
+
 
                             <li><a href="gallery.php">Gallery </a></li>
 
@@ -171,9 +167,14 @@
 
 
     <!-- Desktop Header: visible on ≥992px -->
-    <header class="header header-one bor-bottom d-none d-xl-block  header_color_section">
+    <header class="header header-one bor-bottom d-none d-xl-block header_color_section">
         <div class="header-section">
-            <div class="d-flex justify-content-between align-items-center flex-wrap px-3">
+
+            <!-- 🔹 TOP CONTACT BAR -->
+
+
+            <!-- 🔹 LOGO + NAME + NAVIGATION MENU -->
+            <div class="px-4 py-2 d-flex justify-content-between align-items-center flex-wrap">
 
                 <!-- Logo + Name -->
                 <div class="header_one__logo d-flex align-items-center">
@@ -187,14 +188,14 @@
                     </div>
                 </div>
 
-                <!-- Desktop Menu -->
-                <div class="desktop-menu d-flex ms-auto">
-                    <ul class="main-menu d-flex mb-0 list-unstyled">
+                <!-- Navigation Menu -->
+                <div class="desktop-menu ms-auto">
+                    <ul class="main-menu d-flex mb-0 list-unstyled align-items-center">
                         <li><a href="index.php">Home</a></li>
                         <li><a href="about.php">About Us</a></li>
-                        <li class="has-submenu">
+                        <li class="has-submenu position-relative">
                             <a href="service.php">Services</a>
-                            <ul class="sub-menu">
+                            <ul class="sub-menu position-absolute list-unstyled p-2 bg-white shadow">
                                 <li><a href="biopesticides.php">Biopesticides</a></li>
                                 <li><a href="biofertilizers.php">Biofertilizers</a></li>
                             </ul>
@@ -203,12 +204,13 @@
                         <li><a href="contact.php">Contact Us</a></li>
                     </ul>
                 </div>
-
             </div>
+
         </div>
     </header>
 
-    
+
+
 
 
 
@@ -255,3 +257,108 @@
     <a href="https://api.whatsapp.com/send?phone=9848549349" style="color: #fff;" class="whatsapp-link" target="_blank">
         <i class="fab fa-whatsapp"></i>
     </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- <header class="main-header">
+            <div class="main-header__wrapper">
+                <div class="main-header__wrapper-inner">
+                    <div class="main-header__logo">
+                        <a href="index.php"><img src="assets/images/logo/logo_111.png" alt="" style=" height: 100px ;"></a>
+                    </div>
+                    <div class="main-header__right">
+                        <div class="main-header__top">
+                            <div class="main-header__top-inner">
+                                <div class="main-header__top-left">
+                                    <p class="main-header__top-left-text"> 2-46-26/21, venkat nagar kakinada -533003</p>
+                                   
+                                </div>
+                                <div class="main-header__top-right">
+                                    <ul class="list-unstyled main-header__contact-list">
+                                        <li>
+                                            <div class="icon">
+                                                <i class="fas fa-mobile"></i>
+                                            </div>
+                                            <div class="text">
+                                                <p><a href="tel:923076806860">+ 91 9848549349</a></p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="icon">
+                                                <i class="fas fa-envelope-open"></i>
+                                            </div>
+                                            <div class="text">
+                                                <p><a href="mailto:needhelp@company.com">samhitasoilsolutions@gmail.com</a></p>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="main-header__right-bottom d-flex justify-content-center">
+
+
+                            <div class="main-header__name-block text-center">
+                                <h2 class="main-header__line">Samhita</h2>
+                                <h2 class="main-header__line">Soil</h2>
+                                <h2 class="main-header__line">Solutions</h2>
+                            </div>
+
+                            <nav class="main-menu">
+                                <div class="main-menu__wrapper">
+                                    <div class="main-menu__wrapper-inner">
+
+
+
+
+                                        <div class="main-menu__main-menu-box">
+                                            <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
+
+                                            <ul class="main-menu__list">
+                                                <li class=" current megamenu">
+                                                    <a href="index.php">Home </a>
+
+                                                </li>
+                                                <li>
+                                                    <a href="about.php">About</a>
+                                                 
+                                                </li>
+                                                <li class="dropdown">
+                                                    <a href="services.php">Services</a>
+                                                    <ul class="sub-menu">
+                                                        <li><a href="pesticides.php">Biopesticides</a></li>
+                                                        <li><a href="fertilizers.php">Biofertilizers</a></li>
+                                                   
+                                                    </ul>
+                                                </li>
+                                              
+                                                <li>
+                                                    <a href="gallery.php">Gallery</a>
+                                              
+                                                <li>
+                                                    <a href="contact.php">Contact</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                   
+                                    </div>
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header> -->

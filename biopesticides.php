@@ -59,7 +59,7 @@
 
                 <h4> Bacillus subtilis 1.5% LF </h4>
                 <p>
-                    Bacillus subtilis 1.5% LF is a liquid biological fungicide that offers effective protection against a wide range of fungal and bacterial plant diseases. This beneficial bacteria colonizes the plant surface and root zone, creating a protective barrier and producing natural antibiotics that suppress pathogens such as Alternaria, Botrytis, Powdery mildew, and Downy mildew By enhancing plant immunity, promoting root health, and improving resistance to stress, it supports overall crop vigor. Completely safe for the environment, Bacillus subtilis is an essential tool in organic and sustainable farming systems for long-term disease management without chemical residues
+                    Bacillus subtilis 1.5% LF is a liquid biological fungicide that offers effective protection against a wide range of fungal and bacterial plant diseases. This beneficial bacteria colonizes the plant surface and root zone, creating a protective barrier and producing organic antibiotics that suppress pathogens such as Alternaria, Botrytis, Powdery mildew, and Downy mildew By enhancing plant immunity, promoting root health, and improving resistance to stress, it supports overall crop vigor. Completely safe for the environment, Bacillus subtilis is an essential tool in organic and sustainable farming systems for long-term disease management without chemical residues
                 </p>
             </div>
         </div>
@@ -87,7 +87,7 @@
 
                 <h4>Trichoderma harzianum – 2.0% A.S </h4>
                 <p>
-                Trichoderma harzianum – 2.0% A.S. is a highly effective biological fungicide that protects crops from soil-borne fungal pathogens. It works by colonizing the root zone and producing enzymes that degrade the cell walls of harmful fungi like Fusarium, Sclerotium, Rhizoctonia, and Pythium This bio-agent improves plant health by stimulating root growth, enhancing nutrient uptake, and boosting natural resistance to diseases. Suitable for seed treatment, soil application, and drip irrigation, it is eco-friendly, non-toxic, and ideal for organic and sustainable farming practices
+                Trichoderma harzianum – 2.0% A.S. is a highly effective biological fungicide that protects crops from soil-borne fungal pathogens. It works by colonizing the root zone and producing enzymes that degrade the cell walls of harmful fungi like Fusarium, Sclerotium, Rhizoctonia, and Pythium This bio-agent improves plant health by stimulating root growth, enhancing nutrient uptake, and boosting Organic resistance to diseases. Suitable for seed treatment, soil application, and drip irrigation, it is eco-friendly, non-toxic, and ideal for organic and sustainable farming practices
                 </p>
             </div>
         </div>
