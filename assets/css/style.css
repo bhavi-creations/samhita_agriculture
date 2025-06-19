@@ -91,8 +91,9 @@ h6 {
 }
 
 h1 {
-  font-size: 60px;
+  /* font-size: 60px; */
   font-weight: 700;
+  /* line-height: 80px; */
   line-height: 80px;
 }
 
@@ -1578,6 +1579,48 @@ input {
   text-transform: capitalize;
 }
 
+
+
+
+@media (max-width:768px) {
+  .btn-one,
+.btn-two,
+.btn-two-light,
+.btn-one-white,
+.btn-one-light{
+  padding: 15px 20px;
+}
+  
+}
+
+
+
+@media (min-width:768px) and (max-width:992px) {
+  .btn-one,
+.btn-two,
+.btn-two-light,
+.btn-one-white,
+.btn-one-light{
+  padding: 15px 20px;
+  line-height: 15px;
+}
+  
+}
+@media (min-width:992px) and (max-width:1200px) {
+  .btn-one,
+.btn-two,
+.btn-two-light,
+.btn-one-white,
+.btn-one-light{
+  padding: 6px 20px !important;
+  line-height: 20px;
+}
+  
+}
+
+
+
+
 .btn-one i,
 .btn-two i,
 .btn-two-light i,
@@ -2114,9 +2157,9 @@ input {
 }
 
 .header-section {
-  /* background-color: var(--white); */
-  background-color: #ecfbde
- !important;
+  background-color: var(--white);
+  /* background-color: #ecfbde */
+
 }
 
 .menu-fixed {
@@ -2666,7 +2709,7 @@ input {
 .banner__shape {
   position: absolute;
   right: 11%;
-  bottom: 0;
+  bottom: -100px !important;
   z-index: 1;
 }
 
@@ -7326,7 +7369,7 @@ input {
   }
 
   .banner__content {
-    margin-top: 65px;
+    /* margin-top: 65px; */
     margin-bottom: 130px;
     margin-left: 0;
   }
@@ -7549,7 +7592,8 @@ input {
   }
 
   .banner__content h1 {
-    font-size: 30px;
+    font-size: 20px;
+    /* font-size: 30px; */
     line-height: 40px;
   }
 
@@ -8485,7 +8529,10 @@ margin-left: 48px; */
 
 /* new navbar  */
 .marquee-section {
-  background-color: #36773c;
+  /* background-color: #36773c; */
+  background-color: #7eba31;
+
+  
   color: white;
 padding: 20px;
 margin-bottom: 2px;
@@ -9056,3 +9103,180 @@ margin-bottom: 2px;
  .index_first_sections{
   background-color: #ecfbde ;
  }
+
+ .samhita_text p{
+  font-size: 25px !important;
+  padding-left: 30px;
+ }
+
+ .diagonal-line-left {
+  position: absolute;
+
+  background-color: #2e7d32;
+  transform: rotate(-45deg); /* Diagonal from top-left to bottom-right */
+  transform-origin: right;
+
+
+
+  left: 293px;
+  top: -10px;
+  width: 125px;
+  height: 2px;
+}
+
+
+.samhitha_name{
+  padding-left: 70px !important;
+}
+
+/* arrow to connect  */
+
+/* Banner Arrows */
+.arrow-right {
+  position: absolute;
+  top: 40%;
+  right: -30px;
+  width: 60px;
+}
+
+.arrow-down {
+  position: absolute;
+  bottom: -50px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 40px;
+}
+
+/* Optional: Adjust image heights */
+.main-banner-img {
+  max-height: 300px;
+  object-fit: contain;
+}
+
+.secondary-banner-img {
+  max-height: 250px;
+  object-fit: contain;
+}
+
+
+.diagonal-color-bg {
+  position: absolute;
+  top: -10px;
+  left: -25px;
+  width: 380px;
+  height: 126%;
+  background-color: #2e7d32; 
+  transform: skew(-20deg);
+  transform-origin: top left;
+  z-index: 0;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+
+
+
+
+
+
+/* gym copy stylings  */
+
+/* Section padding */
+.ftco-section {
+  padding: 80px 0;
+  /* background-color: #f4f4f4; */
+}
+
+
+.ftco-section-fertilizers{
+  padding: 80px 0;
+  background-color: #f4f4f4;
+}
+/* Section title */
+.heading-section h2 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #2e7d32;
+  position: relative;
+}
+
+/* Main Image in Center Column */
+.img-services {
+  background-size: cover;
+  background-position: center center;
+  border-radius: 12px;
+  min-height: 600px;
+}
+
+/* Service Box Styling */
+.services-2 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 25px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease-in-out;
+  position: relative;
+  z-index: 1;
+}
+
+/* Hover Effect */
+.services-2:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Icon Container */
+.services-2 .icon {
+  width: 20px;
+  height: 20px;
+  background: #2e7d32;
+  color: #fff;
+  font-size: 28px;
+  border-radius: 50%;
+  margin-right: 20px;
+  flex-shrink: 0;
+  transition: background 0.3s ease-in-out;
+}
+
+/* Icon inside */
+.services-2 .icon span {
+  font-size: 28px;
+}
+
+/* Text inside services box */
+.services-2 .text h3 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #222;
+  margin-bottom: 5px;
+}
+
+.services-2 .text p {
+  margin-bottom: 0;
+  color: #555;
+  font-size: 15px;
+}
+
+/* Center column responsiveness */
+@media (max-width: 768px) {
+  .img-services {
+      min-height: 300px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+  }
+}
+
+
+.about_new_section{
+  padding: 80px 0px;
+}
+
+
+.eco_friendly_content h1 {
+  line-height: 50px !important;
+}
+
+.work{
+  background-color: #f4f4f4;
+}

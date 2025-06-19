@@ -43,7 +43,7 @@
 
 
 
-<!-- <section class="index_first_sections">
+    <!-- <section class="index_first_sections">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
@@ -292,9 +292,9 @@
 
                 <div class=" col-12 col-md-6 first_images_section">
                     <h3>
-                        🌿 Soil is the Heart of <span class="organic_index"> Organic Farming</span>
+                        🌿 Soil is the Heart of <span class="organic_index">Bio-Organic Farming</span>
                     </h3>
-                    <p class="">We enrich it  through  Biological organic methods to boost fertility and biodiversity.
+                    <p class="">We enrich it through Biological Bio-organic methods to boost fertility and biodiversity.
                         Healthy soil leads to thriving crops, balanced ecosystems, and chemical-free food production</p>
                     <!-- <p>
                         We enrich it organically through composting and sustainable methods to boost fertility and biodiversity. Healthy soil leads to thriving crops, balanced ecosystems, and chemical-free food production. Our organic practices nurture the land without depleting it, ensuring sustainability for generations to come. By working in harmony with organic principles, we grow food that is as pure as the soil it comes from
@@ -322,7 +322,72 @@
 
 
 
+    <section class="about_new_section banner" data-background="assets/images/bg/banner1.jpg">
+        <div class="container">
 
+            <div class="banner__leaf wow slideInLeft d-none d-md-block" data-wow-duration="1s" data-wow-delay="1s">
+                <img src=" assets/images/shape/leaf.png" alt="shape">
+            </div>
+            <div class="row">
+                <div class="col-md-3 col-12">
+
+
+                    <img src="assets/images/logo/pesticide_mix.jpg" alt="" class="img-fluid">
+
+
+                </div>
+                <div class="col-md-9 col-12">
+
+                    <div class="row">
+                        <div class="col-md-8 col-12">
+                            <div class=" banner__content eco_friendly_content">
+                                <h4 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s">Eco-Friendly
+                                    Agricultural Solutions</h4>
+                                <h1 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">Pure, sustainable
+                                    farming for healthy soil, food, and <span class="primary-color">future</span></h1>
+                                <div class="row g-4 align-items-center " class="d-block d-md-none d-lg-block">
+                                    <div class="col-md-4">
+                                        <a href="contact.php" class="btn-one wow fadeInUp" data-wow-duration="1.5s"
+                                            data-wow-delay=".5s"><span>Contact us</span> <i
+                                                class="fa-solid fa-angles-right"></i></a>
+                                    </div>
+                                    <div class="col-md-8 ">
+                                        <div class="banner__content-con wow fadeInUp" data-wow-duration="1.6s"
+                                            data-wow-delay=".6s">
+                                            <!-- <img src="assets/images/icon/arrow-long.png" alt="arrow"> -->
+                                            <p>Implementing Bio-organic systems that reduce environmental impact, conserve
+                                                resources, and align with nature’s cycles to achieve true sustainability.
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+
+                                
+
+
+                                <img src="assets/images/logo/second_main_images.png" alt="" class="img-fluid  p-4">
+                            </div>
+
+                        </div>
+                        <div class="col-md-4 col-12">
+                            <img src="assets/images/logo/main_img_22_1.png" alt="">
+
+                        </div>
+
+                        <!-- <div class="row">
+                            
+                        </div> -->
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
 
 
 
@@ -333,14 +398,14 @@
 
 
     <!-- Banner area start here -->
-    <section class="banner" data-background="assets/images/bg/banner1.jpg">
+    <!-- <section class="banner" data-background="assets/images/bg/banner1.jpg">
         <div class="banner__shape d-none d-xxl-block wow bounceInRight" data-wow-duration=".6s"
             data-wow-delay=".8s">
             <img src="assets/images/logo/second_main_images.png" alt="shape">
         </div>
-        <!-- <div id="scrollDown" class="banner__scroll-text"><span>SCROLL NOW</span> <span
+        <div id="scrollDown" class="banner__scroll-text"><span>SCROLL NOW</span> <span
                 class="banner__scroll-text-line"></span>
-        </div> -->
+        </div>
         <div class="banner__leaf wow slideInLeft d-none d-md-block" data-wow-duration="1s" data-wow-delay="1s">
             <img src=" assets/images/shape/leaf.png" alt="shape">
         </div>
@@ -349,9 +414,9 @@
                 <div class="col-xl-4">
                     <div class="banner__image wow fadeInLeft" data-wow-duration="1.2s" data-wow-delay=".2s">
                         <img src="assets/images/logo/main_img_22.png" alt="image">
-                        <!-- <div class="banner__image-text">
+                        <div class="banner__image-text">
                                 <img src="assets/images/banner/text.png" alt="strock-text">
-                            </div> -->
+                            </div>
                     </div>
                 </div>
                 <div class="col-xl-8">
@@ -379,11 +444,14 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-xl-3">
+                    <img src="assets/images/logo/fffff." alt="">
+                </div>
             </div>
 
 
         </div>
-    </section>
+    </section> -->
     <!-- Banner area end here -->
 
     <!-- About area start here -->
@@ -462,16 +530,16 @@
 
 
 
-    <section class="py-5 banner" data-background="assets/images/bg/banner1.jpg">
+    <section class="py-5 ">
         <div class="container" data-aos="fade-up">
             <h2 class="text-center text-capitalize mb-5 contact_text" data-aos="fade-down">
-                Comparing Organic and Chemical Farming
+                Comparing Bio-Organic and Chemical Farming
             </h2>
 
             <!-- Tabs -->
             <div class="row text-center justify-content-center mb-4" data-aos="fade-up">
 
-                <div class="col-md-3 custom-tab active m-2 " data-target="#natural-tab">Organic Agriculture</div>
+                <div class="col-md-3 custom-tab active m-2 " data-target="#natural-tab">Bio-Organic Agriculture</div>
                 <div class="col-md-3 custom-tab  m-2  " data-target="#chemical-tab">Chemical Agriculture</div>
             </div>
 
@@ -492,12 +560,16 @@
                         <p><i class="fa fa-check-circle"></i> &nbsp; Health Risks</p>
                         <p><i class="fa fa-check-circle"></i> &nbsp; Loss of Biodiversity</p>
                         <p><i class="fa fa-check-circle"></i> &nbsp; Air Pollution</p>
+
+
+
+
                     </div>
                 </div>
             </div>
 
             <div id="natural-tab" class="custom-tab-content active" data-aos="fade-left">
-                <h3 class="text-center text-capitalize contact_text mb-4">Organic Agriculture</h3>
+                <h3 class="text-center text-capitalize contact_text mb-4">Bio-Organic Agriculture</h3>
                 <div class="row align-items-center">
                     <div class="col-md-6 natural_agri_image" data-aos="fade-right">
                         <img src="assets/images/logo/natural_agri.png" alt="Natural Agriculture" class="img-fluid">
@@ -505,11 +577,11 @@
                     <div class="col-md-6" data-aos="fade-left">
                         <p class="natural_agri_section">
 
-                            Organic farming is a holistic and sustainable agricultural System . which   promotes Organic methods to enhance soil fertility, protect crop health, and ensure safe, nutritious produce. The focus is on working with nature : not against it, by preserving ecological balance and boosting long-term farm productivity . It reduces the  use of synthetic fertilizers  and harmful pesticides. </p>
+                            Bio-Organic farming is a holistic and sustainable agricultural System . which promotes Bio-Organic methods to enhance soil fertility, protect crop health, and ensure safe, nutritious produce. The focus is on working with nature : not against it, by preserving ecological balance and boosting long-term farm productivity . It reduces the use of synthetic fertilizers and harmful pesticides. </p>
 
                         <!-- Organic farming is a holistic and sustainable agricultural system that avoids the use of synthetic fertilizers, harmful pesticides, and genetically modified organisms (GMOs). Instead, it promotes Organic methods to enhance soil fertility, protect crop health, and ensure safe, nutritious produce. The focus is on working with nature—not against it—by preserving ecological balance and boosting long-term farm productivity </p> -->
                         <!--   and genetically modified organisms (GMOs).   -->
-                        
+
                         <h4 class="natural_agri_section">Improves Soil Health</h4>
                         <p><i class="fa fa-check-circle"></i> &nbsp; Enhances Soil Fertility</p>
                         <p><i class="fa fa-check-circle"></i> &nbsp;Preserves Biodiversity</p>
@@ -593,7 +665,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Empowering farmers with soil-enriching, chemical-free practices that Organically boost yields and deliver safe, nutritious food to every community</p>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Empowering farmers with soil-enriching, chemical-free practices that Bio-Organically boost yields and deliver safe, nutritious food to every community</p>
                     </div>
                 </div>
             </div>
@@ -606,7 +678,7 @@
                             <span>01</span>
                         </div>
                         <h3><a href="service.php">Organic Bio Farming</a></h3>
-                        <p>BIopesticides,Biofertilizer instead  of chemicals uses vermi compost, Farm Yard Manure (FYM)</p>
+                        <p>BIopesticides,Biofertilizer instead of chemicals uses vermi compost, Farm Yard Manure (FYM)</p>
 
                         <!-- <p>Focuses on using natural compost, vermicompost, green manure, and bio-pesticides instead
                             of chemicals</p> -->
@@ -624,8 +696,8 @@
                             <span>02</span>
                         </div>
                         <h3><a href="service.php">Eco-Friendly Farming</a></h3>
-                        <p>Organic  farming  minimizes pollution and supports a healthier planet by avoiding synthetic inputs. It nurtures 
-                             the soil and crops with sustainable practices</p>
+                        <p>Bio-Organic farming minimizes pollution and supports a healthier planet by avoiding synthetic inputs. It nurtures
+                            the soil and crops with sustainable practices</p>
                         <a class="work__item-arrow" href="service.php"><i class="fa-solid fa-arrow-right"></i></a>
                         <div class="work__item-leaf">
                             <img src="assets/images/shape/work-leaf.png" alt="">
@@ -667,18 +739,254 @@
     </section>
     <!-- Work area end here -->
 
+
+
+
+    <section class="ftco-section">
+        <div class="container">
+            <div class="row justify-content-center mb-5 pb-3">
+                <div class="col-md-12 heading-section ftco-animate text-center">
+                    <h2 class="mb-1">
+                        Uses Of Biopesticides</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="services-2 ftco-animate d-flex w-100">
+                        <div class="icon d-flex justify-content-center align-items-center order-md-last">
+                            <span class="flaticon-meditation"></span>
+                        </div>
+                        <div class="text text-md-right pl-4 pl-md-0 pr-md-4">
+                            <h3>Safe for Humans and Animals</h3>
+                            <p>Biopesticides are non-toxic, reducing health risks compared to
+                                chemical pesticides</p>
+                        </div>
+                    </div>
+                    <div class="services-2 ftco-animate d-flex w-100">
+                        <div class="icon d-flex justify-content-center align-items-center order-md-last">
+                            <span class="flaticon-meditation"></span>
+                        </div>
+                        <div class="text text-md-right pl-4 pl-md-0 pr-md-4">
+                            <h3>Target Specific Pests</h3>
+
+
+                            <p>They attack only harmful insects or pathogens, preserving beneficial micro
+                                organisms like bees and earthwormsl</p>
+                        </div>
+                    </div>
+                    <!-- <div class="services-2 ftco-animate d-flex w-100">
+							<div class="icon d-flex justify-content-center align-items-center order-md-last">
+								<span class="flaticon-meditation"></span>
+							</div>
+							<div class="text text-md-right pl-4 pl-md-0 pr-md-4">
+								<h3>Improves your flexibility</h3>
+								<p>"Enhances Flexibility for Better Mobility and Posture"</p>
+							</div>
+						</div>
+						<div class="services-2 ftco-animate d-flex w-100">
+							<div class="icon d-flex justify-content-center align-items-center order-md-last">
+								<span class="flaticon-meditation"></span>
+							</div>
+							<div class="text text-md-right pl-4 pl-md-0 pr-md-4">
+								<h3>Protects your spine</h3>
+								<p>"Strengthens and Protects Your Spine for Better Posture"</p>
+							</div>
+						</div> -->
+                </div>
+
+                <div class="col-md-4 d-flex pb-4">
+                    <img src=" ./assets/images/logo/natural_agri.png" alt="" class="img-fluid">
+                </div>
+
+                <div class="col-md-4">
+                    <!-- <div class="services-2 ftco-animate d-flex w-100">
+							<div class="icon d-flex justify-content-center align-items-center\">
+								<span class="flaticon-meditation"></span>
+							</div>
+							<div class="text text-left pl-4">
+								<h3>Betters your bone health</h3>
+								<p>"Improves Bone Health and Strength"</p>
+							</div>
+						</div>
+						<div class="services-2 ftco-animate d-flex w-100">
+							<div class="icon d-flex justify-content-center align-items-center\">
+								<span class="flaticon-meditation"></span>
+							</div>
+							<div class="text text-left pl-4">
+								<h3>Increases your blood flow</h3>
+								<p>"Boosts Circulation and Increases Blood Flow".</p>
+							</div>
+						</div> -->
+                    <div class="services-2 ftco-animate d-flex w-100">
+                        <div class="icon d-flex justify-content-center align-items-center\">
+                            <span class="flaticon-meditation"></span>
+                        </div>
+                        <div class="text text-left pl-4">
+                            <h3> Prevent Pest Resistance</h3>
+
+
+
+
+                            <p> Unlike chemical pesticides, biopesticides , do not induce the risk of pests developing resistance, soil health and crop integrity
+                            </p>
+                        </div>
+                    </div>
+                    <div class="services-2 ftco-animate d-flex w-100">
+                        <div class="icon d-flex justify-content-center align-items-center\">
+                            <span class="flaticon-meditation"></span>
+                        </div>
+                        <div class="text text-left pl-4">
+
+
+
+
+
+                            <h3> Support Bio-Organic Farming Practices</h3>
+                            <p>Biopesticides are a key tool in Bio-organic agriculture, maintaining pest
+                                control without compromising soil and crop integrity
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+    <section class="ftco-section-fertilizers">
+        <div class="container">
+            <div class="row justify-content-center mb-5 pb-3">
+                <div class="col-md-12 heading-section ftco-animate text-center">
+                    <h2 class="mb-1">
+                        Uses Of Biofertilizers </h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="services-2 ftco-animate d-flex w-100">
+                        <div class="icon d-flex justify-content-center align-items-center order-md-last">
+                            <span class="flaticon-meditation"></span>
+                        </div>
+                        <div class="text text-md-right pl-4 pl-md-0 pr-md-4">
+                            <h3>Safe for Humans and Animals</h3>
+                            <p>Biopesticides are non-toxic, reducing health risks compared to
+                                chemical pesticides</p>
+                        </div>
+                    </div>
+                    <div class="services-2 ftco-animate d-flex w-100">
+                        <div class="icon d-flex justify-content-center align-items-center order-md-last">
+                            <span class="flaticon-meditation"></span>
+                        </div>
+                        <div class="text text-md-right pl-4 pl-md-0 pr-md-4">
+                            <h3>Target Specific Pests</h3>
+
+
+                            <p>They attack only harmful insects or pathogens, preserving beneficial micro
+                                organisms like bees and earthwormsl</p>
+                        </div>
+                    </div>
+                    <!-- <div class="services-2 ftco-animate d-flex w-100">
+							<div class="icon d-flex justify-content-center align-items-center order-md-last">
+								<span class="flaticon-meditation"></span>
+							</div>
+							<div class="text text-md-right pl-4 pl-md-0 pr-md-4">
+								<h3>Improves your flexibility</h3>
+								<p>"Enhances Flexibility for Better Mobility and Posture"</p>
+							</div>
+						</div>
+						<div class="services-2 ftco-animate d-flex w-100">
+							<div class="icon d-flex justify-content-center align-items-center order-md-last">
+								<span class="flaticon-meditation"></span>
+							</div>
+							<div class="text text-md-right pl-4 pl-md-0 pr-md-4">
+								<h3>Protects your spine</h3>
+								<p>"Strengthens and Protects Your Spine for Better Posture"</p>
+							</div>
+						</div> -->
+                </div>
+
+                <div class="col-md-4 d-flex pb-4">
+                    <img src=" ./assets/images/logo/natural_agri.png" alt="" class="img-fluid">
+                </div>
+
+                <div class="col-md-4">
+                    <!-- <div class="services-2 ftco-animate d-flex w-100">
+							<div class="icon d-flex justify-content-center align-items-center\">
+								<span class="flaticon-meditation"></span>
+							</div>
+							<div class="text text-left pl-4">
+								<h3>Betters your bone health</h3>
+								<p>"Improves Bone Health and Strength"</p>
+							</div>
+						</div>
+						<div class="services-2 ftco-animate d-flex w-100">
+							<div class="icon d-flex justify-content-center align-items-center\">
+								<span class="flaticon-meditation"></span>
+							</div>
+							<div class="text text-left pl-4">
+								<h3>Increases your blood flow</h3>
+								<p>"Boosts Circulation and Increases Blood Flow".</p>
+							</div>
+						</div> -->
+                    <div class="services-2 ftco-animate d-flex w-100">
+                        <div class="icon d-flex justify-content-center align-items-center\">
+                            <span class="flaticon-meditation"></span>
+                        </div>
+                        <div class="text text-left pl-4">
+                            <h3> Prevent Pest Resistance</h3>
+
+
+
+
+                            <p> Unlike chemical pesticides, biopesticides , do not induce the risk of pests developing resistance, soil health and crop integrity
+                            </p>
+                        </div>
+                    </div>
+                    <div class="services-2 ftco-animate d-flex w-100">
+                        <div class="icon d-flex justify-content-center align-items-center\">
+                            <span class="flaticon-meditation"></span>
+                        </div>
+                        <div class="text text-left pl-4">
+
+
+
+
+
+                            <h3> Support Bio-Organic Farming Practices</h3>
+                            <p>Biopesticides are a key tool in Bio-organic agriculture, maintaining pest
+                                control without compromising soil and crop integrity
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+
+
+
     <!-- Service area start here -->
-    <section class="service pb-60">
+    <!-- <section class="service pb-60">
         <div class="service__shape wow slideInRight d-none d-xl-block" data-wow-duration="1s" data-wow-delay="1s">
             <img src=" assets/images/shape/service1.png" alt="shape">
         </div>
         <div class="text-center pb-3">
             <h5 class="primary-color wow fadeInUp py-5" data-wow-duration="1.2s" data-wow-delay=".2s"><img
-                    class="me-1" src="assets/images/icon/leaf.svg" alt="image"> OUR SERVICE
+                    class="me-1" src="assets/images/icon/leaf.svg" alt="image"> Our Products
             </h5>
         </div>
-        <!-- Text slider area start here -->
-        <!-- <div class="marquee-wrapper text-slider">
+       
+        <div class="marquee-wrapper text-slider">
                 <div class="marquee-inner to-left">
                     <ul class="marqee-list d-flex">
                         <li class="marquee-item">
@@ -699,8 +1007,8 @@
                         </li>
                     </ul>
                 </div>
-            </div> -->
-        <!-- Text slider area end here -->
+            </div>
+     
         <div class="container">
 
 
@@ -765,13 +1073,14 @@
                                     <div id="collapseThree" class="accordion-collapse collapse"
                                         aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>Unlike chemical pesticides, biopesticides , do not induce the risk of pests developing resistance. ncrerasing soil health and crop integrity
+                                            Prevent Pest Resistance
+                                            <p>Unlike chemical pesticides, biopesticides , do not induce the risk of pests developing resistance, soil health and crop integrity
 
                                             </p>
 
-                                            <!-- <p>Unlike chemical pesticides, biopesticides work in natural ways,
+                                            <p>Unlike chemical pesticides, biopesticides work in natural ways,
                                                 lowering the risk of pests developing resistance
-                                            </p> -->
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -782,13 +1091,14 @@
                                             data-image="assets/images/service/04.jpg" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                             aria-expanded="false" aria-controls="collapseFour">
-                                            Support Organic Farming Practices
+                                            Support Bio-Organic Farming Practices
                                         </button>
                                     </h2>
                                     <div id="collapseFour" class="accordion-collapse collapse"
                                         aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>Biopesticides are a key tool in organic agriculture, maintaining pest
+                                            Support Bio-Organic Farming Practices
+                                            <p>Biopesticides are a key tool in Bio-organic agriculture, maintaining pest
                                                 control without compromising soil and crop integrity
                                             </p>
                                         </div>
@@ -798,11 +1108,11 @@
                         </div>
 
 
-                        <!-- <a href="biopesticides.php" class="btn-one wow fadeInUp" data-wow-duration="1.5s"
+                        <a href="biopesticides.php" class="btn-one wow fadeInUp" data-wow-duration="1.5s"
                                 data-wow-delay=".5s"><span>More Details</span> <i
-                                    class="fa-solid fa-angles-right"></i></a> -->
-                        <!-- <a href="biopesticides.php" class=" bio_btn wow fadeInUp" data-wow-duration="1.6s"
-                                data-wow-delay=".6s"><span>More Details</span></a> -->
+                                    class="fa-solid fa-angles-right"></i></a>
+                        <a href="biopesticides.php" class=" bio_btn wow fadeInUp" data-wow-duration="1.6s"
+                                data-wow-delay=".6s"><span>More Details</span></a>
                     </div>
                 </div>
                 <div class="col-12 col-md-6">
@@ -818,7 +1128,7 @@
                                             data-image="assets/images/service/01.jpg" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseSix"
                                             aria-expanded="true" aria-controls="collapseSix">
-                                            Organically Enhance Soil Fertility Naturally
+                                            Bio-Organically Enhance Soil Fertility Naturally
                                         </button>
                                     </h2>
                                     <div id="collapseSix" class="accordion-collapse collapse"
@@ -843,13 +1153,13 @@
                                     <div id="collapseSeven" class="accordion-collapse collapse"
                                         aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>They promote lone-term soil health Safe Guarding  The environment , reduce dependency on chemical fertilizers and promote long-term
+                                            <p>They promote lone-term soil health Safe Guarding The environment , reduce dependency on chemical fertilizers and promote long-term
                                                 soil health without harming the environment
                                             </p>
 
-                                            <!-- <p>They reduce dependency on chemical fertilizers and promote long-term
+                                            <p>They reduce dependency on chemical fertilizers and promote long-term
                                                 soil health without harming the environment
-                                            </p> -->
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -885,7 +1195,7 @@
                                     <div id="collapseFive" class="accordion-collapse collapse"
                                         aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>Biofertilizers are natural microbes that boost soil fertility by fixing nitrogen and enhancing plant growth.
+                                            <p> Bio-pesticides and Bio-fertilizers are Organic microbes that boost soil fertility by fixing nitrogen and enhancing plant growth.
                                                 They reduce the need for chemicals, improve soil health, and support sustainable farming</p>
                                         </div>
                                     </div>
@@ -894,12 +1204,12 @@
                         </div>
 
 
-                        <!-- <a href="biopesticides.php" class="btn-one wow fadeInUp" data-wow-duration="1.5s"
+                        <a href="biopesticides.php" class="btn-one wow fadeInUp" data-wow-duration="1.5s"
                                 data-wow-delay=".5s"><span>More Details</span> <i
-                                    class="fa-solid fa-angles-right"></i></a> -->
+                                    class="fa-solid fa-angles-right"></i></a>
 
-                        <!-- <a href="biopesticides.php" class=" bio_btn wow fadeInUp" data-wow-duration="1.6s"
-                                data-wow-delay=".6s"><span>More Details</span></a> -->
+                        <a href="biopesticides.php" class=" bio_btn wow fadeInUp" data-wow-duration="1.6s"
+                                data-wow-delay=".6s"><span>More Details</span></a>
 
                     </div>
                 </div>
@@ -917,7 +1227,7 @@
 
 
 
-            <!-- <div class="row g-4">
+            <div class="row g-4">
                     <div class="col-xl-6">
                         <div class="service__left-item">
                             <div class="accordion" id="accordionExample">
@@ -1002,9 +1312,9 @@
                             <img id="myImage" src="assets/images/logo/sprey.png" alt="image">
                         </div>
                     </div>
-                </div>  -->
+                </div> 
         </div>
-    </section>
+    </section> -->
     <!-- Service area end here -->
 
     <!-- Achievement area start here -->
@@ -1014,7 +1324,7 @@
                 <div class="col-lg-5 achievement__bor-right wow fadeInUp" data-wow-duration="1.2s"
                     data-wow-delay=".2s">
                     <div class="achievement__item">
-                        <h2 class="text-white pt-3 pb-3">🌿Soil is the Living Foundation of Organic Farming
+                        <h2 class="text-white pt-3 pb-3">🌿Soil is the Living Foundation of Bio-Organic Farming
                         </h2>
                     </div>
                 </div>
@@ -1024,7 +1334,7 @@
                         <img src="assets/images/icon/achieve1.png" alt="icon">
                         <!-- <img src="assets/images/logo/1.png" alt="icon"> -->
 
-                        <h5>Boosts Soil Fertility Organically</h5>
+                        <h5>Boosts Soil Fertility Bio-Organically</h5>
                         <!-- <span class="count">6,472,068</span> -->
                     </div>
                 </div>
@@ -1081,6 +1391,11 @@
                             style="background-image: url(assets/images/logo/climate_resilience.png);">
                         </div>
                     </div>
+                    <div class="swiper-slide">
+                        <div class="project__image bg-image"
+                            style="background-image: url(assets/images/logo/paddy.png);">
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="container">
@@ -1089,8 +1404,8 @@
                         <div class="section-header pr-20">
                             <h5 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s"><img
                                     src="assets/images/icon/leaf.svg" alt="image"> OUR case study</h5>
-                            <h2 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">Organic Farming: A Path to Sustainable Growth</h2>
-                            <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Organic farming empowers communities by using eco-friendly methods, Bio products , and local wisdom. It restores soil health, increases crop productivity, and supports long-term food security while building climate resilience and uplifting rural livelihoods</p>
+                            <h2 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">Bio-Organic Farming: A Path to Sustainable Growth</h2>
+                            <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Bio-Organic farming empowers communities by using eco-friendly methods, Bio products , and local wisdom. It restores soil health, increases crop productivity, and supports long-term food security while building climate resilience and uplifting rural livelihoods</p>
                         </div>
                         <div class="arry-btn mb-4 d-block d-lg-none">
                             <button class="arry-prev project-arry-prev"><i
@@ -1113,7 +1428,7 @@
                                                 <h3>Regenerative Farming</h3>
 
                                                 <p>
-                                                    Restore Rejuvenate the degreate soil leading to soil Regeneration
+                                                    Restore Rejuvenate the degraded soil leading to soil Regeneration
                                                 </p>
                                                 <!-- <p>Regenerative farming rebuilds organic matter and restores
                                                     degraded soil. 
@@ -1150,7 +1465,7 @@
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="project__item">
-                                                <h3>Organic Inputs</h3>
+                                                <h3>Bio-Organic Inputs</h3>
                                                 <p>Using biofertilizers, Biopesticides replaces
                                                     chemicals with safe, eco-friendly inputs that maintain purity
                                                     and protect the ecosystem.
@@ -1162,9 +1477,19 @@
                                         <div class="swiper-slide">
                                             <div class="project__item">
                                                 <h3>Climate Resilience</h3>
-                                                <p>Our Organic farming methods help crops withstand climate
+                                                <p>Our Bio-Organic farming methods help crops withstand climate
                                                     stress—ensuring food security despite droughts, floods, and
                                                     changing weather patterns.
+
+
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                        <div class="swiper-slide">
+                                            <div class="project__item">
+                                                <h3>Organic Paddy for Safer Harvests</h3>
+                                                <p>Paddy grown with organic inputs ensures toxin-free, nutrient-rich grains that are safe for both people and the planet. Using compost green manure, and bio-fertilizers promotes healthy root systems, improves soil fertility
 
 
                                                 </p>
@@ -1208,6 +1533,11 @@
                                             <img src="assets/images/logo/climate_resilience.png" alt="image">
                                         </div>
                                     </div>
+                                    <div class="swiper-slide">
+                                        <div class="image">
+                                            <img src="assets/images/logo/paddy.png" alt="image">
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -1228,18 +1558,17 @@
 
 
 
-    <section class="card_section">
+    <!-- <section class="card_section">
         <div class="container">
-            <!-- Add this inside a container or section -->
+            
             <div class="row">
-                <!-- Card 1 -->
+             
                 <div class="col-md-4 mb-4">
                     <div class="progress-card p-4 text-center shadow-sm rounded h-100 transition-hover">
                         <i class="fas fa-leaf fa-2x mb-3 text-success"></i>
 
-                        <!-- <img src="assets/images/icons/carbon.png" alt="Carbon Icon" class="mb-3" style="width: 60px;"> -->
                         <h5 class="mb-2">Carbon Offsetting</h5>
-                        <p class="small text-muted">Carbon Offsetting in organic farming helps reduce greenhouse gas emissions by promoting natural carbon absorption through healthy soil practices in organic farming</p>
+                        <p class="small text-muted">Carbon Offsetting in Bio-organic farming helps reduce greenhouse gas emissions by promoting natural carbon absorption through healthy soil practices in Bio-organic farming</p>
                         <div class="progress mt-3">
                             <div class="progress-bar bg-success" style="width: 80%;" role="progressbar" aria-valuenow="80"
                                 aria-valuemin="0" aria-valuemax="100">80%</div>
@@ -1247,29 +1576,27 @@
                     </div>
                 </div>
 
-                <!-- Card 2 -->
+          
                 <div class="col-md-4 mb-4">
                     <div class="progress-card p-4 text-center shadow-sm rounded h-100 transition-hover">
                         <i class="fas fa-tint fa-2x mb-3 text-primary"></i>
 
-                        <!-- <img src="assets/images/icons/water.png" alt="Water Icon" class="mb-3" style="width: 60px;"> -->
                         <h5 class="mb-2">Water Conservation</h5>
-                        <p class="small text-muted">Water Conservation in organic farming ensures efficient water use through Organic methods like mulching, composting, and rainwater harvesting</p>
+                        <p class="small text-muted">Water Conservation in Bio-organic farming ensures efficient water use through Bio-Organic methods like mulching, composting, and rainwater harvesting</p>
                         <div class="progress mt-3">
                             <div class="progress-bar bg-primary" style="width: 90%;" role="progressbar" aria-valuenow="90"
                                 aria-valuemin="0" aria-valuemax="100">90%</div>
                         </div>
                     </div>
                 </div>
-
-                <!-- Card 3 -->
+    
                 <div class="col-md-4 mb-4">
                     <div class="progress-card p-4 text-center shadow-sm rounded h-100 transition-hover">
                         <i class="fas fa-recycle fa-2x mb-3 text-warning"></i>
 
-                        <!-- <img src="assets/images/icons/ewaste.png" alt="E-waste Icon" class="mb-3" style="width: 60px;"> -->
+                       
                         <h5 class="mb-2">E-Waste Recycling</h5>
-                        <p class="small text-muted">E-Waste Recycling supports organic farming by promoting sustainability and reducing environmental pollution from discarded electronic materials</p>
+                        <p class="small text-muted">E-Waste Recycling supports Bio-organic farming by promoting sustainability and reducing environmental pollution from discarded electronic materials</p>
                         <div class="progress mt-3">
                             <div class="progress-bar bg-warning" style="width: 70%;" role="progressbar" aria-valuenow="70"
                                 aria-valuemin="0" aria-valuemax="100">70%</div>
@@ -1279,7 +1606,7 @@
             </div>
 
         </div>
-    </section>
+    </section> -->
 
     <!-- Donation area start here -->
     <!-- <section class="donation pt-130 pb-130" data-background="assets/images/bg/donation.jpg">
@@ -1418,13 +1745,13 @@
                                     </div>
                                     <div class="testimonial__item-head-info-con">
                                         <h3>Ramesh Yadav</h3>
-                                        <span>Organic Farmer</span>
+                                        <span>Bio-Organic Farmer</span>
                                     </div>
                                 </div>
                                 <i class="fa-solid fa-quote-right"></i>
                             </div>
                             <div class="testimonial__item-content">
-                                <p>"Switching to organic farming has completely transformed my land and my livelihood. The soil is richer, pests are manageable without chemicals, and my produce is healthier and in higher demand."
+                                <p>"Switching to Bio-organic farming has completely transformed my land and my livelihood. The soil is richer, pests are manageable without chemicals, and my produce is healthier and in higher demand."
                                 </p>
                             </div>
                         </div>
@@ -1444,7 +1771,7 @@
                                 <i class="fa-solid fa-quote-right"></i>
                             </div>
                             <div class="testimonial__item-content">
-                                <p>"Organic practices not only improved our crop quality but also reduced our input costs over time. Composting, Organic fertilizers, and crop rotation are now a way of life on our farm."
+                                <p>"Bio-Organic practices not only improved our crop quality but also reduced our input costs over time. Composting, Bio-Organic fertilizers, and crop rotation are now a way of life on our farm."
                                 </p>
                             </div>
                         </div>
@@ -1464,7 +1791,7 @@
                                 <i class="fa-solid fa-quote-right"></i>
                             </div>
                             <div class="testimonial__item-content">
-                                <p>Consumers appreciate the taste and safety of organic produce. I’ve built trust in my community by delivering food grown without harmful pesticides or GMOs.
+                                <p>Consumers appreciate the taste and safety of Bio-organic produce. I’ve built trust in my community by delivering food grown without harmful pesticides or GMOs.
                                 </p>
                             </div>
                         </div>
@@ -1586,8 +1913,8 @@
                                         <div class="col-md-5">
                                             <div class="blog__item-left-content">
                                                 <span class="blog__tag">Environment</span>
-                                                <h3>Farmers’ body urges AP govt to embrace organic inputs</h3>
-                                                <p>The Federation of All India Farmer Associations (FAIFA) has emphasized the need for climate-resilient farming in Andhra Pradesh. They advocate targeted subsidies for organic inputs, micro‑irrigation, and renewable energy to support small farmers facing climate threats
+                                                <h3>Farmers’ body urges AP govt to embrace Bio-organic inputs</h3>
+                                                <p>The Federation of All India Farmer Associations (FAIFA) has emphasized the need for climate-resilient farming in Andhra Pradesh. They advocate targeted subsidies for Bio-organic inputs, micro‑irrigation, and renewable energy to support small farmers facing climate threats
 
                                                 </p>
                                                 <!-- <span class="blog__item-left-content-info">By <strong>Max
@@ -1611,7 +1938,7 @@
                                                     Mechanization</h3>
                                                 <p>Union Minister urges use of biochar and solar tractors to cut
                                                     costs.
-                                                    Plans launched to boost organic profits via Bhakti Farm Market.
+                                                    Plans launched to boost Bio-organic profits via Bhakti Farm Market.
                                                 </p>
                                                 <!-- <span class="blog__item-left-content-info">By <strong>Max
                                                             Trewhitt</strong> 2
@@ -1630,7 +1957,7 @@
                                         <div class="col-md-5">
                                             <div class="blog__item-left-content">
                                                 <span class="blog__tag">Environment</span>
-                                                <h3>UP's Push for Large-Scale Organic
+                                                <h3>UP's Push for Large-Scale Bio-Organic
                                                     Farming</>
                                                 </h3>
                                                 <p>Targeting 50 lakh farmers under the Viksit Krishi Sankalp
@@ -1661,7 +1988,7 @@
                         <div class="image d-block">
                             <img src="assets/images/logo/latest_img.png" alt="image">
                         </div>
-                        <h3 class="p-2">Organic agriculture promotes healthy soil, chemical-free
+                        <h3 class="p-2">Bio-Organic agriculture promotes healthy soil, chemical-free
                             crops, and sustainable living</a>
                         </h3>
                         <!-- <div class="d-flex align-items-center justify-content-between">

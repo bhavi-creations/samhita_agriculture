@@ -26,7 +26,7 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-<!-- slider  -->
+    <!-- slider  -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
 
 
@@ -57,7 +57,7 @@
 
     <section>
         <marquee class="marquee-section">
-            Organic Farming Growing Naturally for a Healthier Future &nbsp; &nbsp; / &nbsp; &nbsp;
+            Bio-Organic Farming &nbsp; &nbsp; / &nbsp; &nbsp;
             Improves Soil Health &nbsp; &nbsp; / &nbsp; &nbsp;
             Produces Safe and Nutritious Food &nbsp; &nbsp; / &nbsp; &nbsp;
             Protects the Environment
@@ -128,7 +128,7 @@
                             <li><a href="index.php">Home</a></li>
                             <li><a href="about.php">About Us</a></li>
                             <li class="has-submenu mobile-click-toggle">
-                                <a href="#" onclick="toggleSubmenu(event)">Services</a>
+                                <a href="#" onclick="toggleSubmenu(event)">Products</a>
                                 <ul class="sub-menu">
                                     <li><a href="biopesticides.php">Biopesticides</a></li>
                                     <li><a href="biofertilizers.php">Biofertilizers</a></li>
@@ -139,6 +139,8 @@
                             <li><a href="gallery.php">Gallery </a></li>
 
                             <li><a href="contact.php">Contact Us</a></li>
+                            <li><a href="assets/images/logo/samhita_logo.png" target="_blank" download>Download Catalog</a></li>
+
                         </ul>
 
                     </div>
@@ -178,16 +180,30 @@
             <div class="px-4 py-2 d-flex justify-content-between align-items-center flex-wrap">
 
                 <!-- Logo + Name -->
-                <div class="header_one__logo d-flex align-items-center">
+                <!-- <div class="header_one__logo d-flex align-items-center position-relative">
+                    <div class="diagonal-line-left"></div>
+
                     <a href="index.php">
                         <img src="assets/images/logo/header_logo.png" alt="logo" class="img-fluid" style="width: 70px;">
                     </a>
-                    <div class="ms-2 text-uppercase fw-bold" style="color:#2e7d32; line-height: 1.2;">
-                        <p class="mb-0">Samhita</p>
-                        <p class="mb-0">Soil</p>
-                        <p class="mb-0">Solutions</p>
+                    <div class="ms-2 text-uppercase fw-bold samhita_text" style="color:#2e7d32; line-height: 1.2;">
+                        <p class="mb-0 samhitha_name">Samhita</p>
+                        <p class="mb-0">Soil Solutions</p>
+                    </div>
+                </div> -->
+
+                <div class="header_one__logo d-flex align-items-center position-relative">
+                    <div class="diagonal-color-bg"></div> 
+
+                    <a href="index.php" class="position-relative z-1">
+                        <img src="assets/images/logo/header_logo.png" alt="logo" class="img-fluid" style="width: 70px;">
+                    </a>
+                    <div class="ms-2 text-uppercase fw-bold samhita_text position-relative z-1" style="color:#fff; line-height: 1.2;">
+                        <p class="mb-0 samhitha_name">Samhita</p>
+                        <p class="mb-0">Soil Solutions</p>
                     </div>
                 </div>
+
 
                 <!-- Navigation Menu -->
                 <div class="desktop-menu ms-auto">
@@ -195,7 +211,7 @@
                         <li><a href="index.php">Home</a></li>
                         <li><a href="about.php">About Us</a></li>
                         <li class="has-submenu position-relative">
-                            <a href="service.php">Services</a>
+                            <a href="service.php">Products</a>
                             <ul class="sub-menu position-absolute list-unstyled p-2 bg-white shadow">
                                 <li><a href="biopesticides.php">Biopesticides</a></li>
                                 <li><a href="biofertilizers.php">Biofertilizers</a></li>
@@ -203,6 +219,8 @@
                         </li>
                         <li><a href="gallery.php">Gallery</a></li>
                         <li><a href="contact.php">Contact Us</a></li>
+                        <li><a href="assets/images/logo/samhita_logo.png" target="_blank" download> Catalog</a></li>
+
                     </ul>
                 </div>
             </div>

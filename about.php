@@ -151,7 +151,7 @@
 
 
                             <p>
-                                Samhita Soil Solutions is a pioneering company in the field of biopesticides, biofertilizers, and micronutrients. Our company was founded by Balusu Parvathi Rajyam, BSc (Ag), a renowned agricultural scientist with a passion for sustainable farming practices and former Agriculture Office in the Agriculture Department of the AP Government
+                                Samhita Soil Solutions is a pioneering Firm in the field of biopesticides, biofertilizers, and micronutrients. Our company was founded by Balusu Parvathi Rajyam, BSc (Ag), a renowned agricultural scientist with a passion for sustainable farming practices.
 
 
                             </p>
@@ -167,23 +167,26 @@
                                     Soil Health Improvement
                                 </li>
                                 <li class="mb-30"><img class="pe-2" src="assets/images/icon/leaf.svg" alt="icon">
-                                    Chemical-Free Food Production
+                                    
+                                    Better Crop Resilience
                                 </li>
                             </ul>
                             <ul class="wow fadeInDown" data-wow-duration="1.4s" data-wow-delay=".4s">
                                 <li class="mb-30"><img class="pe-2" src="assets/images/icon/leaf.svg" alt="icon">
-                                    Low Cost and Farmer-Friendly
+                                  
+                                    Chemical-Free Food Production
                                 </li>
                                 <li class="mb-30"><img class="pe-2" src="assets/images/icon/leaf.svg" alt="icon">
-                                    Environmental Sustainability
+                                    
+                                    Empowers Rural Communities
                                 </li>
                             </ul>
                             <ul class="wow fadeInDown" data-wow-duration="1.6s" data-wow-delay=".6s">
                                 <li class="mb-30"><img class="pe-2" src="assets/images/icon/leaf.svg" alt="icon">
-                                    Better Crop Resilience
+                                Environmental Sustainability
                                 </li>
                                 <li class="mb-30"><img class="pe-2" src="assets/images/icon/leaf.svg" alt="icon">
-                                    Empowers Rural Communities
+                                Low Cost and Farmer-Friendly
                                 </li>
                             </ul>
                         </div>

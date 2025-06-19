@@ -40,7 +40,7 @@
                 <div class="col-xl-4 col-md-6 wow fadeInUp sub_menu_section" data-wow-duration="1.2s" data-wow-delay=".2s">
                     <div class="footer__item">
                         <div class="footer__item-title">
-                            <h4>about Agricultural</h4>
+                            <h4>about Samhita</h4>
                             <span class="footer__item-title-line"></span><span
                                 class="footer__item-title-line2"></span>
                         </div>
