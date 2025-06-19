@@ -864,10 +864,10 @@
 
 
 
+ <!-- bio-fertilizers  -->
 
 
-
-    <section class="ftco-section-fertilizers">
+    <!-- <section class="ftco-section-fertilizers">
         <div class="container">
             <div class="row justify-content-center mb-5 pb-3">
                 <div class="col-md-12 heading-section ftco-animate text-center">
@@ -898,24 +898,7 @@
                                 soil health without harming the environment</p>
                         </div>
                     </div>
-                    <!-- <div class="services-2 ftco-animate d-flex w-100">
-							<div class="icon d-flex justify-content-center align-items-center order-md-last">
-								<span class="flaticon-meditation"></span>
-							</div>
-							<div class="text text-md-right pl-4 pl-md-0 pr-md-4">
-								<h3>Improves your flexibility</h3>
-								<p>"Enhances Flexibility for Better Mobility and Posture"</p>
-							</div>
-						</div>
-						<div class="services-2 ftco-animate d-flex w-100">
-							<div class="icon d-flex justify-content-center align-items-center order-md-last">
-								<span class="flaticon-meditation"></span>
-							</div>
-							<div class="text text-md-right pl-4 pl-md-0 pr-md-4">
-								<h3>Protects your spine</h3>
-								<p>"Strengthens and Protects Your Spine for Better Posture"</p>
-							</div>
-						</div> -->
+                   
                 </div>
 
                 <div class="col-md-6 col-lg-4 d-flex pb-4">
@@ -923,24 +906,7 @@
                 </div>
 
                 <div class="col-md-6 col-lg-4">
-                    <!-- <div class="services-2 ftco-animate d-flex w-100">
-							<div class="icon d-flex justify-content-center align-items-center\">
-								<span class="flaticon-meditation"></span>
-							</div>
-							<div class="text text-left pl-4">
-								<h3>Betters your bone health</h3>
-								<p>"Improves Bone Health and Strength"</p>
-							</div>
-						</div>
-						<div class="services-2 ftco-animate d-flex w-100">
-							<div class="icon d-flex justify-content-center align-items-center\">
-								<span class="flaticon-meditation"></span>
-							</div>
-							<div class="text text-left pl-4">
-								<h3>Increases your blood flow</h3>
-								<p>"Boosts Circulation and Increases Blood Flow".</p>
-							</div>
-						</div> -->
+                   
                     <div class="services-2 ftco-animate d-flex w-100">
                         <div class="icon d-flex justify-content-center align-items-center\">
                             <span class="flaticon-meditation"></span>
@@ -980,7 +946,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
 
 
@@ -1335,7 +1301,7 @@
     <!-- Service area end here -->
 
     <!-- Achievement area start here -->
-    <section class="achievement">
+    <!-- <section class="achievement">
         <div class="container">
             <div class="row g-4 align-items-center justify-content-between">
                 <div class="col-lg-5 achievement__bor-right wow fadeInUp" data-wow-duration="1.2s"
@@ -1372,7 +1338,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Achievement area end here -->
 
     <!-- Project area start here -->
