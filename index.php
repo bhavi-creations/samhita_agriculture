@@ -294,7 +294,7 @@
 
 
 
-    <section class="about_new_section banner" data-background="assets/images/bg/banner1.jpg">
+    <!-- <section class="about_new_section banner" data-background="assets/images/bg/banner1.jpg">
         <div class="container">
 
             <div class="banner__leaf wow slideInLeft d-none d-md-block" data-wow-duration="1s" data-wow-delay="1s">
@@ -359,7 +359,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
 
 
@@ -864,10 +864,10 @@
 
 
 
- <!-- bio-fertilizers  -->
 
 
-    <!-- <section class="ftco-section-fertilizers">
+
+    <section class="ftco-section-fertilizers">
         <div class="container">
             <div class="row justify-content-center mb-5 pb-3">
                 <div class="col-md-12 heading-section ftco-animate text-center">
@@ -946,7 +946,7 @@
                 </div>
             </div>
         </div>
-    </section> -->
+    </section>
 
 
 
