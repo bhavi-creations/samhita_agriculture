@@ -35,7 +35,7 @@
 
 
     <section class="first_section_images">
-        <img src="./assets/images/logo/index_main_images_111." alt="" class="img-fluid">
+        <img src="./assets/images/logo/index_main_images_111.png" alt="" class="img-fluid">
     </section>
 
 
