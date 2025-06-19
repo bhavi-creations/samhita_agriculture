@@ -1519,7 +1519,7 @@ input {
 
 .sub-bg {
   /* background-color: var(--sub-bg); */
-  background-color: #ebebeb;
+  /* background-color: #ebebeb; */
 
 
  
@@ -2211,7 +2211,7 @@ input {
   font-weight: 600;
   transition: var(--transition);
   text-transform: capitalize;
-  padding: 35px 0;
+  /* padding: 35px 0; */
 }
 
 .header-wrapper .main-menu li a:hover {
@@ -4075,9 +4075,9 @@ input {
   box-shadow: 0px 4px 55px 10px rgba(75, 175, 71, 0.0784313725);
 }
 
-.achievement::before {
+/* .achievement::before {
   background-color: rgba(0, 0, 0, 0.6);
-}
+} */
 
 .achievement__item {
   position: relative;
@@ -8625,7 +8625,7 @@ margin-bottom: 2px;
 }
 .main-menu li a {
   display: block;
-  padding: 10px 15px;
+  padding: 10px 6px;
   text-decoration: none;
   color: #2e7d32;
   font-weight: 600;
@@ -9177,6 +9177,11 @@ margin-bottom: 2px;
 
 
 
+.desktop-menu form input[type="search"] {
+  max-width: 100px;
+}
+
+
 
 
 /* gym copy stylings  */
@@ -9277,6 +9282,56 @@ margin-bottom: 2px;
   line-height: 50px !important;
 }
 
-.work{
+/* .work{
   background-color: #f4f4f4;
 }
+
+
+.achievement {
+  background-color: #c0e3c9; 
+  padding: 60px 0;
+} */
+
+.achievement__item {
+  /* background:linear-gradient(to-left (#ecfbde,#dfeed0,#dfeed0,#dfeed0)); */
+  border: 2px solid #cbe6b2;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+  transition: all 0.3s ease-in-out;
+}
+
+.achievement__item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.1);
+}
+
+.achievement__item h2 {
+  color: #2e7d32;
+  font-weight: 700;
+  font-size: 28px;
+}
+
+.achievement__item h5 {
+  color: #2e7d32;
+  font-weight: 600;
+  font-size: 18px;
+  margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+/* .desktop-menu .main-menu > li > a {
+  letter-spacing: 0.3px;
+} */
+
+
+.for_plants_content p{
+  font-size: 34px  !important;
+}
+

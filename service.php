@@ -3,7 +3,7 @@
 
 <main>
     <!-- Page banner area start here -->
-    <section class="page-banner bg-image pt-130 pb-130">
+    <!-- <section class="page-banner bg-image pt-130 pb-130">
         <div class="container">
             <h2 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s">Services</h2>
             <div class="breadcrumb-list wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">
@@ -11,7 +11,12 @@
                 <span class="primary-color">Services</span>
             </div>
         </div>
-    </section>
+    </section> -->
+
+
+    <section class="first_section_images">
+    <img src="assets/images/logo/about_main_images_11.png" alt="" class="img-fluid">
+</section>
     <!-- Page banner area end here -->
 
     <!-- Work area start here -->

@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<section class="page-banner bg-image pt-130 pb-130">
+<!-- <section class="page-banner bg-image pt-130 pb-130">
     <div class="container">
         <h2 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s">Biopesticides</h2>
         <div class="breadcrumb-list wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">
@@ -8,6 +8,11 @@
             <span class="primary-color">Biopesticides </span>
         </div>
     </div>
+</section> -->
+
+
+<section class="first_section_images">
+    <img src="assets/images/logo/about_main_images_11.png" alt="" class="img-fluid">
 </section>
 
 

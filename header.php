@@ -139,7 +139,15 @@
                             <li><a href="gallery.php">Gallery </a></li>
 
                             <li><a href="contact.php">Contact Us</a></li>
+                            <li><a href="contact.php">For Plants</a></li>
                             <li><a href="assets/images/logo/samhita_logo.png" target="_blank" download>Download Catalog</a></li>
+
+                            <form class="d-flex ms-3" role="search" onsubmit="return false;">
+                                <!-- <input id="liveSearchInput" class="form-control form-control-sm" type="search" placeholder="Search..." aria-label="Search"> -->
+                                <button class="btn btn-sm btn-success ms-2" type="button" onclick="filterItems()">
+                                    <i class="fas fa-search"></i>
+                                </button>
+                            </form>
 
                         </ul>
 
@@ -193,7 +201,7 @@
                 </div> -->
 
                 <div class="header_one__logo d-flex align-items-center position-relative">
-                    <div class="diagonal-color-bg"></div> 
+                    <div class="diagonal-color-bg"></div>
 
                     <a href="index.php" class="position-relative z-1">
                         <img src="assets/images/logo/header_logo.png" alt="logo" class="img-fluid" style="width: 70px;">
@@ -206,7 +214,7 @@
 
 
                 <!-- Navigation Menu -->
-                <div class="desktop-menu ms-auto">
+                <div class="desktop-menu ms-auto d-flex align-items-center">
                     <ul class="main-menu d-flex mb-0 list-unstyled align-items-center">
                         <li><a href="index.php">Home</a></li>
                         <li><a href="about.php">About Us</a></li>
@@ -219,10 +227,19 @@
                         </li>
                         <li><a href="gallery.php">Gallery</a></li>
                         <li><a href="contact.php">Contact Us</a></li>
-                        <li><a href="assets/images/logo/samhita_logo.png" target="_blank" download> Catalog</a></li>
-
+                        <li><a href="consumer.php">For Plants</a></li>
+                        <li><a href="assets/images/logo/samhita_logo.png" target="_blank" download>Catalog</a></li>
                     </ul>
+
+                    <!-- Search Bar -->
+                    <form class="d-flex ms-3" role="search" onsubmit="return false;">
+                        <input id="liveSearchInput" class="form-control form-control-sm" type="search" placeholder="Search..." aria-label="Search">
+                        <button class="btn btn-sm btn-success ms-2" type="button" onclick="filterItems()">
+                            <i class="fas fa-search"></i>
+                        </button>
+                    </form>
                 </div>
+
             </div>
 
         </div>

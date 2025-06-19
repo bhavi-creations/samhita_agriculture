@@ -31,6 +31,14 @@
 <!-- Sidebar area end here -->
 
 <main>
+
+
+
+    <section class="first_section_images">
+        <img src="assets/images/logo/indexx_main_images_111.png" alt="" class="img-fluid">
+    </section>
+
+
     <!-- <section class="d-block d-lg-none">
         <div class="containe mobile_device_image">
             <div class="row justify-content-center">
@@ -282,43 +290,7 @@
 
 
 
-    <section class="main_section_home  ">
-        <div class="container-fluid">
 
-
-            <div class="row ">
-
-
-
-                <div class=" col-12 col-md-6 first_images_section">
-                    <h3>
-                        🌿 Soil is the Heart of <span class="organic_index">Bio-Organic Farming</span>
-                    </h3>
-                    <p class="">We enrich it through Biological Bio-organic methods to boost fertility and biodiversity.
-                        Healthy soil leads to thriving crops, balanced ecosystems, and chemical-free food production</p>
-                    <!-- <p>
-                        We enrich it organically through composting and sustainable methods to boost fertility and biodiversity. Healthy soil leads to thriving crops, balanced ecosystems, and chemical-free food production. Our organic practices nurture the land without depleting it, ensuring sustainability for generations to come. By working in harmony with organic principles, we grow food that is as pure as the soil it comes from
-                        </p> -->
-
-
-
-                </div>
-                <div class=" col-12 col-md-6   second_images_section ">
-
-                    <img src="./assets/images/logo/22.png" alt="" class="img-fluid">
-                </div>
-            </div>
-            <div class="index_section_1"> <img src="assets/images/about/leaf.png" alt="">
-            </div>
-        </div>
-
-
-
-
-        <!-- <div class="why-choose-one__shape-1 float-bob-y">
-            <img src="assets/images/logo/why-choose-one-shape-2.png" alt="" class="img-fluid">
-        </div> -->
-    </section>
 
 
 
@@ -340,21 +312,23 @@
 
                     <div class="row">
                         <div class="col-md-8 col-12">
+
+
                             <div class=" banner__content eco_friendly_content">
                                 <h4 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s">Eco-Friendly
                                     Agricultural Solutions</h4>
                                 <h1 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">Pure, sustainable
                                     farming for healthy soil, food, and <span class="primary-color">future</span></h1>
+
+                                <img src="assets/images/logo/second_main_images.png" alt="" class="img-fluid  p-4 text-center">
                                 <div class="row g-4 align-items-center " class="d-block d-md-none d-lg-block">
                                     <div class="col-md-4">
-                                        <a href="contact.php" class="btn-one wow fadeInUp" data-wow-duration="1.5s"
-                                            data-wow-delay=".5s"><span>Contact us</span> <i
-                                                class="fa-solid fa-angles-right"></i></a>
+                                       
                                     </div>
-                                    <div class="col-md-8 ">
+                                    <div class="col-md-12 ">
                                         <div class="banner__content-con wow fadeInUp" data-wow-duration="1.6s"
                                             data-wow-delay=".6s">
-                                            <!-- <img src="assets/images/icon/arrow-long.png" alt="arrow"> -->
+                                      
                                             <p>Implementing Bio-organic systems that reduce environmental impact, conserve
                                                 resources, and align with nature’s cycles to achieve true sustainability.
 
@@ -367,10 +341,10 @@
 
 
 
-                                
 
 
-                                <img src="assets/images/logo/second_main_images.png" alt="" class="img-fluid  p-4">
+
+
                             </div>
 
                         </div>
@@ -379,9 +353,7 @@
 
                         </div>
 
-                        <!-- <div class="row">
-                            
-                        </div> -->
+                       
                     </div>
 
                 </div>
@@ -391,6 +363,44 @@
 
 
 
+
+    <!-- <section class="main_section_home  ">
+        <div class="container-fluid">
+
+
+            <div class="row ">
+
+
+
+                <div class=" col-12 col-md-6 first_images_section">
+                    <h3>
+                        🌿 Soil is the Heart of <span class="organic_index">Bio-Organic Farming</span>
+                    </h3>
+                    <p class="">We enrich it through Biological Bio-organic methods to boost fertility and biodiversity.
+                        Healthy soil leads to thriving crops, balanced ecosystems, and chemical-free food production</p>
+                    <p>
+                        We enrich it organically through composting and sustainable methods to boost fertility and biodiversity. Healthy soil leads to thriving crops, balanced ecosystems, and chemical-free food production. Our organic practices nurture the land without depleting it, ensuring sustainability for generations to come. By working in harmony with organic principles, we grow food that is as pure as the soil it comes from
+                        </p>
+
+
+
+                </div>
+                <div class=" col-12 col-md-6   second_images_section ">
+
+                    <img src="./assets/images/logo/22.png" alt="" class="img-fluid">
+                </div>
+            </div>
+            <div class="index_section_1"> <img src="assets/images/about/leaf.png" alt="">
+            </div>
+        </div>
+
+
+
+
+        <div class="why-choose-one__shape-1 float-bob-y">
+            <img src="assets/images/logo/why-choose-one-shape-2.png" alt="" class="img-fluid">
+        </div>
+    </section> -->
 
 
 
@@ -795,7 +805,7 @@
                 </div>
 
                 <div class="col-md-4 d-flex pb-4">
-                    <img src=" ./assets/images/logo/natural_agri.png" alt="" class="img-fluid">
+                    <img src=" ./assets/images/logo/pesticides.png" alt="" class="img-fluid">
                 </div>
 
                 <div class="col-md-4">
@@ -866,15 +876,14 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-6 col-lg-4">
                     <div class="services-2 ftco-animate d-flex w-100">
                         <div class="icon d-flex justify-content-center align-items-center order-md-last">
                             <span class="flaticon-meditation"></span>
                         </div>
                         <div class="text text-md-right pl-4 pl-md-0 pr-md-4">
-                            <h3>Safe for Humans and Animals</h3>
-                            <p>Biopesticides are non-toxic, reducing health risks compared to
-                                chemical pesticides</p>
+                            <h3>Bio-Organically Enhance Soil Fertility Naturally</h3>
+                            <p>Biofertilizers enrich the soil with beneficial microbes that fix nitrogen, solubilize phosphorus, and mobilize potassium improve nutrient availability</p>
                         </div>
                     </div>
                     <div class="services-2 ftco-animate d-flex w-100">
@@ -882,11 +891,11 @@
                             <span class="flaticon-meditation"></span>
                         </div>
                         <div class="text text-md-right pl-4 pl-md-0 pr-md-4">
-                            <h3>Target Specific Pests</h3>
+                            <h3> Eco-Friendly and Sustainable</h3>
 
 
-                            <p>They attack only harmful insects or pathogens, preserving beneficial micro
-                                organisms like bees and earthwormsl</p>
+                            <p>They promote lone-term soil health Safe Guarding The environment , reduce dependency on chemical fertilizers and promote long-term
+                                soil health without harming the environment</p>
                         </div>
                     </div>
                     <!-- <div class="services-2 ftco-animate d-flex w-100">
@@ -909,11 +918,11 @@
 						</div> -->
                 </div>
 
-                <div class="col-md-4 d-flex pb-4">
-                    <img src=" ./assets/images/logo/natural_agri.png" alt="" class="img-fluid">
+                <div class="col-md-6 col-lg-4 d-flex pb-4">
+                    <img src="./assets/images/logo/ferlizers.jpg" alt="" class="img-fluid">
                 </div>
 
-                <div class="col-md-4">
+                <div class="col-md-6 col-lg-4">
                     <!-- <div class="services-2 ftco-animate d-flex w-100">
 							<div class="icon d-flex justify-content-center align-items-center\">
 								<span class="flaticon-meditation"></span>
@@ -937,12 +946,17 @@
                             <span class="flaticon-meditation"></span>
                         </div>
                         <div class="text text-left pl-4">
-                            <h3> Prevent Pest Resistance</h3>
 
 
 
 
-                            <p> Unlike chemical pesticides, biopesticides , do not induce the risk of pests developing resistance, soil health and crop integrity
+                            <h3> Improve Crop Yield and Quality</h3>
+
+
+
+
+                            <p> Crops grown with biofertilizers show better growth, higher resistance
+                                to stress, and improved nutrient content
                             </p>
                         </div>
                     </div>
@@ -956,9 +970,10 @@
 
 
 
-                            <h3> Support Bio-Organic Farming Practices</h3>
-                            <p>Biopesticides are a key tool in Bio-organic agriculture, maintaining pest
-                                control without compromising soil and crop integrity
+
+                            <h3> Natural Boosters for Soil and Plant Health</h3>
+                            <p> Bio-pesticides and Bio-fertilizers are Organic microbes that boost soil fertility by fixing nitrogen and enhancing plant growth.
+                                They reduce the need for chemicals, improve soil health, and support sustainable farming
                             </p>
                         </div>
                     </div>
@@ -985,30 +1000,30 @@
                     class="me-1" src="assets/images/icon/leaf.svg" alt="image"> Our Products
             </h5>
         </div>
-       
+
         <div class="marquee-wrapper text-slider">
-                <div class="marquee-inner to-left">
-                    <ul class="marqee-list d-flex">
-                        <li class="marquee-item">
-                            our service <img src="assets/images/icon/text-slider-leaf.svg" alt="icon"> <span
-                                class="stroke-text">what we do</span> <img src="assets/images/icon/text-slider-leaf.svg"
-                                alt="icon">
-                            our service <img src="assets/images/icon/text-slider-leaf.svg" alt="icon"> <span
-                                class="stroke-text">what we do</span> <img src="assets/images/icon/text-slider-leaf.svg"
-                                alt="icon">
-                            our service <img src="assets/images/icon/text-slider-leaf.svg" alt="icon"> <span
-                                class="stroke-text">what we do</span> <img src="assets/images/icon/text-slider-leaf.svg"
-                                alt="icon">
-                            our service <img src="assets/images/icon/text-slider-leaf.svg" alt="icon"> <span
-                                class="stroke-text">what we do</span> <img src="assets/images/icon/text-slider-leaf.svg"
-                                alt="icon">
-                            our service <img src="assets/images/icon/text-slider-leaf.svg" alt="icon"> <span
-                                class="stroke-text">what we do</span>
-                        </li>
-                    </ul>
-                </div>
+            <div class="marquee-inner to-left">
+                <ul class="marqee-list d-flex">
+                    <li class="marquee-item">
+                        our service <img src="assets/images/icon/text-slider-leaf.svg" alt="icon"> <span
+                            class="stroke-text">what we do</span> <img src="assets/images/icon/text-slider-leaf.svg"
+                            alt="icon">
+                        our service <img src="assets/images/icon/text-slider-leaf.svg" alt="icon"> <span
+                            class="stroke-text">what we do</span> <img src="assets/images/icon/text-slider-leaf.svg"
+                            alt="icon">
+                        our service <img src="assets/images/icon/text-slider-leaf.svg" alt="icon"> <span
+                            class="stroke-text">what we do</span> <img src="assets/images/icon/text-slider-leaf.svg"
+                            alt="icon">
+                        our service <img src="assets/images/icon/text-slider-leaf.svg" alt="icon"> <span
+                            class="stroke-text">what we do</span> <img src="assets/images/icon/text-slider-leaf.svg"
+                            alt="icon">
+                        our service <img src="assets/images/icon/text-slider-leaf.svg" alt="icon"> <span
+                            class="stroke-text">what we do</span>
+                    </li>
+                </ul>
             </div>
-     
+        </div>
+
         <div class="container">
 
 
@@ -1109,10 +1124,10 @@
 
 
                         <a href="biopesticides.php" class="btn-one wow fadeInUp" data-wow-duration="1.5s"
-                                data-wow-delay=".5s"><span>More Details</span> <i
-                                    class="fa-solid fa-angles-right"></i></a>
+                            data-wow-delay=".5s"><span>More Details</span> <i
+                                class="fa-solid fa-angles-right"></i></a>
                         <a href="biopesticides.php" class=" bio_btn wow fadeInUp" data-wow-duration="1.6s"
-                                data-wow-delay=".6s"><span>More Details</span></a>
+                            data-wow-delay=".6s"><span>More Details</span></a>
                     </div>
                 </div>
                 <div class="col-12 col-md-6">
@@ -1176,6 +1191,7 @@
                                     <div id="collapseEight" class="accordion-collapse collapse"
                                         aria-labelledby="headingEight" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
+                                        Improve Crop Yield and Quality
                                             <p>Crops grown with biofertilizers show better growth, higher resistance
                                                 to stress, and improved nutrient content
                                             </p>
@@ -1195,6 +1211,7 @@
                                     <div id="collapseFive" class="accordion-collapse collapse"
                                         aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
+                                        Natural Boosters for Soil and Plant Health
                                             <p> Bio-pesticides and Bio-fertilizers are Organic microbes that boost soil fertility by fixing nitrogen and enhancing plant growth.
                                                 They reduce the need for chemicals, improve soil health, and support sustainable farming</p>
                                         </div>
@@ -1205,11 +1222,11 @@
 
 
                         <a href="biopesticides.php" class="btn-one wow fadeInUp" data-wow-duration="1.5s"
-                                data-wow-delay=".5s"><span>More Details</span> <i
-                                    class="fa-solid fa-angles-right"></i></a>
+                            data-wow-delay=".5s"><span>More Details</span> <i
+                                class="fa-solid fa-angles-right"></i></a>
 
                         <a href="biopesticides.php" class=" bio_btn wow fadeInUp" data-wow-duration="1.6s"
-                                data-wow-delay=".6s"><span>More Details</span></a>
+                            data-wow-delay=".6s"><span>More Details</span></a>
 
                     </div>
                 </div>
@@ -1228,103 +1245,103 @@
 
 
             <div class="row g-4">
-                    <div class="col-xl-6">
-                        <div class="service__left-item">
-                            <div class="accordion" id="accordionExample">
-                                <div class="accordion-item wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s">
-                                    <h2 class="accordion-header" id="headingOne">
-                                        <button class="accordion-button changeImage"
-                                            data-image="assets/images/service/01.jpg" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true"
-                                            aria-controls="collapseOne">
-                                            Carbon Offsetting
-                                        </button>
-                                    </h2>
-                                    <div id="collapseOne" class="accordion-collapse collapse show"
-                                        aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            <p>Tree planting is the act of planting young trees, shrubs, or other woody
-                                                plants into the ground to establish new forests
-                                                or enhance existing ones. It is a crucial component of environmental</p>
-                                        </div>
+                <div class="col-xl-6">
+                    <div class="service__left-item">
+                        <div class="accordion" id="accordionExample">
+                            <div class="accordion-item wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s">
+                                <h2 class="accordion-header" id="headingOne">
+                                    <button class="accordion-button changeImage"
+                                        data-image="assets/images/service/01.jpg" type="button"
+                                        data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true"
+                                        aria-controls="collapseOne">
+                                        Carbon Offsetting
+                                    </button>
+                                </h2>
+                                <div id="collapseOne" class="accordion-collapse collapse show"
+                                    aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p>Tree planting is the act of planting young trees, shrubs, or other woody
+                                            plants into the ground to establish new forests
+                                            or enhance existing ones. It is a crucial component of environmental</p>
                                     </div>
                                 </div>
-                                <div class="accordion-item bor-top wow fadeInUp" data-wow-duration="1.4s"
-                                    data-wow-delay=".4s">
-                                    <h2 class="accordion-header" id="headingTwo">
-                                        <button class="accordion-button changeImage collapsed"
-                                            data-image="assets/images/service/02.jpg" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseTwo"
-                                            aria-expanded="false" aria-controls="collapseTwo">
-                                            E-Waste Recycling
-                                        </button>
-                                    </h2>
-                                    <div id="collapseTwo" class="accordion-collapse collapse"
-                                        aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            <p>Tree planting is the act of planting young trees, shrubs, or other woody
-                                                plants into the ground to establish new forests
-                                                or enhance existing ones. It is a crucial component of environmental</p>
-                                        </div>
+                            </div>
+                            <div class="accordion-item bor-top wow fadeInUp" data-wow-duration="1.4s"
+                                data-wow-delay=".4s">
+                                <h2 class="accordion-header" id="headingTwo">
+                                    <button class="accordion-button changeImage collapsed"
+                                        data-image="assets/images/service/02.jpg" type="button"
+                                        data-bs-toggle="collapse" data-bs-target="#collapseTwo"
+                                        aria-expanded="false" aria-controls="collapseTwo">
+                                        E-Waste Recycling
+                                    </button>
+                                </h2>
+                                <div id="collapseTwo" class="accordion-collapse collapse"
+                                    aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p>Tree planting is the act of planting young trees, shrubs, or other woody
+                                            plants into the ground to establish new forests
+                                            or enhance existing ones. It is a crucial component of environmental</p>
                                     </div>
                                 </div>
-                                <div class="accordion-item wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">
-                                    <h2 class="accordion-header" id="headingThree">
-                                        <button class="accordion-button changeImage collapsed"
-                                            data-image="assets/images/service/03.jpg" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseThree"
-                                            aria-expanded="false" aria-controls="collapseThree">
-                                            Water Conservation
-                                        </button>
-                                    </h2>
-                                    <div id="collapseThree" class="accordion-collapse collapse"
-                                        aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            <p>Tree planting is the act of planting young trees, shrubs, or other woody
-                                                plants into the ground to establish new forests
-                                                or enhance existing ones. It is a crucial component of environmental</p>
-                                        </div>
+                            </div>
+                            <div class="accordion-item wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">
+                                <h2 class="accordion-header" id="headingThree">
+                                    <button class="accordion-button changeImage collapsed"
+                                        data-image="assets/images/service/03.jpg" type="button"
+                                        data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                        aria-expanded="false" aria-controls="collapseThree">
+                                        Water Conservation
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse"
+                                    aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p>Tree planting is the act of planting young trees, shrubs, or other woody
+                                            plants into the ground to establish new forests
+                                            or enhance existing ones. It is a crucial component of environmental</p>
                                     </div>
                                 </div>
-                                <div class="accordion-item wow fadeInUp" data-wow-duration="1.8s" data-wow-delay=".8s">
-                                    <h2 class="accordion-header" id="headingFour">
-                                        <button class="accordion-button changeImage collapsed"
-                                            data-image="assets/images/service/04.jpg" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#collapseFour"
-                                            aria-expanded="false" aria-controls="collapseFour">
-                                            Community Foresty
-                                        </button>
-                                    </h2>
-                                    <div id="collapseFour" class="accordion-collapse collapse"
-                                        aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            <p>Tree planting is the act of planting young trees, shrubs, or other woody
-                                                plants into the ground to establish new forests
-                                                or enhance existing ones. It is a crucial component of environmental</p>
-                                        </div>
+                            </div>
+                            <div class="accordion-item wow fadeInUp" data-wow-duration="1.8s" data-wow-delay=".8s">
+                                <h2 class="accordion-header" id="headingFour">
+                                    <button class="accordion-button changeImage collapsed"
+                                        data-image="assets/images/service/04.jpg" type="button"
+                                        data-bs-toggle="collapse" data-bs-target="#collapseFour"
+                                        aria-expanded="false" aria-controls="collapseFour">
+                                        Community Foresty
+                                    </button>
+                                </h2>
+                                <div id="collapseFour" class="accordion-collapse collapse"
+                                    aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p>Tree planting is the act of planting young trees, shrubs, or other woody
+                                            plants into the ground to establish new forests
+                                            or enhance existing ones. It is a crucial component of environmental</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-6 wow fadeInDown" >
-                        <div class="image">
-                            <img id="myImage" src="assets/images/logo/sprey.png" alt="image">
-                        </div>
+                </div>
+                <div class="col-xl-6 wow fadeInDown">
+                    <div class="image">
+                        <img id="myImage" src="assets/images/logo/sprey.png" alt="image">
                     </div>
-                </div> 
+                </div>
+            </div>
         </div>
     </section> -->
     <!-- Service area end here -->
 
     <!-- Achievement area start here -->
-    <section class="achievement" data-background="assets/images/logo/monitored_img.png">
+    <section class="achievement">
         <div class="container">
             <div class="row g-4 align-items-center justify-content-between">
                 <div class="col-lg-5 achievement__bor-right wow fadeInUp" data-wow-duration="1.2s"
                     data-wow-delay=".2s">
                     <div class="achievement__item">
-                        <h2 class="text-white pt-3 pb-3">🌿Soil is the Living Foundation of Bio-Organic Farming
+                        <h2 class=" pt-3 pb-3">🌿Soil is the Living Foundation of Bio-Organic Farming
                         </h2>
                     </div>
                 </div>
@@ -1332,10 +1349,10 @@
                     data-wow-delay=".4s">
                     <div class="achievement__item text-center">
                         <img src="assets/images/icon/achieve1.png" alt="icon">
-                        <!-- <img src="assets/images/logo/1.png" alt="icon"> -->
+
 
                         <h5>Boosts Soil Fertility Bio-Organically</h5>
-                        <!-- <span class="count">6,472,068</span> -->
+
                     </div>
                 </div>
                 <div class="col-lg-2 achievement__bor-right wow fadeInUp" data-wow-duration="1.6s"
@@ -1343,14 +1360,14 @@
                     <div class="achievement__item text-center">
                         <img src="assets/images/icon/achieve2.png" alt="icon">
                         <h5>Supports Biodiversity & Microbial Life</h5>
-                        <!-- <span class="count">38,768</span> -->
+
                     </div>
                 </div>
                 <div class="col-lg-2 wow fadeInUp" data-wow-duration="1.8s" data-wow-delay=".8s">
                     <div class="achievement__item text-center">
                         <img src="assets/images/icon/achieve3.png" alt="icon">
                         <h5>Healthy Soil, Healthy Future</h5>
-                        <!-- <span class="count">1,193,210</span> -->
+
                     </div>
                 </div>
             </div>

@@ -1,7 +1,14 @@
 <?php include 'header.php'; ?>
 <main>
+
+
+<section class="first_section_images">
+    <img src="assets/images/logo/about_main_images_11.png" alt="" class="img-fluid">
+</section>
+
+
     <!-- Page banner area start here -->
-    <section class="page-banner bg-image pt-130 pb-130">
+    <!-- <section class="page-banner bg-image pt-130 pb-130">
         <div class="container">
             <h2 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s">About Us</h2>
             <div class="breadcrumb-list wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">
@@ -9,7 +16,7 @@
                 <span class="primary-color">About Us </span>
             </div>
         </div>
-    </section>
+    </section> -->
 
 
 
@@ -282,7 +289,7 @@
         </section> -->
 
 
-    <section class="achievement" data-background="assets/images/logo/monitored_img.png">
+    <!-- <section class="achievement" data-background="assets/images/logo/monitored_img.png">
         <div class="container">
             <div class="row g-4 align-items-center justify-content-between">
                 <div class="col-lg-5 achievement__bor-right wow fadeInUp" data-wow-duration="1.2s"
@@ -296,10 +303,10 @@
                     data-wow-delay=".4s">
                     <div class="achievement__item text-center">
                         <img src="assets/images/icon/achieve1.png" alt="icon">
-                        <!-- <img src="assets/images/logo/1.png" alt="icon"> -->
+                      
 
                         <h5>Boosts Soil Fertility Organically</h5>
-                        <!-- <span class="count">6,472,068</span> -->
+                      
                     </div>
                 </div>
                 <div class="col-lg-2 achievement__bor-right wow fadeInUp" data-wow-duration="1.6s"
@@ -307,19 +314,19 @@
                     <div class="achievement__item text-center">
                         <img src="assets/images/icon/achieve2.png" alt="icon">
                         <h5>Supports Biodiversity & Microbial Life</h5>
-                        <!-- <span class="count">38,768</span> -->
+                       
                     </div>
                 </div>
                 <div class="col-lg-2 wow fadeInUp" data-wow-duration="1.8s" data-wow-delay=".8s">
                     <div class="achievement__item text-center">
                         <img src="assets/images/icon/achieve3.png" alt="icon">
                         <h5>Healthy Soil, Healthy Future</h5>
-                        <!-- <span class="count">1,193,210</span> -->
+                   
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
 
 
