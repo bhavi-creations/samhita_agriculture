@@ -43,6 +43,245 @@
 
 
 
+<!-- <section class="index_first_sections">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h3>
+                Grow Stronger with Pure Organic Solutions
+                </h3>
+
+
+            </div>
+            <div class="col-md-6">
+                <img src="assets/images/logo/cc_images.jpg" alt="">
+            </div>
+        </div>
+    </div>
+</section> -->
+
+
+
+
+    <!-- <section class="main-slider clearfix">
+        <div class="swiper-container thm-swiper__slider" data-swiper-options='{"slidesPerView": 1, "loop": true,
+                "effect": "fade",
+                "pagination": {
+                "el": "#main-slider-pagination",
+                "type": "bullets",
+                "clickable": true
+                },
+                "navigation": {
+                "nextEl": "#main-slider__swiper-button-next",
+                "prevEl": "#main-slider__swiper-button-prev"
+                },
+                "autoplay": {
+                "delay": 5000
+                }}'>
+            <div class="swiper-wrapper">
+
+                <div class="swiper-slide">
+                    <div class="main-slider-bg-shape"
+                        style="background-image: url(assets/images/shapes/main-slider-bg-shape.png);"></div>
+                    <div class="main-slider-bg-shape-two"
+                        style="background-image: url(assets/images/shapes/main-slider-bg-shape-two.png);"></div>
+                    <div class="main-slider__shape-1 float-bob-y">
+                        <img src="assets/images/about/leaf.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-2 float-bob-x">
+                        <img src="assets/images/about/leaf.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-3 float-bob-x">
+                        <img src="assets/images/about/leaf.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-4 float-bob-y">
+                        <img src="assets/images/about/leaf.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-5 zoominout">
+                        <img src="assets/images/about/leaf.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-6 float-bob-x">
+                        <img src="assets/images/about/leaf.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-7 float-bob-y">
+                        <img src="assets/images/about/leaf.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-8 float-bob-x">
+                        <img src="assets/images/about/leaf.png" alt="">
+                    </div>
+                    <div class="main-slider__img-one">
+                        <img src="assets/images/logo/12.png" alt="" class="img-bounce">
+                    </div>
+                    <div class="container">
+                        <div class="row align-items-center justify-content-center" style="height: 100vh;">
+                            <div class="col-md-6 col-12">
+                                <div class="main-slider__content">
+                                    <h4 class="main-slider__sub-title">Select only Organic Farming</h4>
+                                    <h2 class="main-slider__title">Sustainable Organic <br> Farming</h2>
+                                    <div class="main-slider__btn-box">
+                                        <a href="about.php" class="thm-btn main-slider__btn-one">Learn more</a>
+                                        <a href="products.php" class="thm-btn main-slider__btn-two">Shop now</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-12">
+                                <div class="main-slider__img-one">
+                                    <img src="assets/images/logo/regenerative_farming.png" alt="Image">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="main-slider-bg-shape"
+                        style="background-image: url(assets/images/shapes/main-slider-bg-shape.png);"></div>
+                    <div class="main-slider-bg-shape-two"
+                        style="background-image: url(assets/images/shapes/main-slider-bg-shape-two.png);"></div>
+                    <div class="main-slider__shape-1 float-bob-y">
+                        <img src="assets/images/shapes/main-slider-shape-1.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-2 float-bob-x">
+                        <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-3 float-bob-x">
+                        <img src="assets/images/shapes/main-slider-shape-3.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-4 float-bob-y">
+                        <img src="assets/images/shapes/main-slider-shape-4.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-5 zoominout">
+                        <img src="assets/images/shapes/main-slider-shape-5.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-6 float-bob-x">
+                        <img src="assets/images/shapes/main-slider-shape-6.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-7 float-bob-y">
+                        <img src="assets/images/shapes/main-slider-shape-7.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-8 float-bob-x">
+                        <img src="assets/images/shapes/main-slider-shape-8.png" alt="">
+                    </div>
+                    <div class="main-slider__img-one">
+                        <img src="./assets/images/gallery/main_slider_2.png" alt="" class="img-bounce">
+                    </div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xl-12">
+                                <div class="main-slider__content">
+                                    <div class="main-slider__shape-9 float-bob-y">
+                                        <img src="assets/images/shapes/main-slider-shape-9.png" alt="">
+                                    </div>
+                                    <h4 class="main-slider__sub-title">Select only Organic Farming</h4>
+                                    <h2 class="main-slider__title">Healthy Soil, <br> Healthy Life</h2>
+                                    <div class="main-slider__btn-box">
+                                        <a href="about.php" class="thm-btn main-slider__btn-one">Learn more</a>
+                                        <a href="products.php" class="thm-btn main-slider__btn-two">Shop now</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="main-slider-bg-shape"
+                        style="background-image: url(assets/images/shapes/main-slider-bg-shape.png);"></div>
+                    <div class="main-slider-bg-shape-two"
+                        style="background-image: url(assets/images/shapes/main-slider-bg-shape-two.png);"></div>
+                    <div class="main-slider__shape-1 float-bob-y">
+                        <img src="assets/images/shapes/main-slider-shape-1.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-2 float-bob-x">
+                        <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-3 float-bob-x">
+                        <img src="assets/images/shapes/main-slider-shape-3.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-4 float-bob-y">
+                        <img src="assets/images/shapes/main-slider-shape-4.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-5 zoominout">
+                        <img src="assets/images/shapes/main-slider-shape-5.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-6 float-bob-x">
+                        <img src="assets/images/shapes/main-slider-shape-6.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-7 float-bob-y">
+                        <img src="assets/images/shapes/main-slider-shape-7.png" alt="">
+                    </div>
+                    <div class="main-slider__shape-8 float-bob-x">
+                        <img src="assets/images/shapes/main-slider-shape-8.png" alt="">
+                    </div>
+                    <div class="main-slider__img-one">
+                        <img src="assets/images/logo/phosphorus.png" alt="" class="img-bounce">
+                    </div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xl-12">
+                                <div class="main-slider__content">
+                                    <div class="main-slider__shape-9 float-bob-y">
+                                        <img src="assets/images/shapes/main-slider-shape-9.png" alt="">
+                                    </div>
+                                    <h4 class="main-slider__sub-title">Select only Organic Farming</h4>
+                                    <h2 class="main-slider__title"> Chemical-Free <br> Cultivation</h2>
+                                    <div class="main-slider__btn-box">
+                                        <a href="about.php" class="thm-btn main-slider__btn-one">Learn more</a>
+                                        <a href="products.php" class="thm-btn main-slider__btn-two">Shop now</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+            </div>
+
+           
+
+
+        </div>
+    </section>  -->
+
+
+
+    <!-- <script>
+        const swiper = new Swiper('.thm-swiper__slider', {
+            slidesPerView: 1,
+            loop: true,
+            effect: 'fade',
+            autoplay: {
+                delay: 5000,
+                disableOnInteraction: false
+            },
+            pagination: {
+                el: '#main-slider-pagination',
+                clickable: true,
+            },
+            navigation: {
+                nextEl: '#main-slider__swiper-button-next',
+                prevEl: '#main-slider__swiper-button-prev',
+            },
+        });
+   
+ </script> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <section class="main_section_home  ">
         <div class="container-fluid">
 
@@ -53,13 +292,14 @@
 
                 <div class=" col-12 col-md-6 first_images_section">
                     <h3>
-                        🌿 Soil is the Heart of  <span class="organic_index"> Organic Farming</span> 
+                        🌿 Soil is the Heart of <span class="organic_index"> Organic Farming</span>
                     </h3>
-                    <p class="">We enrich it naturally through composting and organic methods to boost fertility and biodiversity.
+                    <p class="">We enrich it  through  Biological organic methods to boost fertility and biodiversity.
                         Healthy soil leads to thriving crops, balanced ecosystems, and chemical-free food production</p>
-                        <!-- <p>
+                    <!-- <p>
                         We enrich it organically through composting and sustainable methods to boost fertility and biodiversity. Healthy soil leads to thriving crops, balanced ecosystems, and chemical-free food production. Our organic practices nurture the land without depleting it, ensuring sustainability for generations to come. By working in harmony with organic principles, we grow food that is as pure as the soil it comes from
                         </p> -->
+
 
 
                 </div>
@@ -130,7 +370,7 @@
                                 <div class="banner__content-con wow fadeInUp" data-wow-duration="1.6s"
                                     data-wow-delay=".6s">
                                     <img src="assets/images/icon/arrow-long.png" alt="arrow">
-                                    <p>Implementing organic systems that reduce environmental impact, conserve
+                                    <p>Implementing Bio-organic systems that reduce environmental impact, conserve
                                         resources, and align with nature’s cycles to achieve true sustainability.
 
                                     </p>
@@ -264,13 +504,18 @@
                     </div>
                     <div class="col-md-6" data-aos="fade-left">
                         <p class="natural_agri_section">
-                            Organic farming is a holistic and sustainable agricultural system that avoids the use of synthetic fertilizers, harmful pesticides, and genetically modified organisms (GMOs). Instead, it promotes Organic methods to enhance soil fertility, protect crop health, and ensure safe, nutritious produce. The focus is on working with nature—not against it—by preserving ecological balance and boosting long-term farm productivity </p>
+
+                            Organic farming is a holistic and sustainable agricultural System . which   promotes Organic methods to enhance soil fertility, protect crop health, and ensure safe, nutritious produce. The focus is on working with nature : not against it, by preserving ecological balance and boosting long-term farm productivity . It reduces the  use of synthetic fertilizers  and harmful pesticides. </p>
+
+                        <!-- Organic farming is a holistic and sustainable agricultural system that avoids the use of synthetic fertilizers, harmful pesticides, and genetically modified organisms (GMOs). Instead, it promotes Organic methods to enhance soil fertility, protect crop health, and ensure safe, nutritious produce. The focus is on working with nature—not against it—by preserving ecological balance and boosting long-term farm productivity </p> -->
+                        <!--   and genetically modified organisms (GMOs).   -->
+                        
                         <h4 class="natural_agri_section">Improves Soil Health</h4>
                         <p><i class="fa fa-check-circle"></i> &nbsp; Enhances Soil Fertility</p>
                         <p><i class="fa fa-check-circle"></i> &nbsp;Preserves Biodiversity</p>
                         <p><i class="fa fa-check-circle"></i> &nbsp; Supports Biodiversity</p>
                         <p><i class="fa fa-check-circle"></i> &nbsp; Reduces Water Usage</p>
-                        <p><i class="fa fa-check-circle"></i> &nbsp; Saves Water Resources/p>
+                        <p><i class="fa fa-check-circle"></i> &nbsp; Saves Water Resources</p>
                     </div>
                 </div>
             </div>
@@ -344,11 +589,11 @@
                         <div class="section-header m-0">
                             <h5 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s"><img
                                     src="assets/images/icon/leaf.svg" alt="image"> HOW WE WORK</h5>
-                            <h2 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s"> 🌾Organic Farming for Food Security</h2>
+                            <h2 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s"> 🌾 Bio-Organic Farming for Food Security</h2>
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Empowering farmers with soil-enriching, chemical-free practices that naturally boost yields and deliver safe, nutritious food to every community</p>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Empowering farmers with soil-enriching, chemical-free practices that Organically boost yields and deliver safe, nutritious food to every community</p>
                     </div>
                 </div>
             </div>
@@ -361,7 +606,7 @@
                             <span>01</span>
                         </div>
                         <h3><a href="service.php">Organic Bio Farming</a></h3>
-                        <p>BIopesticides,Biofertilizer instant of chemicals uses vermi compost,farmyard menuare (FYM)</p>
+                        <p>BIopesticides,Biofertilizer instead  of chemicals uses vermi compost, Farm Yard Manure (FYM)</p>
 
                         <!-- <p>Focuses on using natural compost, vermicompost, green manure, and bio-pesticides instead
                             of chemicals</p> -->
@@ -379,7 +624,8 @@
                             <span>02</span>
                         </div>
                         <h3><a href="service.php">Eco-Friendly Farming</a></h3>
-                        <p>Organic farming minimizes pollution and supports a healthier planet by avoiding synthetic inputs. It nurtures nature the soil and crops with sustainable practices</p>
+                        <p>Organic  farming  minimizes pollution and supports a healthier planet by avoiding synthetic inputs. It nurtures 
+                             the soil and crops with sustainable practices</p>
                         <a class="work__item-arrow" href="service.php"><i class="fa-solid fa-arrow-right"></i></a>
                         <div class="work__item-leaf">
                             <img src="assets/images/shape/work-leaf.png" alt="">
@@ -409,7 +655,7 @@
                             <span>04</span>
                         </div>
                         <h3><a href="service.php">Protects Biodiversity </a></h3>
-                        <p> Beneficial for a balanced ecosystem by support's pollinator, earthworms, and other beneficial organisms</p>
+                        <p> Beneficial for a balanced ecosystem by support's pollinators ,earthworms, and other beneficial organisms</p>
                         <a class="work__item-arrow" href="service.php"><i class="fa-solid fa-arrow-right"></i></a>
                         <div class="work__item-leaf">
                             <img src="assets/images/shape/work-leaf.png" alt="">
@@ -519,7 +765,7 @@
                                     <div id="collapseThree" class="accordion-collapse collapse"
                                         aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>Unlike chemical pesticides, biopesticides , don't induces the risk of increrasing soil health and crop integrity
+                                            <p>Unlike chemical pesticides, biopesticides , do not induce the risk of pests developing resistance. ncrerasing soil health and crop integrity
 
                                             </p>
 
@@ -597,7 +843,7 @@
                                     <div id="collapseSeven" class="accordion-collapse collapse"
                                         aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>They promote lone-term soil health Safeguarding . The environment and reduce dependency on chemical fertilizers and promote long-term
+                                            <p>They promote lone-term soil health Safe Guarding  The environment , reduce dependency on chemical fertilizers and promote long-term
                                                 soil health without harming the environment
                                             </p>
 
