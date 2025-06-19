@@ -35,7 +35,7 @@
 
 
     <section class="first_section_images">
-        <img src="assets/images/logo/indexx_main_images_111.png" alt="" class="img-fluid">
+        <img src="./assets/images/logo/index_main_images_111." alt="" class="img-fluid">
     </section>
 
 
@@ -281,6 +281,56 @@
 
 
 
+ <section class="about_new_section banner" style="background-image: url('assets/images/bg/banner1.jpg'); background-size: cover; background-position: center;">
+    <div class="container position-relative">
+        
+        <!-- Leaf Decoration -->
+        <div class="banner__leaf wow slideInLeft d-none d-md-block" data-wow-duration="1s" data-wow-delay="1s">
+            <img src="assets/images/shape/leaf.png" alt="shape" class="img-fluid">
+        </div>
+
+        <div class="row align-items-center">
+            <!-- Left Side Image -->
+            <div class="col-md-3 col-12 mb-4 mb-md-0">
+                <img src="assets/images/logo/pesticide_mix.jpg" alt="" class="img-fluid w-100">
+            </div>
+
+            <!-- Content Section -->
+            <div class="col-md-9 col-12">
+                <div class="row align-items-center">
+                    <!-- Text and Middle Image -->
+                    <div class="col-md-8 col-12">
+                        <div class="banner__content eco_friendly_content">
+                            <h4 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s">
+                                Eco-Friendly Agricultural Solutions
+                            </h4>
+                            <h1 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">
+                                Pure, sustainable farming for healthy soil, food, and <span class="primary-color">future</span>
+                            </h1>
+
+                            <!-- Center Icon Image -->
+                            <div class="text-center my-3">
+                                <img src="assets/images/logo/second_main_images.png" alt="" class="img-fluid p-3">
+                            </div>
+
+                            <!-- Paragraph -->
+                            <div class="banner__content-con wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">
+                                <p>
+                                    Implementing Bio-organic systems that reduce environmental impact, conserve resources, and align with nature’s cycles to achieve true sustainability.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Right Side Image -->
+                    <div class="col-md-4 col-12 text-center mt-4 mt-md-0">
+                        <img src="assets/images/logo/main_img_22_1.png" alt="" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 
