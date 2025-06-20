@@ -589,21 +589,21 @@
     <!-- About area end here -->
 
 
-
+<!-- 
     <section class="py-5 ">
         <div class="container" data-aos="fade-up">
             <h2 class="text-center text-capitalize mb-5 contact_text" data-aos="fade-down">
                 Comparing Bio-Organic and Chemical Farming
             </h2>
 
-            <!-- Tabs -->
+   
             <div class="row text-center justify-content-center mb-4" data-aos="fade-up">
 
                 <div class="col-md-3 custom-tab active m-2 " data-target="#natural-tab">Bio-Organic Agriculture</div>
                 <div class="col-md-3 custom-tab  m-2  " data-target="#chemical-tab">Chemical Agriculture</div>
             </div>
 
-            <!-- Tab Contents -->
+   
             <div id="chemical-tab" class="custom-tab-content " data-aos="fade-right">
                 <h3 class="text-center text-capitalize contact_text mb-4">Chemical Agriculture</h3>
                 <div class="row align-items-center">
@@ -639,8 +639,7 @@
 
                             Bio-Organic farming is a holistic and sustainable agricultural System . which promotes Bio-Organic methods to enhance soil fertility, protect crop health, and ensure safe, nutritious produce. The focus is on working with nature : not against it, by preserving ecological balance and boosting long-term farm productivity . It reduces the use of synthetic fertilizers and harmful pesticides. </p>
 
-                        <!-- Organic farming is a holistic and sustainable agricultural system that avoids the use of synthetic fertilizers, harmful pesticides, and genetically modified organisms (GMOs). Instead, it promotes Organic methods to enhance soil fertility, protect crop health, and ensure safe, nutritious produce. The focus is on working with nature—not against it—by preserving ecological balance and boosting long-term farm productivity </p> -->
-                        <!--   and genetically modified organisms (GMOs).   -->
+                        
 
                         <h4 class="natural_agri_section">Improves Soil Health</h4>
                         <p><i class="fa fa-check-circle"></i> &nbsp; Enhances Soil Fertility</p>
@@ -652,13 +651,14 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
 
 
 
 
-
+<!-- Organic farming is a holistic and sustainable agricultural system that avoids the use of synthetic fertilizers, harmful pesticides, and genetically modified organisms (GMOs). Instead, it promotes Organic methods to enhance soil fertility, protect crop health, and ensure safe, nutritious produce. The focus is on working with nature—not against it—by preserving ecological balance and boosting long-term farm productivity </p> -->
+                        <!--   and genetically modified organisms (GMOs).   -->
     
 
 
