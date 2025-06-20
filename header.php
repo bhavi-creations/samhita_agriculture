@@ -139,15 +139,15 @@
                             <li><a href="gallery.php">Gallery </a></li>
 
                             <li><a href="contact.php">Contact Us</a></li>
-                            <li><a href="contact.php">For Plants</a></li>
+                            <!-- <li><a href="contact.php">For Plants</a></li> -->
+                            <li><a href="consumer.php">For Plants</a></li>
                             <li><a href="assets/images/logo/samhita_logo.png" target="_blank" download>Download Catalog</a></li>
 
-                            <form class="d-flex ms-3" role="search" onsubmit="return false;">
-                                <!-- <input id="liveSearchInput" class="form-control form-control-sm" type="search" placeholder="Search..." aria-label="Search"> -->
+                            <!-- <form class="d-flex ms-3" role="search" onsubmit="return false;">
                                 <button class="btn btn-sm btn-success ms-2" type="button" onclick="filterItems()">
                                     <i class="fas fa-search"></i>
                                 </button>
-                            </form>
+                            </form> -->
 
                         </ul>
 

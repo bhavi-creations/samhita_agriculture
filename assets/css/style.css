@@ -9178,7 +9178,7 @@ margin-bottom: 2px;
 
 
 .desktop-menu form input[type="search"] {
-  max-width: 100px;
+  max-width: 50px !important;
 }
 
 
