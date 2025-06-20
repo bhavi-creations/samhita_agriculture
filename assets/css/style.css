@@ -6083,6 +6083,7 @@ input {
 
 .contact .content ul li a {
   color: var(--white);
+  line-height: 36px;
 }
 
 .contact .content ul li a i {
@@ -7370,7 +7371,7 @@ input {
 
   .banner__content {
     /* margin-top: 65px; */
-    margin-bottom: 130px;
+    /* margin-bottom: 130px; */
     margin-left: 0;
   }
 

@@ -1784,14 +1784,16 @@
                                         <img src="assets/images/reviews/5.png" alt="image">
                                     </div>
                                     <div class="testimonial__item-head-info-con">
-                                        <h3>Ramesh Yadav</h3>
-                                        <span>Bio-Organic Farmer</span>
+                                        <h3>రమేష్ గారు  </h3>
+                                        <span>తూర్పు గోదావరి జిల్లా</span>
                                     </div>
                                 </div>
                                 <i class="fa-solid fa-quote-right"></i>
+
+                                <!-- సంహితా సాయిల్ సొల్యూషన్స్ -->
                             </div>
                             <div class="testimonial__item-content">
-                                <p>"Switching to Bio-organic farming has completely transformed my land and my livelihood. The soil is richer, pests are manageable without chemicals, and my produce is healthier and in higher demand."
+                                <p>"సంహితా సాయిల్ సొల్యూషన్స్ నుండి తీసుకున్న బయో ఫర్టిలైజర్స్ వాడిన తర్వాత నా పొలాల్లో మట్టి గుణం బాగా మెరుగైంది. మొక్కల ఎదుగుదల సహజంగా కనిపించింది."
                                 </p>
                             </div>
                         </div>
@@ -1804,14 +1806,15 @@
                                         <img src="assets/images/reviews/6.png" alt="image">
                                     </div>
                                     <div class="testimonial__item-head-info-con">
-                                        <h3>Lakshmi Devi</h3>
-                                        <span>Farmer & Co-op Member</span>
+                                        <h3>లక్ష్మి గారు</h3>
+                                        <span>రైతు</span>
                                     </div>
                                 </div>
                                 <i class="fa-solid fa-quote-right"></i>
                             </div>
                             <div class="testimonial__item-content">
-                                <p>"Bio-Organic practices not only improved our crop quality but also reduced our input costs over time. Composting, Bio-Organic fertilizers, and crop rotation are now a way of life on our farm."
+                                <p>  
+                                "క్రిమి నివారణకు బయో పెస్టిసైడ్ వాడితే ఎలాంటి దుష్ఫలితాలు లేకుండా పంట మంచి ఉత్పత్తి ఇచ్చింది. నా కుటుంబానికి భద్రమైన ఆహారం అందుతోంది"
                                 </p>
                             </div>
                         </div>
@@ -1824,14 +1827,14 @@
                                         <img src="assets/images/reviews/4.png" alt="image">
                                     </div>
                                     <div class="testimonial__item-head-info-con">
-                                        <h3>Savita Rani</h3>
-                                        <span>Women’s Farming Group Leader</span>
+                                        <h3>వెంకటరావు</h3>
+                                        <span>రైతు</span>
                                     </div>
                                 </div>
                                 <i class="fa-solid fa-quote-right"></i>
                             </div>
                             <div class="testimonial__item-content">
-                                <p>Consumers appreciate the taste and safety of Bio-organic produce. I’ve built trust in my community by delivering food grown without harmful pesticides or GMOs.
+                                <p>రసాయనాల అవసరం లేకుండా ఈ బయో ఉత్పత్తులతో నాణ్యమైన పంటలు పండుతున్నాయి. మన ఆరోగ్యానికి కూడా మంచివే
                                 </p>
                             </div>
                         </div>

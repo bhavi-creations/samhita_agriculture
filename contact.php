@@ -10,7 +10,7 @@
     <section class="contact pt-130 pb-130">
         <div class="container">
             <div class="row g-4">
-                <div class="col-lg-6">
+                <div class="col-lg-6 d-none d-md-block ">
                     <div class="content bg-image">
                         <h2>Contact Our organic farming Experts</h2>
                         <p>Our experts are ready to guide you toward a more sustainable farming future</p>
@@ -25,6 +25,32 @@
                             </li>
                             <li><a href="mailto:company.info@mail.com"><i
                                         class="fa-solid fa-envelope"></i>samhitasoilsolutions@gmail.com</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+                <div class="col-lg-6 d-block d-md-none">
+                    <div class="content bg-image">
+                        <h2>Contact Our organic farming Experts</h2>
+                        <p>Our experts are ready to guide you toward a more sustainable farming future</p>
+                        <div class="arry"><img src="assets/images/icon/arry.png" alt=""></div>
+                        <ul>
+                            <li><a href="https://www.google.com/maps/d/viewer?mid=1UZ57Drfs3SGrTgh6mrYjQktu6uY&amp;hl=en_US&amp;ll=18.672105000000013%2C105.68673800000003&amp;z=17"
+                                    target="_blank"><i class="fa-solid fa-location-dot"></i> 2-46-26/21, venkat
+                                    nagar kakinada -533003 </a>
+                            </li>
+                            <li><a href="tel:1-732-798-0976"><i class="fa-solid fa-phone-volume"></i>91-9848549349,
+                                    9491822559</a>
+                            </li>
+                            <li><a href="mailto:company.info@mail.com"><i
+                                        class="fa-solid fa-envelope"></i>samhitasoilsolutions@gmail. <br>         &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; com</a></li>
                         </ul>
                     </div>
                 </div>
