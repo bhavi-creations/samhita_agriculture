@@ -9153,6 +9153,11 @@ margin-bottom: 2px;
   background-color: #ecfbde ;
  }
 
+ .index_first_sections_consumer{
+  padding: 20px 20px;
+  text-align: left !important;
+ }
+
  .samhita_text p{
   font-size: 25px !important;
   padding-left: 30px;
@@ -9326,6 +9331,10 @@ margin-bottom: 2px;
   padding: 80px 0px;
 }
 
+
+/* .main_section_home{
+  padding: 20px 0px;
+} */
 
 .eco_friendly_content h1 {
   line-height: 50px !important;
@@ -9591,3 +9600,6 @@ margin-bottom: 2px;
 .how_we_work_section{
   background-color: #f4f4f4 !important; 
 }
+
+
+

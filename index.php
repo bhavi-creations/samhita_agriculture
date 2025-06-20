@@ -414,7 +414,7 @@
 
 
 
-    <!-- <section class="main_section_home  ">
+    <section class="main_section_home  py-5 ">
         <div class="container-fluid">
 
 
@@ -437,7 +437,7 @@
                 </div>
                 <div class=" col-12 col-md-6   second_images_section ">
 
-                    <img src="./assets/images/logo/22.png" alt="" class="img-fluid">
+                    <img src="./assets/images/logo/bacteria.png" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="index_section_1"> <img src="assets/images/about/leaf.png" alt="">
@@ -447,10 +447,10 @@
 
 
 
-        <div class="why-choose-one__shape-1 float-bob-y">
+        <!-- <div class="why-choose-one__shape-1 float-bob-y">
             <img src="assets/images/logo/why-choose-one-shape-2.png" alt="" class="img-fluid">
-        </div>
-    </section> -->
+        </div> -->
+    </section> 
 
 
 
@@ -590,7 +590,7 @@
 
 
 
-    <section class="  px-3">
+    <!-- <section class="  px-3 py-5">
         <div class="container" data-aos="fade-up">
             <h2 class="text-center text-capitalize mb-5 contact_text" data-aos="fade-down">
                 Comparing Bio-Organic and Chemical Farming
@@ -599,8 +599,8 @@
 
             <div class="row text-center justify-content-center mb-4" data-aos="fade-up">
 
-                <div class="col-md-3 custom-tab active m-2 " data-target="#natural-tab">Bio-Organic Agriculture</div>
-                <div class="col-md-3 custom-tab  m-2  " data-target="#chemical-tab">Chemical Agriculture</div>
+                <div class="col-md-3 custom-tab active m-2 " data-target="#natural-tab">Bio-Organic </div>
+                <div class="col-md-3 custom-tab  m-2  " data-target="#chemical-tab">Chemical </div>
             </div>
 
 
@@ -653,30 +653,8 @@
                 </div>
             </div>
 
-            <!-- <div id="natural-tab" class="custom-tab-content active" data-aos="fade-left">
-                <h3 class="text-center text-capitalize contact_text mb-4">Bio-Organic Agriculture</h3>
-                <div class="row align-items-center">
-                    <div class="col-md-6 natural_agri_image" data-aos="fade-right">
-                        <img src="assets/images/logo/natural_agri.png" alt="Natural Agriculture" class="img-fluid">
-                    </div>
-                    <div class="col-md-6" data-aos="fade-left">
-                        <p class="natural_agri_section">
-
-                            Bio-Organic farming is a holistic and sustainable agricultural System . which promotes Bio-Organic methods to enhance soil fertility, protect crop health, and ensure safe, nutritious produce. The focus is on working with nature : not against it, by preserving ecological balance and boosting long-term farm productivity . It reduces the use of synthetic fertilizers and harmful pesticides. </p>
-
-                        
-
-                        <h4 class="natural_agri_section">Improves Soil Health</h4>
-                        <p><i class="fa fa-check-circle"></i> &nbsp; Enhances Soil Fertility</p>
-                        <p><i class="fa fa-check-circle"></i> &nbsp;Preserves Biodiversity</p>
-                        <p><i class="fa fa-check-circle"></i> &nbsp; Supports Biodiversity</p>
-                        <p><i class="fa fa-check-circle"></i> &nbsp; Reduces Water Usage</p>
-                        <p><i class="fa fa-check-circle"></i> &nbsp; Saves Water Resources</p>
-                    </div>
-                </div>
-            </div> -->
-        </div>
-    </section>
+     </div>
+    </section> -->
 
 
 
