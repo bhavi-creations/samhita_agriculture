@@ -1558,6 +1558,7 @@ input {
   left: 0;
   right: 0;
   bottom: 0;
+
 }
 
 .star i {
@@ -4629,6 +4630,12 @@ input {
 
 .involve__bg::before {
   background: linear-gradient(180deg, rgba(0, 0, 0, 0.52) 0%, rgba(0, 0, 0, 0.72) 100%);
+  /* background: linear-gradient(to left,red,green,blue,orange); */
+  /* background: linear-gradient(to left, red, green, blue, orange); */
+  /* background: linear-gradient(to right, #4CAF50, #aadfac ,#4CAF50,#4CAF50,#4CAF50); */
+  /* box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.2509803922); */
+
+
 }
 
 .involve__item {
@@ -8376,7 +8383,21 @@ img {
 }
 
 
-@media (max-width:439px) {
+
+
+
+@media (max-width:375px) {
+  .samhitha_agri {
+      margin-bottom: -90px !important;
+      font-size: 16px !important;
+      margin-left: 45px;
+      line-height: 33px;
+      letter-spacing: 5px;
+  }
+}
+
+
+@media (max-width:375px)  and  (max-width:439px) {
   .samhitha_agri {
     /* margin-bottom: -55px !important;
 font-size: 25px;
@@ -9293,32 +9314,32 @@ margin-bottom: 2px;
   padding: 60px 0;
 } */
 
-.achievement__item {
-  /* background:linear-gradient(to-left (#ecfbde,#dfeed0,#dfeed0,#dfeed0)); */
+/* .achievement__item {
+  background:linear-gradient(to-left (#ecfbde,#dfeed0,#dfeed0,#dfeed0));
   border: 2px solid #cbe6b2;
   border-radius: 10px;
   padding: 20px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
   transition: all 0.3s ease-in-out;
-}
+} */
 
-.achievement__item:hover {
+/* .achievement__item:hover {
   transform: translateY(-5px);
   box-shadow: 0 12px 25px rgba(0, 0, 0, 0.1);
-}
+} */
 
-.achievement__item h2 {
+/* .achievement__item h2 {
   color: #2e7d32;
   font-weight: 700;
   font-size: 28px;
-}
+} */
 
-.achievement__item h5 {
+/* .achievement__item h5 {
   color: #2e7d32;
   font-weight: 600;
   font-size: 18px;
   margin-top: 15px;
-}
+} */
 
 
 
@@ -9419,10 +9440,127 @@ margin-bottom: 2px;
   100% { background-position: 0% 50%; }
 }
 
-@media (min-width:1400px) {
+@media (min-width:375px) and (max-width:1600px) {
   .index_Biopesticides_section img{
     height:450px;
     width: 500px !important;
   }
   
+}
+
+/* .index_Biopesticides_section{
+  display: flex;
+  justify-content: center;
+} */
+
+/* .main-menu li a {
+  padding: 5px 10px !important; 
+} */
+
+
+/* pop images  */
+.popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 9999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.popup-content {
+  position: relative;
+  background: #fff;
+  padding: 0;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  max-width: 90%;
+  max-height: 90%;
+}
+
+.popup-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.close-btn {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  background: red;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  font-size: 18px;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+}
+
+.close-btn:hover {
+  background: darkred;
+}
+
+
+
+
+
+
+
+/* get involve  */
+
+
+/* Full green background */
+.achievement {
+  /* background-color: rgb(246, 237, 237);  */
+
+  background: linear-gradient(to bottom right, #e8f5e9); 
+
+  padding: 60px 0;
+}
+
+/* Inner card design */
+.achievement__item {
+  background: linear-gradient(to bottom right, #e8f5e9, #ffffff); 
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* On hover lift */
+.achievement__item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Icon */
+.achievement__item img {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 15px;
+}
+
+/* Headings */
+.achievement__item h5 {
+  color: #1b5e20; /* Deep green text */
+  font-weight: 600;
+}
+
+.achievement h2 {
+  color: #1b5e20; /* White heading */
+  font-weight: bold;
+}
+
+
+
+.how_we_work_section{
+  background-color: #f4f4f4 !important; 
 }

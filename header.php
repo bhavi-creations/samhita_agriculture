@@ -185,7 +185,7 @@
 
 
             <!-- 🔹 LOGO + NAME + NAVIGATION MENU -->
-            <div class="px-4 py-2 d-flex justify-content-between align-items-center flex-wrap">
+            <div class="px-2 py-2 d-flex justify-content-between align-items-center flex-wrap">
 
                 <!-- Logo + Name -->
                 <!-- <div class="header_one__logo d-flex align-items-center position-relative">
@@ -238,12 +238,101 @@
                     </ul>
 
                     <!-- Search Bar -->
+
+
+
                     <form class="d-flex ms-3" role="search" onsubmit="return false;">
-                        <input id="liveSearchInput" class="form-control form-control-sm" type="search" placeholder="Search..." aria-label="Search">
-                        <button class="btn btn-sm btn-success ms-2" type="button" onclick="filterItems()">
+                        <input
+                            id="liveSearchInput"
+                            class="form-control form-control-sm d-none"
+                            type="search"
+                            placeholder="Search..."
+                            aria-label="Search">
+                        <button
+                            class="btn btn-sm btn-success ms-2"
+                            type="button"
+                            onclick="toggleOrRedirect()">
                             <i class="fas fa-search"></i>
                         </button>
                     </form>
+
+                    <script>
+                        let searchVisible = false;
+
+                        function toggleOrRedirect() {
+                            const input = document.getElementById('liveSearchInput');
+
+                            if (!searchVisible) {
+                                // Show the input box
+                                input.classList.remove('d-none');
+                                input.focus();
+                                searchVisible = true;
+                            } else {
+                                const query = input.value.toLowerCase().trim();
+
+                                const pageMap = {
+                                    // 'home': 'index.php',
+                                    'index': 'index.php',
+                                    'about': 'about.php',
+                                    'gallery': 'gallery.php',
+                                    'contact': 'contact.php',
+                                    'service': 'service.php',
+                                    // 'services': 'service.php',
+                                    // 'biofertilizer': 'biofertilizers.php',
+                                    'biofertilizers': 'biofertilizers.php',
+                                    // 'biopesticide': 'biopesticides.php',
+                                    'biopesticides': 'biopesticides.php'
+                                };
+
+                                if (pageMap[query]) {
+                                    window.location.href = pageMap[query];
+                                } else {
+                                    alert('Page not found. Try: Home, About, Contact, Gallery, Services...');
+                                }
+                            }
+                        }
+                    </script>
+
+
+
+
+
+                    <!-- <form class="d-flex ms-3" role="search" onsubmit="return redirectPage();">
+                        <input id="liveSearchInput" class="form-control form-control-sm" type="search" placeholder="Search..." aria-label="Search">
+                        <button class="btn btn-sm btn-success ms-2" type="submit">
+                            <i class="fas fa-search"></i>
+                        </button>
+                    </form> -->
+
+                    <!-- <script>
+                        function redirectPage() {
+                            const input = document.getElementById('liveSearchInput').value.toLowerCase().trim();
+
+                            // Keyword-to-page map
+                            const pageMap = {
+                                'home': 'index.php',
+                                'index': 'index.php',
+                                'about': 'about.php',
+                                'gallery': 'gallery.php',
+                                'contact': 'contact.php',
+                                'service': 'service.php',
+                                'services': 'service.php',
+                                'biofertilizer': 'biofertilizers.php',
+                                'biofertilizers': 'biofertilizers.php',
+                                'biopesticide': 'biopesticides.php',
+                                'biopesticides': 'biopesticides.php'
+                            };
+
+                            if (pageMap[input]) {
+                                window.location.href = pageMap[input];
+                            } else {
+                                alert('Page not found. Try: Home, About, Contact, Gallery, Services...');
+                            }
+
+                            return false; // Prevent default form submission
+                        }
+                    </script> -->
+
                 </div>
 
             </div>
@@ -404,3 +493,7 @@
                 </div>
             </div>
         </header> -->
+
+
+
+

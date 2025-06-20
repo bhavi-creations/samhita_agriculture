@@ -590,7 +590,7 @@
 
 
 
-    <section class="py-5  px-5">
+    <section class="  px-3">
         <div class="container" data-aos="fade-up">
             <h2 class="text-center text-capitalize mb-5 contact_text" data-aos="fade-down">
                 Comparing Bio-Organic and Chemical Farming
@@ -744,7 +744,7 @@
     <!-- Video area end here -->
 
     <!-- Work area start here -->
-    <section class="work pt-60 pb-60">
+    <section class="work how_we_work_section pt-60 pb-60">
         <div class="container">
 
 
@@ -835,7 +835,7 @@
 
 
 
-    <section class="ftco-section">
+    <section class="ftco-section d-none d-md-block d-lg-none">
         <div class="container">
             <div class="row justify-content-center mb-5 pb-3">
                 <div class="col-md-12 heading-section ftco-animate text-center">
@@ -844,7 +844,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-6 col-lg-4">
                     <div class="services-2 ftco-animate d-flex w-100">
                         <div class="icon d-flex justify-content-center align-items-center order-md-last">
                             <span class="flaticon-meditation"></span>
@@ -887,12 +887,7 @@
 						</div> -->
                 </div>
 
-                <div class="col-md-4 d-flex pb-4 index_Biopesticides_section">
-                    <!-- <img src=" ./assets/images/logo/pesticides.png" alt="" class="img-fluid"> -->
-                    <img src="./assets/images/logo/ferlizers.jpg" alt="" class="img-fluid">
-                </div>
-
-                <div class="col-md-4">
+                <div class="col-md-6 col-lg-4">
                     <!-- <div class="services-2 ftco-animate d-flex w-100">
 							<div class="icon d-flex justify-content-center align-items-center\">
 								<span class="flaticon-meditation"></span>
@@ -942,9 +937,144 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="col-md-12 col-lg-4 d-flex pb-4 index_Biopesticides_section">
+                    <!-- <img src=" ./assets/images/logo/pesticides.png" alt="" class="img-fluid"> -->
+                    <img src="./assets/images/logo/ferlizers.jpg" alt="" class="img-fluid">
+                </div>
+
+
+
             </div>
         </div>
     </section>
+
+    <section class="ftco-section d-block d-md-none d-lg-block">
+        <div class="container">
+            <div class="row justify-content-center mb-5 pb-3">
+                <div class="col-md-12 heading-section ftco-animate text-center">
+                    <h2 class="mb-1">
+                        Uses Of Biopesticides</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 col-lg-4">
+                    <div class="services-2 ftco-animate d-flex w-100">
+                        <div class="icon d-flex justify-content-center align-items-center order-md-last">
+                            <span class="flaticon-meditation"></span>
+                        </div>
+                        <div class="text text-md-right pl-4 pl-md-0 pr-md-4">
+                            <h3>Safe for Humans and Animals</h3>
+                            <p>Biopesticides are non-toxic, reducing health risks compared to
+                                chemical pesticides</p>
+                        </div>
+                    </div>
+                    <div class="services-2 ftco-animate d-flex w-100">
+                        <div class="icon d-flex justify-content-center align-items-center order-md-last">
+                            <span class="flaticon-meditation"></span>
+                        </div>
+                        <div class="text text-md-right pl-4 pl-md-0 pr-md-4">
+                            <h3>Target Specific Pests</h3>
+
+
+                            <p>They attack only harmful insects or pathogens, preserving beneficial micro
+                                organisms like bees and earthwormsl</p>
+                        </div>
+                    </div>
+                    <!-- <div class="services-2 ftco-animate d-flex w-100">
+							<div class="icon d-flex justify-content-center align-items-center order-md-last">
+								<span class="flaticon-meditation"></span>
+							</div>
+							<div class="text text-md-right pl-4 pl-md-0 pr-md-4">
+								<h3>Improves your flexibility</h3>
+								<p>"Enhances Flexibility for Better Mobility and Posture"</p>
+							</div>
+						</div>
+						<div class="services-2 ftco-animate d-flex w-100">
+							<div class="icon d-flex justify-content-center align-items-center order-md-last">
+								<span class="flaticon-meditation"></span>
+							</div>
+							<div class="text text-md-right pl-4 pl-md-0 pr-md-4">
+								<h3>Protects your spine</h3>
+								<p>"Strengthens and Protects Your Spine for Better Posture"</p>
+							</div>
+						</div> -->
+                </div>
+
+
+
+
+                <div class="col-md-12 col-lg-4 d-flex pb-4 index_Biopesticides_section ">
+                    <!-- <img src=" ./assets/images/logo/pesticides.png" alt="" class="img-fluid"> -->
+                    <img src="./assets/images/logo/ferlizers.jpg" alt="" class="img-fluid">
+                </div>
+
+
+
+
+                <div class="col-md-6 col-lg-4">
+                    <!-- <div class="services-2 ftco-animate d-flex w-100">
+							<div class="icon d-flex justify-content-center align-items-center\">
+								<span class="flaticon-meditation"></span>
+							</div>
+							<div class="text text-left pl-4">
+								<h3>Betters your bone health</h3>
+								<p>"Improves Bone Health and Strength"</p>
+							</div>
+						</div>
+						<div class="services-2 ftco-animate d-flex w-100">
+							<div class="icon d-flex justify-content-center align-items-center\">
+								<span class="flaticon-meditation"></span>
+							</div>
+							<div class="text text-left pl-4">
+								<h3>Increases your blood flow</h3>
+								<p>"Boosts Circulation and Increases Blood Flow".</p>
+							</div>
+						</div> -->
+                    <div class="services-2 ftco-animate d-flex w-100">
+                        <div class="icon d-flex justify-content-center align-items-center\">
+                            <span class="flaticon-meditation"></span>
+                        </div>
+                        <div class="text text-left pl-4">
+                            <h3> Prevent Pest Resistance</h3>
+
+
+
+
+                            <p> Unlike chemical pesticides, biopesticides , do not induce the risk of pests developing resistance, soil health and crop integrity
+                            </p>
+                        </div>
+                    </div>
+                    <div class="services-2 ftco-animate d-flex w-100">
+                        <div class="icon d-flex justify-content-center align-items-center\">
+                            <span class="flaticon-meditation"></span>
+                        </div>
+                        <div class="text text-left pl-4">
+
+
+
+
+
+                            <h3> Support Bio-Organic Farming Practices</h3>
+                            <p>Biopesticides are a key tool in Bio-organic agriculture, maintaining pest
+                                control without compromising soil and crop integrity
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+            </div>
+        </div>
+    </section>
+
+
+
+
+
 
 
 
@@ -960,7 +1090,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-12 col-lg-4">
                     <div class="services-2 ftco-animate d-flex w-100">
                         <div class="icon d-flex justify-content-center align-items-center order-md-last">
                             <span class="flaticon-meditation"></span>
@@ -988,11 +1118,11 @@
                 <div class="col-md-12 col-lg-4 d-flex pb-4 index_Biopesticides_section">
 
 
-                <img src=" ./assets/images/logo/pesticides.png" alt="" class="img-fluid">
-                   
+                    <img src=" ./assets/images/logo/pesticides.png" alt="" class="img-fluid">
+
                 </div>
 
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-12 col-lg-4">
 
                     <div class="services-2 ftco-animate d-flex w-100">
                         <div class="icon d-flex justify-content-center align-items-center\">
@@ -1025,7 +1155,7 @@
 
 
                             <h3> Natural Boosters for Soil and Plant Health</h3>
-                            <p> Bio-pesticides and Bio-fertilizers are Organic microbes that boost soil fertility by fixing nitrogen and enhancing plant growth.
+                            <p> Bio-pesticides and Bio-fertilizers are Bio-Organic microbes that boost soil fertility by fixing nitrogen and enhancing plant growth.
                                 They reduce the need for chemicals, improve soil health, and support sustainable farming
                             </p>
                         </div>
@@ -1425,8 +1555,46 @@
                 </div>
             </div>
         </div>
-    </section> -->
+    </section>  -->
     <!-- Achievement area end here -->
+    <section class="achievement">
+        <div class="container">
+            <div class="row g-4 align-items-center justify-content-between">
+                <div class="col-lg-5 achievement__bor-right wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s">
+                    <div class="achievement__item">
+                        <h2 class="pt-3 pb-3">🌿Soil is the Living Foundation of Bio-Organic Farming</h2>
+                    </div>
+                </div>
+                <div class="col-lg-2 achievement__bor-right wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">
+                    <div class="achievement__item text-center">
+                        <img src="assets/images/icon/achieve1.png" alt="icon">
+                        <h5>Boosts Soil Fertility Bio-Organically</h5>
+                    </div>
+                </div>
+                <div class="col-lg-2 achievement__bor-right wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">
+                    <div class="achievement__item text-center">
+                        <img src="assets/images/icon/achieve2.png" alt="icon">
+                        <h5>Supports Biodiversity & Microbial Life</h5>
+                    </div>
+                </div>
+                <div class="col-lg-2 wow fadeInUp" data-wow-duration="1.8s" data-wow-delay=".8s">
+                    <div class="achievement__item text-center">
+                        <img src="assets/images/icon/achieve3.png" alt="icon">
+                        <h5>Healthy Soil, Healthy Future</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+
+
+
 
     <!-- Project area start here -->
     <section class="project pt-60 pb-60">
@@ -1559,7 +1727,7 @@
                                         <div class="swiper-slide">
                                             <div class="project__item">
                                                 <h3>Organic Paddy for Safer Harvests</h3>
-                                                <p>Paddy grown with organic inputs ensures toxin-free, nutrient-rich grains that are safe for both people and the planet. Using compost green manure, and bio-fertilizers promotes healthy root systems, improves soil fertility
+                                                <p>Paddy grown with Bio-organic inputs ensures toxin-free, nutrient-rich grains that are safe for both people and the planet. Using compost green manure, and bio-fertilizers promotes healthy root systems, improves soil fertility
 
 
                                                 </p>
@@ -1765,16 +1933,16 @@
 
     <!-- Involve area start here -->
     <section class="involve pt-60 pb-60">
-        <div class="involve__leaf wow slideInLeft d-none d-sm-block" data-wow-duration="1s" data-wow-delay="1s">
+        <!-- <div class="involve__leaf wow slideInLeft d-none d-sm-block" data-wow-duration="1s" data-wow-delay="1s">
             <img src="assets/images/shape/leaf-theme.png" alt="shape">
         </div>
         <div class="involve__leaf2 wow slideInRight d-none d-sm-block" data-wow-duration="1.2s"
             data-wow-delay="1.2s">
             <img src="assets/images/shape/leaf-theme2.png" alt="shape">
-        </div>
+        </div> -->
         <div class="container">
-            <!-- <div class="involve__bg pt-130 pb-130" data-background="assets/images/logo/samhitha_invovled_image.png"> -->
-            <div class="involve__bg pt-130 pb-130" data-background="assets/images/logo/samhitha_invovled_image.png">
+            <div class="involve__bg pt-130 pb-130" data-background="assets/images/logo/121212.png">
+                <!-- <div class="involve__bg pt-130 pb-130 " > -->
                 <div class="involve__item text-center">
                     <div class="section-header">
                         <h5 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s"><img
@@ -2111,6 +2279,53 @@
                 </div>
             </div>
         </div> -->
+
+
+
+
+
+
+
+    <!-- ✅ POPUP HTML -->
+    <!-- <div id="popupOverlay" class="popup-overlay">
+        <div class="popup-content">
+            <button class="close-btn" onclick="closePopup()">✖</button>
+            <img src="./assets/images/logo/pop_up.png" alt="Popup Image" class="popup-image">
+        </div>
+    </div> -->
+
+
+
+    <script>
+        // Show popup only once per session
+        window.onload = function() {
+            const isShown = sessionStorage.getItem("popupShown");
+            if (!isShown) {
+                document.getElementById("popupOverlay").style.display = "flex";
+                sessionStorage.setItem("popupShown", "true");
+            }
+        };
+
+        // Close popup
+        function closePopup() {
+            document.getElementById("popupOverlay").style.display = "none";
+        }
+    </script>
+
+
+
+    <!-- ✅ JS to Handle Popup -->
+    <!-- <script>
+  // Auto show popup when page loads
+  window.onload = function () {
+    document.getElementById("popupOverlay").style.display = "flex";
+  };
+
+  // Close popup
+  function closePopup() {
+    document.getElementById("popupOverlay").style.display = "none";
+  }
+</script> -->
 
 </main>
 

@@ -402,6 +402,37 @@
     <!-- History area end here -->
 
     <!-- Team area start here -->
+
+
+    <section class="achievement">
+        <div class="container">
+            <div class="row g-4 align-items-center justify-content-between">
+                <div class="col-lg-5 achievement__bor-right wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s">
+                    <div class="achievement__item">
+                        <h2 class="pt-3 pb-3">🌿Soil is the Living Foundation of Bio-Organic Farming</h2>
+                    </div>
+                </div>
+                <div class="col-lg-2 achievement__bor-right wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">
+                    <div class="achievement__item text-center">
+                        <img src="assets/images/icon/achieve1.png" alt="icon">
+                        <h5>Boosts Soil Fertility Bio-Organically</h5>
+                    </div>
+                </div>
+                <div class="col-lg-2 achievement__bor-right wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">
+                    <div class="achievement__item text-center">
+                        <img src="assets/images/icon/achieve2.png" alt="icon">
+                        <h5>Supports Biodiversity & Microbial Life</h5>
+                    </div>
+                </div>
+                <div class="col-lg-2 wow fadeInUp" data-wow-duration="1.8s" data-wow-delay=".8s">
+                    <div class="achievement__item text-center">
+                        <img src="assets/images/icon/achieve3.png" alt="icon">
+                        <h5>Healthy Soil, Healthy Future</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- Team area start here -->
 
     <!-- <section class="team pt-130" id="team_memeber">
