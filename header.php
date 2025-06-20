@@ -240,60 +240,48 @@
                     <!-- Search Bar -->
 
 
-
-                    <form class="d-flex ms-3" role="search" onsubmit="return false;">
+                    <form class="d-flex ms-3" role="search" onsubmit="return redirectPage();">
                         <input
                             id="liveSearchInput"
-                            class="form-control form-control-sm d-none"
+                            class="form-control form-control-sm"
                             type="search"
                             placeholder="Search..."
                             aria-label="Search">
                         <button
                             class="btn btn-sm btn-success ms-2"
-                            type="button"
-                            onclick="toggleOrRedirect()">
+                            type="submit">
                             <i class="fas fa-search"></i>
                         </button>
                     </form>
 
                     <script>
-                        let searchVisible = false;
+                        function redirectPage() {
+                            const input = document.getElementById("liveSearchInput").value.toLowerCase().trim();
 
-                        function toggleOrRedirect() {
-                            const input = document.getElementById('liveSearchInput');
+                            const pageMap = {
+                                "home": "index.php",
+                                "index": "index.php",
+                                "about": "about.php",
+                                "gallery": "gallery.php",
+                                "contact": "contact.php",
+                                "service": "service.php",
+                                "products": "service.php",
+                                "for plants":"consumer.php",
+                                "biofertilizer": "biofertilizers.php",
+                                "biofertilizers": "biofertilizers.php",
+                                "biopesticide": "biopesticides.php",
+                                "biopesticides": "biopesticides.php"
+                            };
 
-                            if (!searchVisible) {
-                                // Show the input box
-                                input.classList.remove('d-none');
-                                input.focus();
-                                searchVisible = true;
+                            if (pageMap[input]) {
+                                window.location.href = pageMap[input];
                             } else {
-                                const query = input.value.toLowerCase().trim();
-
-                                const pageMap = {
-                                    // 'home': 'index.php',
-                                    'index': 'index.php',
-                                    'about': 'about.php',
-                                    'gallery': 'gallery.php',
-                                    'contact': 'contact.php',
-                                    'service': 'service.php',
-                                    // 'services': 'service.php',
-                                    // 'biofertilizer': 'biofertilizers.php',
-                                    'biofertilizers': 'biofertilizers.php',
-                                    // 'biopesticide': 'biopesticides.php',
-                                    'biopesticides': 'biopesticides.php'
-                                };
-
-                                if (pageMap[query]) {
-                                    window.location.href = pageMap[query];
-                                } else {
-                                    alert('Page not found. Try: Home, About, Contact, Gallery, Services...');
-                                }
+                                alert("Page not found. Try: Home, About, Services, etc.");
                             }
+
+                            return false; // Prevent form from submitting normally
                         }
                     </script>
-
-
 
 
 
@@ -493,7 +481,3 @@
                 </div>
             </div>
         </header> -->
-
-
-
-

@@ -10,7 +10,7 @@
 
 <section class="index_first_sections">
     <div class="container">
-        <div class="row">
+        <div class="row ">
             <div class="col-md-6 col-12 index_first_sections_consumer text-center d-flex flex-column justify-content-center align-items-center">
                 <h3>
                     Grow Stronger with Pure bio-Organic Solutions
@@ -21,6 +21,7 @@
             </div>
 
             <div class="col-md-6 col-12">
+                <!-- <img src="assets/images/logo/1231232.png" alt="" class="img-fluid"> -->
                 <img src="assets/images/logo/samhita_slider_3.jpg" alt="" class="img-fluid">
             </div>
         </div>

@@ -8278,6 +8278,9 @@ text-align: center;
   }
 }
 
+.sub-menu li a{
+  margin-top: 10px !important;
+}
 
 
 
@@ -8647,7 +8650,7 @@ margin-bottom: 2px;
 }
 .main-menu li a {
   display: block;
-  padding: 10px 6px;
+  /* padding: 10px 6px; */
   text-decoration: none;
   color: #2e7d32;
   font-weight: 600;
@@ -9200,7 +9203,7 @@ margin-bottom: 2px;
 
 
 .desktop-menu form input[type="search"] {
-  max-width: 50px !important;
+  max-width: 100px !important;
 }
 
 
