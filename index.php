@@ -429,7 +429,7 @@
                     <p class="">We enrich it through Biological Bio-organic methods to boost fertility and biodiversity.
                         Healthy soil leads to thriving crops, balanced ecosystems, and chemical-free food production</p>
                     <p>
-                        We enrich it organically through composting and sustainable methods to boost fertility and biodiversity. Healthy soil leads to thriving crops, balanced ecosystems, and chemical-free food production. Our organic practices nurture the land without depleting it, ensuring sustainability for generations to come. By working in harmony with organic principles, we grow food that is as pure as the soil it comes from
+                    In bio-organic agriculture, healthy soil serves as the foundation for sustainable growth, playing a vital role in enhancing the effectiveness of bio-fertilizers and bio-pesticides. Rich in organic matter and microbial life, well-managed soil supports the proliferation of beneficial organisms that fix nitrogen, solubilize phosphorus, and protect plant roots from pathogens. Bio-fertilizers improve soil fertility Bio-organically, while bio-pesticides create a biological shield against pests without leaving harmful residues. Together, these inputs not only improve crop yield and quality but also restore soil vitality, making it more resilient, balanced, and productive for long-term ecological farming
                         </p>
 
 
