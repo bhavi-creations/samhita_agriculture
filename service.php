@@ -188,7 +188,7 @@
                             </div> -->
                             <span>01</span>
                         </div>
-                        <h3><a href="biofertilizers.php">Nitrogen Biofertilizer</a></h3>
+                        <h3><a href="biofertilizers.php">Nitrogen biofertilizer</a></h3>
                         <p>Nitrogen Biofertilizer (Azotobacter tropicalis) is a beneficial microbe that fixes
                             atmospheric nitrogen in the soil, improving soil fertility and promoting healthy plant
                             growth naturally.</p>
@@ -205,7 +205,7 @@
                             </div> -->
                             <span>02</span>
                         </div>
-                        <h3><a href="biofertilizers.php">Phosphorus & Zinc Biofertilizer</a></h3>
+                        <h3><a href="biofertilizers.php">Phosphorus & Zinc biofertilizer</a></h3>
                         <p>Phosphorus & Zinc Biofertilizer (Bacillus aryabhattai) enhances plant nutrition by
                             solubilizing unavailable phosphorus and mobilizing zinc in the soil, promoting stronger
                             root and shoot development</p>
@@ -222,7 +222,7 @@
                             </div> -->
                             <span>03</span>
                         </div>
-                        <h3><a href="biofertilizers.php">Potassium Biofertilizer</a></h3>
+                        <h3><a href="biofertilizers.php">Potassium biofertilizer</a></h3>
                         <p>Potassium Biofertilizer (pseudomonas taiwanensis) helps release bound potassium in the
                             soil, boosting plant strength, disease resistance, and improving overall crop quality
                             and yield</p>
@@ -273,13 +273,13 @@
                 </div>
             </div>
         </section> -->
-    <section class="achievement" data-background="assets/images/logo/monitored_img.png">
+    <!-- <section class="achievement" data-background="assets/images/logo/monitored_img.png">
         <div class="container">
             <div class="row g-4 align-items-center justify-content-between">
                 <div class="col-lg-5 achievement__bor-right wow fadeInUp" data-wow-duration="1.2s"
                     data-wow-delay=".2s">
                     <div class="achievement__item">
-                        <h2 class="text-white pt-3 pb-3">🌿 Diverse Paths in Organic Farming
+                        <h2 class="text-white pt-3 pb-3">🌿 Diverse Paths in Bio-Organic Farming
                         </h2>
                     </div>
                 </div>
@@ -287,10 +287,10 @@
                     data-wow-delay=".4s">
                     <div class="achievement__item text-center">
                         <img src="assets/images/icon/achieve1.png" alt="icon">
-                        <!-- <img src="assets/images/logo/1.png" alt="icon"> -->
+                        <img src="assets/images/logo/1.png" alt="icon">
 
                         <h5>Permaculture Farming</h5>
-                        <!-- <span class="count">6,472,068</span> -->
+                        <span class="count">6,472,068</span>
                     </div>
                 </div>
                 <div class="col-lg-2 achievement__bor-right wow fadeInUp" data-wow-duration="1.6s"
@@ -298,19 +298,19 @@
                     <div class="achievement__item text-center">
                         <img src="assets/images/icon/achieve2.png" alt="icon">
                         <h5>Biodynamic Agriculture</h5>
-                        <!-- <span class="count">38,768</span> -->
+                        <span class="count">38,768</span>
                     </div>
                 </div>
                 <div class="col-lg-2 wow fadeInUp" data-wow-duration="1.8s" data-wow-delay=".8s">
                     <div class="achievement__item text-center">
                         <img src="assets/images/icon/achieve3.png" alt="icon">
                         <h5>Agroecology</h5>
-                        <!-- <span class="count">1,193,210</span> -->
+                        <span class="count">1,193,210</span>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
 
 

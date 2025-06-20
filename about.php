@@ -167,7 +167,7 @@
 
 
                         </div>
-                        <h3 class="pb-30 wow fadeInUp" data-wow-duration="1.8s" data-wow-delay=".8s">🌿 "Benefits of Organic Farming for Sustainable Agriculture</h3>
+                        <h3 class="pb-30 wow fadeInUp" data-wow-duration="1.8s" data-wow-delay=".8s">🌿 "Benefits of Bio-Organic Farming for Sustainable Agriculture</h3>
                         <div class="d-flex align-items-center justify-content-between flex-wrap mb-10">
                             <ul class="wow fadeInDown" data-wow-duration="1.2s" data-wow-delay=".2s">
                                 <li class="mb-30"><img class="pe-2" src="assets/images/icon/leaf.svg" alt="icon">
@@ -513,7 +513,7 @@
                         <!-- <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong>P (Phosphorus) & Zn (Zinc):* </strong> You've linked these to "root and shoot strength & resistance." This is largely accurate</p> -->
                         <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> Phosphorus* </strong>is vital for energy transfer within the plant (ATP), which is essential for cell division and the development of strong root systems. A well-developed root system is fundamental for nutrient and water uptake, contributing to overall plant vigor and stability, which can be interpreted as "strength." It also plays a role in early plant growth and maturity</p>
                         <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> *Zinc* </strong> is a micronutrient that acts as a cofactor for many enzymes involved in plant metabolism. It's crucial for auxin synthesis (a growth hormone) and protein synthesis. Zinc deficiency can lead to stunted growth and poor development. Its role in overall plant health and metabolic processes indirectly contributes to the plant's ability to withstand stress and thus its "resistance" to various factors </p>
-                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> Reproduction:* </strong> Potassium plays a critical role in flowering, fruit development, and seed formation. Adequate potassium ensures proper filling of grains and fruits, leading to better yield quality and quantity, which directly supports "better reproduction</p>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> K (Potassium):*  </strong> Potassium plays a critical role in flowering, fruit development, and seed formation. Adequate potassium ensures proper filling of grains and fruits, leading to better yield quality and quantity, which directly supports "better reproduction</p>
                     </div>
                     <!-- <div class="involve-two__item help-area__item">
                         <div class="section-header mb-4">

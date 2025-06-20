@@ -281,56 +281,56 @@
 
 
 
- <section class="about_new_section banner" style="background-image: url('assets/images/bg/banner1.jpg'); background-size: cover; background-position: center;">
-    <div class="container position-relative">
-        
-        <!-- Leaf Decoration -->
-        <div class="banner__leaf wow slideInLeft d-none d-md-block" data-wow-duration="1s" data-wow-delay="1s">
-            <img src="assets/images/shape/leaf.png" alt="shape" class="img-fluid">
-        </div>
+    <section class="about_new_section banner" style="background-image: url('assets/images/bg/banner1.jpg'); background-size: cover; background-position: center;">
+        <div class="container position-relative">
 
-        <div class="row align-items-center">
-            <!-- Left Side Image -->
-            <div class="col-md-3 col-12 mb-4 mb-md-0">
-                <img src="assets/images/logo/pesticide_mix.jpg" alt="" class="img-fluid w-100">
+            <!-- Leaf Decoration -->
+            <div class="banner__leaf wow slideInLeft d-none d-md-block" data-wow-duration="1s" data-wow-delay="1s">
+                <img src="assets/images/shape/leaf.png" alt="shape" class="img-fluid">
             </div>
 
-            <!-- Content Section -->
-            <div class="col-md-9 col-12">
-                <div class="row align-items-center">
-                    <!-- Text and Middle Image -->
-                    <div class="col-md-8 col-12">
-                        <div class="banner__content eco_friendly_content">
-                            <h4 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s">
-                                Eco-Friendly Agricultural Solutions
-                            </h4>
-                            <h1 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">
-                                Pure, sustainable farming for healthy soil, food, and <span class="primary-color">future</span>
-                            </h1>
+            <div class="row align-items-center">
+                <!-- Left Side Image -->
+                <div class="col-md-3 col-12 mb-4 mb-md-0">
+                    <img src="assets/images/logo/pesticide_mix.jpg" alt="" class="img-fluid w-100">
+                </div>
 
-                            <!-- Center Icon Image -->
-                            <div class="text-center my-3">
-                                <img src="assets/images/logo/second_main_images.png" alt="" class="img-fluid p-3">
-                            </div>
+                <!-- Content Section -->
+                <div class="col-md-9 col-12">
+                    <div class="row align-items-center">
+                        <!-- Text and Middle Image -->
+                        <div class="col-md-8 col-12">
+                            <div class="banner__content eco_friendly_content">
+                                <h4 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s">
+                                    Eco-Friendly Agricultural Solutions
+                                </h4>
+                                <h1 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">
+                                    Pure, sustainable farming for healthy soil, food, and <span class="primary-color">future</span>
+                                </h1>
 
-                            <!-- Paragraph -->
-                            <div class="banner__content-con wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">
-                                <p>
-                                    Implementing Bio-organic systems that reduce environmental impact, conserve resources, and align with nature’s cycles to achieve true sustainability.
-                                </p>
+                                <!-- Center Icon Image -->
+                                <div class="text-center my-3">
+                                    <img src="assets/images/logo/second_main_images.png" alt="" class="img-fluid p-3">
+                                </div>
+
+                                <!-- Paragraph -->
+                                <div class="banner__content-con wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">
+                                    <p>
+                                        Implementing Bio-organic systems that reduce environmental impact, conserve resources, and align with nature’s cycles to achieve true sustainability.
+                                    </p>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
-                    <!-- Right Side Image -->
-                    <div class="col-md-4 col-12 text-center mt-4 mt-md-0">
-                        <img src="assets/images/logo/main_img_22_1.png" alt="" class="img-fluid">
+                        <!-- Right Side Image -->
+                        <div class="col-md-4 col-12 text-center mt-4 mt-md-0">
+                            <img src="assets/images/logo/main_img_22_1.png" alt="" class="img-fluid">
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
 
 
 
@@ -589,26 +589,26 @@
     <!-- About area end here -->
 
 
-<!-- 
-    <section class="py-5 ">
+
+    <section class="py-5  px-5">
         <div class="container" data-aos="fade-up">
             <h2 class="text-center text-capitalize mb-5 contact_text" data-aos="fade-down">
                 Comparing Bio-Organic and Chemical Farming
             </h2>
 
-   
+
             <div class="row text-center justify-content-center mb-4" data-aos="fade-up">
 
                 <div class="col-md-3 custom-tab active m-2 " data-target="#natural-tab">Bio-Organic Agriculture</div>
                 <div class="col-md-3 custom-tab  m-2  " data-target="#chemical-tab">Chemical Agriculture</div>
             </div>
 
-   
+
             <div id="chemical-tab" class="custom-tab-content " data-aos="fade-right">
                 <h3 class="text-center text-capitalize contact_text mb-4">Chemical Agriculture</h3>
                 <div class="row align-items-center">
                     <div class="col-md-6 natural_agri_image" data-aos="fade-right">
-                        <img src="assets/images/logo/chemical_agri.png" alt="Chemical Agriculture">
+                        <img src="assets/images/logo/chemical_agri.png" alt="Chemical Agriculture" class="img-fluid ">
                     </div>
                     <div class="col-md-6" data-aos="fade-left">
                         <p class="natural_agri_section">
@@ -628,7 +628,32 @@
                 </div>
             </div>
 
-            <div id="natural-tab" class="custom-tab-content active" data-aos="fade-left">
+
+
+            <div id="natural-tab" class="custom-tab-content active " data-aos="fade-right">
+                <h3 class="text-center text-capitalize contact_text mb-4">Bio-Organic Agriculture</h3>
+                <div class="row align-items-center">
+                    <div class="col-md-6 natural_agri_image" data-aos="fade-right">
+                        <img src="assets/images/logo/natural_agri.png" alt="Chemical Agriculture" class="img-fluid ">
+                    </div>
+                    <div class="col-md-6" data-aos="fade-left">
+                        <p class="natural_agri_section">
+
+                            Bio-Organic farming is a holistic and sustainable agricultural System . which promotes Bio-Organic methods to enhance soil fertility, protect crop health, and ensure safe, nutritious produce. The focus is on working with nature : not against it, by preserving ecological balance and boosting long-term farm productivity . It reduces the use of synthetic fertilizers and harmful pesticides. </p>
+
+
+
+                        <h4 class="natural_agri_section">Improves Soil Health</h4>
+                        <p><i class="fa fa-check-circle"></i> &nbsp; Enhances Soil Fertility</p>
+                        <p><i class="fa fa-check-circle"></i> &nbsp;Preserves Biodiversity</p>
+                        <p><i class="fa fa-check-circle"></i> &nbsp; Supports Biodiversity</p>
+                        <p><i class="fa fa-check-circle"></i> &nbsp; Reduces Water Usage</p>
+                        <p><i class="fa fa-check-circle"></i> &nbsp; Saves Water Resources</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- <div id="natural-tab" class="custom-tab-content active" data-aos="fade-left">
                 <h3 class="text-center text-capitalize contact_text mb-4">Bio-Organic Agriculture</h3>
                 <div class="row align-items-center">
                     <div class="col-md-6 natural_agri_image" data-aos="fade-right">
@@ -649,17 +674,18 @@
                         <p><i class="fa fa-check-circle"></i> &nbsp; Saves Water Resources</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
-    </section> -->
+    </section>
 
 
 
 
 
-<!-- Organic farming is a holistic and sustainable agricultural system that avoids the use of synthetic fertilizers, harmful pesticides, and genetically modified organisms (GMOs). Instead, it promotes Organic methods to enhance soil fertility, protect crop health, and ensure safe, nutritious produce. The focus is on working with nature—not against it—by preserving ecological balance and boosting long-term farm productivity </p> -->
-                        <!--   and genetically modified organisms (GMOs).   -->
-    
+
+    <!-- Organic farming is a holistic and sustainable agricultural system that avoids the use of synthetic fertilizers, harmful pesticides, and genetically modified organisms (GMOs). Instead, it promotes Organic methods to enhance soil fertility, protect crop health, and ensure safe, nutritious produce. The focus is on working with nature—not against it—by preserving ecological balance and boosting long-term farm productivity </p> -->
+    <!--   and genetically modified organisms (GMOs).   -->
+
 
 
 
@@ -955,15 +981,15 @@
                                 soil health without harming the environment</p>
                         </div>
                     </div>
-                   
+
                 </div>
 
-                <div class="col-md-6 col-lg-4 d-flex pb-4">
+                <div class="col-md-12 col-lg-4 d-flex pb-4">
                     <img src="./assets/images/logo/ferlizers.jpg" alt="" class="img-fluid">
                 </div>
 
                 <div class="col-md-6 col-lg-4">
-                   
+
                     <div class="services-2 ftco-animate d-flex w-100">
                         <div class="icon d-flex justify-content-center align-items-center\">
                             <span class="flaticon-meditation"></span>
@@ -1784,7 +1810,7 @@
                                         <img src="assets/images/reviews/5.png" alt="image">
                                     </div>
                                     <div class="testimonial__item-head-info-con">
-                                        <h3>రమేష్ గారు  </h3>
+                                        <h3>రమేష్ గారు </h3>
                                         <span>తూర్పు గోదావరి జిల్లా</span>
                                     </div>
                                 </div>
@@ -1813,8 +1839,8 @@
                                 <i class="fa-solid fa-quote-right"></i>
                             </div>
                             <div class="testimonial__item-content">
-                                <p>  
-                                "క్రిమి నివారణకు బయో పెస్టిసైడ్ వాడితే ఎలాంటి దుష్ఫలితాలు లేకుండా పంట మంచి ఉత్పత్తి ఇచ్చింది. నా కుటుంబానికి భద్రమైన ఆహారం అందుతోంది"
+                                <p>
+                                    "క్రిమి నివారణకు బయో పెస్టిసైడ్ వాడితే ఎలాంటి దుష్ఫలితాలు లేకుండా పంట మంచి ఉత్పత్తి ఇచ్చింది. నా కుటుంబానికి భద్రమైన ఆహారం అందుతోంది"
                                 </p>
                             </div>
                         </div>

@@ -13,10 +13,10 @@
         <div class="row">
             <div class="col-md-6 col-12 index_first_sections_consumer text-center d-flex flex-column justify-content-center align-items-center">
                 <h3>
-                    Grow Stronger with Pure Organic Solutions
+                    Grow Stronger with Pure bio-Organic Solutions
                 </h3>
                 <p>
-                    At Samhita Soil Solutions, we bring premium bio-organic products directly to households that care about health, sustainability, and a chemical-free lifestyle. From organic pest control to nutrient-rich soil boosters, our eco-friendly solutions support your kitchen gardens, terrace plants, and home landscapes—ensuring safe food and a greener future for your family.
+                    At Samhita Soil Solutions, we bring premium bio-organic products directly to households that care about health, sustainability, and a chemical-free lifestyle. From bio-organic pest control to nutrient-rich soil boosters, our eco-friendly solutions support your kitchen gardens, terrace plants, and home landscapes—ensuring safe food and a greener future for your family.
                 </p>
             </div>
 

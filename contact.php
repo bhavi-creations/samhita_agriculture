@@ -12,7 +12,7 @@
             <div class="row g-4">
                 <div class="col-lg-6 d-none d-md-block ">
                     <div class="content bg-image">
-                        <h2>Contact Our organic farming Experts</h2>
+                        <h2>Contact Our Bio-organic farming Experts</h2>
                         <p>Our experts are ready to guide you toward a more sustainable farming future</p>
                         <div class="arry"><img src="assets/images/icon/arry.png" alt=""></div>
                         <ul>
@@ -38,7 +38,7 @@
 
                 <div class="col-lg-6 d-block d-md-none">
                     <div class="content bg-image">
-                        <h2>Contact Our organic farming Experts</h2>
+                        <h2>Contact Our Bio-organic farming Experts</h2>
                         <p>Our experts are ready to guide you toward a more sustainable farming future</p>
                         <div class="arry"><img src="assets/images/icon/arry.png" alt=""></div>
                         <ul>

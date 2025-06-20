@@ -9336,3 +9336,54 @@ margin-bottom: 2px;
   font-size: 34px  !important;
 }
 
+
+
+.first_section_images img{
+ border-radius: 0px !important;
+}
+
+
+
+
+
+
+
+
+.comparison-section {
+    background-color: #f9f9f9;
+}
+.comparison-title {
+    font-weight: 600;
+    color: #2e7d32;
+}
+.tab-option {
+    padding: 10px 20px;
+    background-color: #e0f2f1;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: 0.3s;
+}
+.tab-option.active {
+    background-color: #2e7d32;
+    color: #fff;
+}
+.tab-panel {
+    display: none;
+}
+.tab-panel.active {
+    display: block;
+}
+.tab-description {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.tab-heading {
+    font-weight: 600;
+    margin-top: 20px;
+    color: #388e3c;
+}
+.tab-image img {
+    width: 100%;
+    border-radius: 8px;
+}
