@@ -2004,7 +2004,7 @@
                                         <img src="assets/images/reviews/4.png" alt="image">
                                     </div>
                                     <div class="testimonial__item-head-info-con">
-                                        <h3>వెంకటరావు</h3>
+                                        <h3>అంబికా</h3>
                                         <span>రైతు</span>
                                     </div>
                                 </div>

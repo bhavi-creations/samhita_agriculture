@@ -40,7 +40,7 @@
 <body>
 
     <!-- Preloader area start -->
-    <div id="loading">
+    <!-- <div id="loading">
         <div id="loading-center">
             <div id="loading-center-absolute">
                 <div class="loading-icon text-center d-flex flex-column align-items-center justify-content-center">
@@ -48,7 +48,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Preloader area end -->
 
 
