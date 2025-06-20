@@ -9349,6 +9349,7 @@ margin-bottom: 2px;
 
 
 
+
 .comparison-section {
     background-color: #f9f9f9;
 }
@@ -9386,4 +9387,42 @@ margin-bottom: 2px;
 .tab-image img {
     width: 100%;
     border-radius: 8px;
+}
+
+
+
+.catalog-gradient-btn {
+  padding: 20px 20px !important;
+  border-radius: 30px;
+  font-weight: 600;
+  color: #fff !important;
+  text-decoration: none;
+  background: linear-gradient(-45deg, #99c79b, #43a047, #93c897, #81c784);
+  /* background: linear-gradient(-45deg, #66bb6a, #43a047, #2e7d32, #81c784); */
+  background-size: 300% 300%;
+  animation: gradientMove 4s ease infinite;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  display: inline-block;
+  transition: transform 0.3s;
+}
+
+.catalog-gradient-btn:hover {
+  transform: scale(1.05);
+  text-decoration: none;
+  color: #fff !important;
+}
+
+/* Keyframes for animation */
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@media (min-width:1400px) {
+  .index_Biopesticides_section img{
+    height:450px;
+    width: 500px !important;
+  }
+  
 }

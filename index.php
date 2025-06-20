@@ -887,8 +887,9 @@
 						</div> -->
                 </div>
 
-                <div class="col-md-4 d-flex pb-4">
-                    <img src=" ./assets/images/logo/pesticides.png" alt="" class="img-fluid">
+                <div class="col-md-4 d-flex pb-4 index_Biopesticides_section">
+                    <!-- <img src=" ./assets/images/logo/pesticides.png" alt="" class="img-fluid"> -->
+                    <img src="./assets/images/logo/ferlizers.jpg" alt="" class="img-fluid">
                 </div>
 
                 <div class="col-md-4">
@@ -984,8 +985,11 @@
 
                 </div>
 
-                <div class="col-md-12 col-lg-4 d-flex pb-4">
-                    <img src="./assets/images/logo/ferlizers.jpg" alt="" class="img-fluid">
+                <div class="col-md-12 col-lg-4 d-flex pb-4 index_Biopesticides_section">
+
+
+                <img src=" ./assets/images/logo/pesticides.png" alt="" class="img-fluid">
+                   
                 </div>
 
                 <div class="col-md-6 col-lg-4">
@@ -1769,6 +1773,7 @@
             <img src="assets/images/shape/leaf-theme2.png" alt="shape">
         </div>
         <div class="container">
+            <!-- <div class="involve__bg pt-130 pb-130" data-background="assets/images/logo/samhitha_invovled_image.png"> -->
             <div class="involve__bg pt-130 pb-130" data-background="assets/images/logo/samhitha_invovled_image.png">
                 <div class="involve__item text-center">
                     <div class="section-header">

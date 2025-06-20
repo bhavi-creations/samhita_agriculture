@@ -229,6 +229,12 @@
                         <li><a href="contact.php">Contact Us</a></li>
                         <li><a href="consumer.php">For Plants</a></li>
                         <li><a href="assets/images/logo/samhita_logo.png" target="_blank" download>Catalog</a></li>
+
+                        <!-- <li>
+                            <a href="assets/images/logo/samhita_logo.png" target="_blank" download class="catalog-gradient-btn">
+                                📄 Catalog
+                            </a>
+                        </li> -->
                     </ul>
 
                     <!-- Search Bar -->
