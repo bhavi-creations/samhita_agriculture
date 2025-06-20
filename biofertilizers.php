@@ -31,7 +31,7 @@
 
                 <h4>Nitrogen Biofertilizer (Azotobacter tropicalis)</h4>
                 <p>
-                    Azotobacter tropicalis is a beneficial nitrogen-fixing bacteria used in Bio-organic farming to enrich soil Organically. It converts atmospheric nitrogen into a form plants can absorb, promoting healthy root growth and improving crop yields without chemical fertilizers. This eco-friendly biofertilizer supports sustainable agriculture and enhances soil fertility over time It also enhances seed germination and strengthens plant resistance to stress conditions.
+                    Azotobacter tropicalis is a beneficial nitrogen-fixing bacteria used in Bio-organic farming to enrich soil Bio-Organically. It converts atmospheric nitrogen into a form plants can absorb, promoting healthy root growth and improving crop yields without chemical fertilizers. This eco-friendly biofertilizer supports sustainable agriculture and enhances soil fertility over time It also enhances seed germination and strengthens plant resistance to stress conditions.
                     Regular use improves long-term soil health, making it ideal for sustainable Bio-organic practices
                 </p>
             </div>
@@ -75,7 +75,7 @@
 
                 <h4> Potassium Biofertilizer (Pseudomonas taiwanensis)</h4>
                 <p>
-                    Pseudomonas taiwanensis is a potassium-solubilizing bacteria that releases bound potassium from soil minerals, making it available to plants. This enhances plant strength, improves disease resistance, and supports better fruit and seed development Organically. It plays a key role in Bio-organic farming by reducing chemical potassium fertilizer use and enriching soil health.
+                    Pseudomonas taiwanensis is a potassium-solubilizing bacteria that releases bound potassium from soil minerals, making it available to plants. This enhances plant strength, improves disease resistance, and supports better fruit and seed development Bio-Organically. It plays a key role in Bio-organic farming by reducing chemical potassium fertilizer use and enriching soil health.
                     It aids in water regulation, enzyme activation, and overall plant metabolism.
                     Using this biofertilizer boosts crop quality while maintaining soil sustainability
 

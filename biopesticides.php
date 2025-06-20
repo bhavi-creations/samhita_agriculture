@@ -46,7 +46,7 @@
             <div class="col-md-6   col-12 bio_paragraph">
                 <h4> Pseudomonas fluorescens 1.5% LF</h4>
                 <p>
-                    Pseudomonas fluorescens 1.5% LF is a liquid formulation bio-fungicide that effectively controls soil-borne and foliar fungal diseases. It works by colonizing the root zone and producing antimicrobial substances that inhibit the growth of pathogens like Fusarium, Rhizoctonia, and Pythium. This Organic defense mechanism strengthens plant immunity and reduces the incidence of root rot, wilt, and blight In addition to disease control, it enhances plant vigor, improves nutrient absorption, and supports sustainable crop health. Safe for humans, animals, and the environment, this eco-friendly bio-product is ideal for Bio-organic farming and Integrated Pest Management (IPM) programs
+                    Pseudomonas fluorescens 1.5% LF is a liquid formulation bio-fungicide that effectively controls soil-borne and foliar fungal diseases. It works by colonizing the root zone and producing antimicrobial substances that inhibit the growth of pathogens like Fusarium, Rhizoctonia, and Pythium. This Bio-Organic defense mechanism strengthens plant immunity and reduces the incidence of root rot, wilt, and blight In addition to disease control, it enhances plant vigor, improves nutrient absorption, and supports sustainable crop health. Safe for humans, animals, and the environment, this eco-friendly bio-product is ideal for Bio-organic farming and Integrated Pest Management (IPM) programs
                 </p>
             </div>
             <div class="col-md-6   col-12 bio_section">

@@ -8387,9 +8387,30 @@ img {
 
 
 
+@media (min-width:345px) and (max-width:374px) {
+  .samhitha_agri {
+      margin-bottom: -90px !important;
+      font-size: 21px !important;
+      margin-left: 45px;
+      line-height: 33px;
+      letter-spacing: 5px;
+  }
+  .mobile_toggle_bar {
+    margin-top: -20px !important;
+  }
+}
 
 
-@media (max-width:375px) {
+
+
+
+
+
+
+
+
+
+@media (max-width:345px) {
   .samhitha_agri {
       margin-bottom: -90px !important;
       font-size: 16px !important;
@@ -8397,10 +8418,13 @@ img {
       line-height: 33px;
       letter-spacing: 5px;
   }
+  .mobile_toggle_bar {
+    margin-top: -20px !important;
+  }
 }
 
 
-@media (max-width:375px)  and  (max-width:439px) {
+@media (min-width:375px)  and  (max-width:439px) {
   .samhitha_agri {
     /* margin-bottom: -55px !important;
 font-size: 25px;
