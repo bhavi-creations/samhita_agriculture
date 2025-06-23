@@ -9603,3 +9603,11 @@ margin-bottom: 2px;
 
 
 
+
+@media (min-width:1200px) and (max-width:1700px) {
+  .sub-menu{
+    margin-top: 10px !important;
+    margin-left: -50px !important;
+  }
+  
+}
