@@ -590,7 +590,7 @@
 
 
 
-    <!-- <section class="  px-3 py-5">
+  <!-- <section class="  px-3 py-5">
         <div class="container" data-aos="fade-up">
             <h2 class="text-center text-capitalize mb-5 contact_text" data-aos="fade-down">
                 Comparing Bio-Organic and Chemical Farming
@@ -671,7 +671,7 @@
 
 
 
-
+<!-- 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
         $(document).ready(function() {
@@ -683,13 +683,13 @@
                 $($(this).data('target')).addClass('active');
             });
         });
-    </script>
+    </script> -->
 
 
 
-    <script>
+    <!-- <script>
         AOS.init();
-    </script>
+    </script> -->
 
 
 
@@ -1584,7 +1584,7 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="project__image bg-image"
-                            style="background-image: url(assets/images/logo/regenerative_farming.png);">
+                            style="background-image: url(assets/images/logo/regenerative_farming.jpg);">
                         </div>
                     </div>
                     <div class="swiper-slide">
@@ -1599,7 +1599,7 @@
                     </div>
                     <div class="swiper-slide">
                         <div class="project__image bg-image"
-                            style="background-image: url(assets/images/logo/organic_inputs.png);">
+                            style="background-image: url(assets/images/logo/organic_inputs.jpg);">
                         </div>
                     </div>
                     <div class="swiper-slide">
