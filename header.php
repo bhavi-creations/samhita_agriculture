@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>samhitha_agriculture</title>
+    <title>Samhita Soil Solutions</title>
     <!-- Favicon img -->
     <link rel="shortcut icon" href="assets/images/logo/logo_111.png">
     <!-- Bootstarp min css -->
@@ -140,7 +140,8 @@
 
                             <li><a href="contact.php">Contact Us</a></li>
                             <!-- <li><a href="contact.php">For Plants</a></li> -->
-                            <li><a href="consumer.php">For Plants</a></li>
+                            <!-- <li><a href="consumer.php">For Plants</a></li> -->
+                            <li><a href="consumer.php"> Residence</a></li>
                             <li><a href="assets/images/catlog/samhita_pamphlet.pdf" target="_blank" download> Catalog</a></li>
 
                             <!-- <form class="d-flex ms-3" role="search" onsubmit="return false;">
@@ -227,7 +228,10 @@
                         </li>
                         <li><a href="gallery.php">Gallery</a></li>
                         <li><a href="contact.php">Contact Us</a></li>
-                        <li><a href="consumer.php">For Plants</a></li>
+
+                        
+                        <li><a href="consumer.php">Residence</a></li>
+                        <!-- <li><a href="consumer.php">For Plants</a></li> -->
                         <li><a href="assets/images/catlog/samhita_pamphlet.pdf" target="_blank" download>Catalog</a></li>
 
                         <!-- <li>
