@@ -1594,12 +1594,12 @@
                     </div>
                     <div class="swiper-slide">
                         <div class="project__image bg-image"
-                            style="background-image: url(assets/images/logo/4.png);">
+                            style="background-image: url(assets/images/logo/123123123.png);">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="project__image bg-image"
-                            style="background-image: url(assets/images/logo/organic_inputs.jpg);">
+                            style="background-image: url(./assets/images/logo/12.jpg);">
                         </div>
                     </div>
                     <div class="swiper-slide">
