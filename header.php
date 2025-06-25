@@ -130,10 +130,66 @@
                             <li class="has-submenu mobile-click-toggle">
                                 <a href="#" onclick="toggleSubmenu(event)">Products</a>
                                 <ul class="sub-menu">
-                                    <li><a href="biopesticides.php">Biopesticides</a></li>
-                                    <li><a href="biofertilizers.php">Biofertilizers</a></li>
+                                    <!-- <li><a href="biopesticides.php">Biopesticides</a></li> -->
+
+                                    <li class="has-submenu mobile-click-toggle">
+                                        <a href="#" onclick="toggleSubmenu(event)">Crops</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="biopesticides.php">Biopesticides</a></li>
+                                            <li><a href="biofertilizers.php">Biofertilizers</a></li>
+                                        </ul>
+                                    </li>
+
+
+
+                                    <li class="has-submenu mobile-click-toggle">
+                                        <a href="#" onclick="toggleSubmenu(event)">House Hold Products</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="consumer.php">Biopesticides</a></li>
+                                            <li><a href="house_consumer.php">Biofertilizers</a></li>
+                                        </ul>
+                                    </li>
+
+
+
+
+
+
+
+                                    <!-- <li><a href="biofertilizers.php">Biofertilizers</a></li> -->
                                 </ul>
                             </li>
+
+
+
+
+
+
+                            <!-- 
+                            <ul class="menu">
+                                <li class="has-submenu">
+                                    <a href="#" class="toggle-sub">Products</a>
+                                    <ul class="sub-menu">
+
+                                        <li class="has-submenu">
+                                            <a href="#" class="toggle-sub">Crops</a>
+                                            <ul class="sub-sub-menu">
+                                                <li><a href="biopesticides.php">Biopesticides</a></li>
+                                                <li><a href="biofertilizers.php">Biofertilizers</a></li>
+                                            </ul>
+                                        </li>
+
+                                        <li class="has-submenu">
+                                            <a href="#" class="toggle-sub">House Hold Products</a>
+                                            <ul class="sub-sub-menu">
+                                                <li><a href="consumer.php">Biopesticides</a></li>
+                                                <li><a href="house_consumer.php">Biofertilizers</a></li>
+                                            </ul>
+                                        </li>
+
+                                    </ul>
+                                </li>
+                            </ul> -->
 
 
                             <li><a href="gallery.php">Gallery </a></li>
@@ -173,6 +229,9 @@
             </div>
         </div>
     </header>
+
+
+
 
 
 
@@ -219,20 +278,55 @@
                     <ul class="main-menu d-flex mb-0 list-unstyled align-items-center">
                         <li><a href="index.php">Home</a></li>
                         <li><a href="about.php">About Us</a></li>
-                        <li class="has-submenu position-relative">
+                        <!-- <li class="has-submenu position-relative">
                             <a href="service.php">Products</a>
                             <ul class="sub-menu position-absolute list-unstyled p-2 bg-white shadow">
                                 <li><a href="biopesticides.php">Biopesticides</a></li>
                                 <li><a href="biofertilizers.php">Biofertilizers</a></li>
                             </ul>
-                        </li>
+                        </li> -->
+
+
+
+
+
+
+
+                        <ul class="menu">
+                            <li class="has-submenu">
+                                <a href="#" class="toggle-sub">Products</a>
+                                <ul class="sub-menu">
+
+                                    <li class="has-submenu">
+                                        <a href="#" class="toggle-sub">Crops</a>
+                                        <ul class="sub-sub-menu">
+                                            <li><a href="biopesticides.php">Biopesticides</a></li>
+                                            <li><a href="biofertilizers.php">Biofertilizers</a></li>
+                                        </ul>
+                                    </li>
+
+                                    <li class="has-submenu">
+                                        <a href="#" class="toggle-sub">House Hold Products</a>
+                                        <ul class="sub-sub-menu">
+                                            <li><a href="consumer.php">Biopesticides</a></li>
+                                            <li><a href="house_consumer.php">Biofertilizers</a></li>
+                                        </ul>
+                                    </li>
+
+                                </ul>
+                            </li>
+                        </ul>
+
+
+
+
                         <li><a href="gallery.php">Gallery</a></li>
                         <li><a href="contact.php">Contact Us</a></li>
 
-                        
-                        <li><a href="consumer.php">Residence</a></li>
+
+                        <!-- <li><a href="consumer.php">Residence</a></li> -->
                         <!-- <li><a href="consumer.php">For Plants</a></li> -->
-                        <li><a href="assets/images/catlog/samhita_pamphlet.pdf" target="_blank" download>Catalog</a></li>
+                        <li><a href="assets/images/catlog/samhitha catalogue.pdf" target="_blank" download>Catalogue </a></li>
 
                         <!-- <li>
                             <a href="assets/images/logo/samhita_logo.png" target="_blank" download class="catalog-gradient-btn">
@@ -242,6 +336,24 @@
                     </ul>
 
                     <!-- Search Bar -->
+
+
+
+
+                    <script>
+                        function toggleSubmenu(event) {
+                            event.preventDefault();
+                            const submenu = event.target.nextElementSibling;
+                            submenu.classList.toggle('active');
+                        }
+
+                        function toggleNested(event) {
+                            event.preventDefault();
+                            const subSubMenu = event.target.nextElementSibling;
+                            subSubMenu.classList.toggle('active');
+                        }
+                    </script>
+
 
 
                     <form class="d-flex ms-3" role="search" onsubmit="return redirectPage();">
@@ -270,7 +382,7 @@
                                 "contact": "contact.php",
                                 "service": "service.php",
                                 "products": "service.php",
-                                "for plants":"consumer.php",
+                                "for plants": "consumer.php",
                                 "biofertilizer": "biofertilizers.php",
                                 "biofertilizers": "biofertilizers.php",
                                 "biopesticide": "biopesticides.php",
@@ -372,6 +484,19 @@
             // On desktop, no need to block hover
         }
     </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

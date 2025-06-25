@@ -9232,7 +9232,7 @@ margin-bottom: 2px;
 
 
 .desktop-menu form input[type="search"] {
-  max-width: 100px !important;
+  max-width: 145px !important;
 }
 
 
@@ -9606,8 +9606,77 @@ margin-bottom: 2px;
 
 @media (min-width:1200px) and (max-width:1700px) {
   .sub-menu{
-    margin-top: 10px !important;
+    /* margin-top: 10px !important; */
     margin-left: -50px !important;
   }
   
 }
+
+
+
+
+
+
+/* service sub menu  */
+/* Base styles */
+ul.sub-menu, ul.sub-sub-menu {
+  display: none;
+  position: absolute;
+  left: 100%;
+  top: 0;
+  background: #fff;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  min-width: 200px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  z-index: 999;
+}
+
+ul.sub-menu {
+  left: 0;
+  top: 100%;
+}
+
+.has-submenu {
+  position: relative;
+}
+
+.has-submenu > a {
+  display: block;
+  padding: 15px 15px;
+  text-decoration: none;
+  color: #333;
+  white-space: nowrap;
+}
+
+.sub-menu li a, .sub-sub-menu li a {
+  display: block;
+  padding: 8px 15px;
+  color: #333;
+  text-decoration: none;
+  background-color: #f9f9f9;
+}
+
+.sub-menu li a:hover, .sub-sub-menu li a:hover {
+  background-color: #e0f7e9;
+  color: #2e7d32;
+}
+
+/* Show sub-menu on hover */
+.has-submenu:hover > .sub-menu,
+.has-submenu:hover > .sub-sub-menu {
+  display: block;
+}
+
+/* Optional arrow indicators */
+.has-submenu > a::after {
+  content: " ▾";
+  font-size: 0.7em;
+  margin-left: 4px;
+}
+
+
+
+
+/* drop down for mobile responsive */

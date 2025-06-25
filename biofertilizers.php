@@ -11,7 +11,7 @@
 </section> -->
 
 <section class="first_section_images">
-    <img src="assets/images/logo/about_main_images_11.png" alt="" class="img-fluid">
+    <img src="assets/images/logo/for_agriculture.png" alt="" class="img-fluid">
 </section>
 
 
