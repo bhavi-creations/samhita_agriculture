@@ -98,7 +98,7 @@
                             </li>
 
                             <li><a href="consumer.php"><i class="fa-solid fa-chevron-right pe-1 primary-color"></i>
-                                 House Hold products
+                                 House Hold Garden
 
                                 </a>
                             </li>
