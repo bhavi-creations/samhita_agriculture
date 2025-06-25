@@ -138,17 +138,13 @@
                                             <li><a href="biopesticides.php">Biopesticides</a></li>
                                             <li><a href="biofertilizers.php">Biofertilizers</a></li>
                                         </ul>
+
+
                                     </li>
 
+                                    
+                                    <li> <a href="consumer.php"> House Hold Gardens</a></li>
 
-
-                                    <li class="has-submenu mobile-click-toggle">
-                                        <a href="#" onclick="toggleSubmenu(event)"> House Hold Gardens</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="consumer.php">Biopesticides</a></li>
-                                            <li><a href="house_consumer.php">Biofertilizers</a></li>
-                                        </ul>
-                                    </li>
 
 
 
@@ -190,7 +186,6 @@
                                     </ul>
                                 </li>
                             </ul> -->
-
 
                             <li><a href="gallery.php">Gallery </a></li>
 
@@ -298,21 +293,24 @@
                                 <a href="service.php" class="toggle-sub">Products</a>
                                 <ul class="sub-menu">
 
-                                    <li class="has-submenu">
+                                    <li class="has-submenu" style="width: 200px ;" >
                                         <a href="#" class="toggle-sub">Crops</a>
                                         <ul class="sub-sub-menu">
                                             <li><a href="biopesticides.php">Biopesticides</a></li>
                                             <li><a href="biofertilizers.php">Biofertilizers</a></li>
                                         </ul>
+                                        <li><a href="consumer.php">House Hold Gardens</a></li>
+ 
                                     </li>
 
-                                    <li class="has-submenu">
-                                        <a href="#" class="toggle-sub">  House Hold Gardens</a>
+                                    <!-- <li class="has-submenu">
+                                        <a href="consumer.php" class="toggle-sub"> House Hold Gardens</a>
                                         <ul class="sub-sub-menu">
                                             <li><a href="consumer.php">Biopesticides</a></li>
                                             <li><a href="house_consumer.php">Biofertilizers</a></li>
                                         </ul>
-                                    </li>
+                                    </li> -->
+
 
                                 </ul>
                             </li>
