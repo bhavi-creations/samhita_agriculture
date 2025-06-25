@@ -295,7 +295,7 @@
 
                         <ul class="menu">
                             <li class="has-submenu">
-                                <a href="#" class="toggle-sub">Products</a>
+                                <a href="service.php" class="toggle-sub">Products</a>
                                 <ul class="sub-menu">
 
                                     <li class="has-submenu">
