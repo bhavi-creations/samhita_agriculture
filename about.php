@@ -153,7 +153,7 @@
                                 experience in govt. Lab
                             </p>
 
-                            <p> In <strong> ICAR-IIHR </strong> an incubatee in an from ICAR-IIHR</p>
+                            <p> In <strong> ICAR-IIHR </strong> an incubatee in and from ICAR-IIHR</p>
 
 
 

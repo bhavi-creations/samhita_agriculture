@@ -143,7 +143,7 @@
 
 
                                     <li class="has-submenu mobile-click-toggle">
-                                        <a href="#" onclick="toggleSubmenu(event)"> House Hold Garden</a>
+                                        <a href="#" onclick="toggleSubmenu(event)"> House Hold Gardens</a>
                                         <ul class="sub-menu">
                                             <li><a href="consumer.php">Biopesticides</a></li>
                                             <li><a href="house_consumer.php">Biofertilizers</a></li>
@@ -307,7 +307,7 @@
                                     </li>
 
                                     <li class="has-submenu">
-                                        <a href="#" class="toggle-sub">  House Hold Garden</a>
+                                        <a href="#" class="toggle-sub">  House Hold Gardens</a>
                                         <ul class="sub-sub-menu">
                                             <li><a href="consumer.php">Biopesticides</a></li>
                                             <li><a href="house_consumer.php">Biofertilizers</a></li>
