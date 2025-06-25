@@ -197,8 +197,9 @@
                             <li><a href="contact.php">Contact Us</a></li>
                             <!-- <li><a href="contact.php">For Plants</a></li> -->
                             <!-- <li><a href="consumer.php">For Plants</a></li> -->
-                            <li><a href="consumer.php"> Residence</a></li>
-                            <li><a href="assets/images/catlog/samhita_pamphlet.pdf" target="_blank" download> Catalog</a></li>
+                            <!-- <li><a href="consumer.php"> Residence</a></li> -->
+                            <!-- <li><a href="assets/images/catlog/samhita_pamphlet.pdf" target="_blank" download> Catalog</a></li> -->
+                            <li><a href="assets/images/catlog/samhitha catalogue.pdf" target="_blank" download>Catalogue </a></li>
 
                             <!-- <form class="d-flex ms-3" role="search" onsubmit="return false;">
                                 <button class="btn btn-sm btn-success ms-2" type="button" onclick="filterItems()">
