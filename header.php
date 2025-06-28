@@ -195,6 +195,7 @@
                             <!-- <li><a href="consumer.php"> Residence</a></li> -->
                             <!-- <li><a href="assets/images/catlog/samhita_pamphlet.pdf" target="_blank" download> Catalog</a></li> -->
                             <li><a href="assets/images/catlog/samhitha catalogue.pdf" target="_blank" download>Catalogue </a></li>
+                            <li><a href="https://samhita.bhavicreations.com/">Login</a></li>
 
                             <!-- <form class="d-flex ms-3" role="search" onsubmit="return false;">
                                 <button class="btn btn-sm btn-success ms-2" type="button" onclick="filterItems()">
@@ -326,6 +327,8 @@
                         <!-- <li><a href="consumer.php">Residence</a></li> -->
                         <!-- <li><a href="consumer.php">For Plants</a></li> -->
                         <li><a href="assets/images/catlog/samhitha catalogue.pdf" target="_blank" download>Catalogue </a></li>
+                        
+                        <li><a href="https://samhita.bhavicreations.com/">Login</a></li>
 
                         <!-- <li>
                             <a href="assets/images/logo/samhita_logo.png" target="_blank" download class="catalog-gradient-btn">
