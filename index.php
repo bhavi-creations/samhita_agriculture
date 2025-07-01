@@ -414,7 +414,7 @@
 
 
 
-    <section class="main_section_home  py-5 ">
+    <section class="main_section_home  ` ">
         <div class="container-fluid">
 
 
