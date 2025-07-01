@@ -422,7 +422,7 @@
 
 
 
-                <div class=" col-12 col-md-6 first_images_section  d-md-none">
+                <div class=" col-12 col-md-6 first_images_section  ">
                     <h3>
                         🌿 Soil is the Heart of <span class="organic_index">Bio-Organic Farming</span>
                     </h3>
@@ -435,9 +435,9 @@
 
 
                 </div>
-                <div class=" col-12 col-md-6   second_images_section d-none ">
+                <div class=" col-12 col-md-6   second_images_section  ">
 
-                    <img src="./assets/images/logo/bacteria.png" alt="" class="img-fluid">
+                    <img src="./assets/images/logo/new_image.png" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="index_section_1"> <img src="assets/images/about/leaf.png" alt="">
