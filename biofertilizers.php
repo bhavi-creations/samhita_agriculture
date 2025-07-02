@@ -25,7 +25,8 @@
 
 
             <div class="col-md-6   col-12 bio_section wow fadeInUp">
-                <img src="assets/images/logo/pu.png" alt="" class="img-fluid hover-pop ">
+                <img src="assets/images/bottles/5.png" alt="" class="img-fluid hover-pop " style="height: 300px ;">
+                <!-- <img src="assets/images/logo/pu.png" alt="" class="img-fluid hover-pop "> -->
             </div>
             <div class="col-md-6 col-12  bio_paragraph">
 
@@ -54,7 +55,8 @@
             </div>
 
             <div class="col-md-6   col-12 bio_section">
-                <img src="assets/images/logo/phosphorus.png" alt="" class="img-fluid hover-pop ">
+                <img src="assets/images/bottles/6.png" alt="" class="img-fluid hover-pop " style="height: 300px;">
+                <!-- <img src="assets/images/logo/phosphorus.png" alt="" class="img-fluid hover-pop "> -->
             </div>
 
         </div>
@@ -69,7 +71,8 @@
         <div class="row biofertilizer_section">
 
             <div class="col-md-6   col-12 bio_section">
-                <img src="assets/images/logo/potassium.png" alt="" class="img-fluid hover-pop ">
+                <img src="assets/images/bottles/7.png" alt="" class="img-fluid hover-pop " style="height: 300px;">
+                <!-- <img src="assets/images/logo/potassium.png" alt="" class="img-fluid hover-pop "> -->
             </div>
             <div class="col-md-6   col-12 bio_paragraph">
 

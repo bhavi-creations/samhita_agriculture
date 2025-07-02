@@ -194,7 +194,7 @@
                             <!-- <li><a href="consumer.php">For Plants</a></li> -->
                             <!-- <li><a href="consumer.php"> Residence</a></li> -->
                             <!-- <li><a href="assets/images/catlog/samhita_pamphlet.pdf" target="_blank" download> Catalog</a></li> -->
-                            <li><a href="assets/images/catlog/samhitha catalogue.pdf" target="_blank" download>Catalogue </a></li>
+                            <li><a href="assets/images/catlog/samhita CATALOGUE 1 (1).pdf" target="_blank" download>Catalogue </a></li>
                             <li><a href="https://samhita.bhavicreations.com/">Login</a></li>
 
                             <!-- <form class="d-flex ms-3" role="search" onsubmit="return false;">
@@ -326,7 +326,7 @@
 
                         <!-- <li><a href="consumer.php">Residence</a></li> -->
                         <!-- <li><a href="consumer.php">For Plants</a></li> -->
-                        <li><a href="assets/images/catlog/samhitha catalogue.pdf" target="_blank" download>Catalogue </a></li>
+                        <li><a href="assets/images/catlog/samhita CATALOGUE 1 (1).pdf" target="_blank" download>Catalogue </a></li>
                         
                         <li><a href="https://samhita.bhavicreations.com/">Login</a></li>
 

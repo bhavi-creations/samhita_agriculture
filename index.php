@@ -918,7 +918,8 @@
 
                 <div class="col-md-12 col-lg-4 d-flex pb-4 index_Biopesticides_section">
                     <!-- <img src=" ./assets/images/logo/pesticides.png" alt="" class="img-fluid"> -->
-                    <img src="./assets/images/logo/ferlizers.jpg" alt="" class="img-fluid">
+                    <img src="assets/images/bottles/9.png" alt="" class="img-fluid">
+                    <!-- <img src="./assets/images/logo/ferlizers.jpg" alt="" class="img-fluid"> -->
                 </div>
 
 
@@ -984,7 +985,8 @@
 
                 <div class="col-md-12 col-lg-4 d-flex pb-4 index_Biopesticides_section ">
                     <!-- <img src=" ./assets/images/logo/pesticides.png" alt="" class="img-fluid"> -->
-                    <img src="./assets/images/logo/ferlizers.jpg" alt="" class="img-fluid">
+                    <!-- <img src="./assets/images/logo/ferlizers.jpg" alt="" class="img-fluid"> -->
+                     <img src="assets/images/bottles/9.png" alt="">
                 </div>
 
 
@@ -1096,7 +1098,8 @@
                 <div class="col-md-12 col-lg-4 d-flex pb-4 index_Biopesticides_section">
 
 
-                    <img src=" ./assets/images/logo/pesticides.png" alt="" class="img-fluid">
+                    <img src=" ./assets/images/bottles/8.png" alt="" class="img-fluid">
+                    <!-- <img src=" ./assets/images/logo/pesticides.png" alt="" class="img-fluid"> -->
 
                 </div>
 

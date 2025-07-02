@@ -28,7 +28,8 @@
 
 
             <div class="col-md-6   col-12 bio_section">
-                <img src="assets/images/logo/5.png" alt="" class="img-fluid hover-pop ">
+                <img src="assets/images/bottles/9.png" alt="" class="img-fluid hover-pop " style="width: 300px;">
+                <!-- <img src="assets/images/logo/5.png" alt="" class="img-fluid hover-pop "> -->
             </div>
             <div class="col-md-6 col-12  bio_paragraph">
 
@@ -50,7 +51,8 @@
                 </p>
             </div>
             <div class="col-md-6   col-12 bio_section">
-                <img src="assets/images/logo/pseudomonas_1.png" alt="" class="img-fluid hover-pop ">
+                <img src="assets/images/bottles/1.png" alt="" class="img-fluid hover-pop " style="width: 300px;">
+                <!-- <img src="assets/images/logo/pseudomonas_1.png" alt="" class="img-fluid hover-pop "> -->
             </div>
 
         </div>
@@ -58,7 +60,8 @@
 
         <div class="row biofertilizer_section">
             <div class="col-md-6   col-12 bio_section">
-                <img src="assets/images/logo/bacillus .png" alt="" class="img-fluid hover-pop ">
+                <img src="assets/images/bottles/2.png" alt="" class="img-fluid hover-pop " style="width: 300px;">
+                <!-- <img src="assets/images/logo/bacillus .png" alt="" class="img-fluid hover-pop "> -->
             </div>
             <div class="col-md-6   col-12 bio_paragraph">
 
@@ -79,14 +82,16 @@
                 </p>
             </div>
             <div class="col-md-6   col-12 bio_section">
-                <img src="assets/images/logo/trichoderma .png" alt="" class="img-fluid hover-pop ">
+                <img src="assets/images/bottles/3.png" alt="" class="img-fluid hover-pop " style="width: 300px;">
+                <!-- <img src="assets/images/logo/trichoderma .png" alt="" class="img-fluid hover-pop "> -->
             </div>
 
         </div>
 
         <div class="row biofertilizer_section">
             <div class="col-md-6   col-12 bio_section">
-                <img src="assets/images/logo/trichoderma_1.png" alt="" class="img-fluid hover-pop ">
+                <img src="assets/images/bottles/4.png" alt="" class="img-fluid hover-pop " style="width: 300px;">
+                <!-- <img src="assets/images/logo/trichoderma_1.png" alt="" class="img-fluid hover-pop "> -->
             </div>
             <div class="col-md-6   col-12 bio_paragraph">
 
