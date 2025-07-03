@@ -427,9 +427,9 @@
                         🌿 Soil is the Heart of <span class="organic_index">Bio-Organic Farming</span>
                     </h3>
                     <p class="">We enrich it through Biological Bio-organic methods to boost fertility and biodiversity.
-                        Healthy soil leads to thriving crops, balanced ecosystems, and chemical-free food production</p>
+                        Healthy soil leads to thriving crops, balanced ecosystems, and chemical-free food production.</p>
                     <p>
-                    In bio-organic agriculture, healthy soil serves as the foundation for sustainable growth, playing a vital role in enhancing the effectiveness of bio-fertilizers and bio-pesticides. Rich in organic matter and microbial life, well-managed soil supports the proliferation of beneficial organisms that fix nitrogen, solubilize phosphorus, and protect plant roots from pathogens. Bio-fertilizers improve soil fertility Bio-organically, while bio-pesticides create a biological shield against pests without leaving harmful residues. Together, these inputs not only improve crop yield and quality but also restore soil vitality, making it more resilient, balanced, and productive for long-term ecological farming
+                    In bio-organic agriculture, healthy soil serves as the foundation for sustainable growth, playing a vital role in enhancing the effectiveness of bio-fertilizers and bio-pesticides. Rich in organic matter and microbial life, well-managed soil supports the proliferation of beneficial organisms that fix nitrogen, solubilize phosphorus, and protect plant roots from pathogens. Bio-fertilizers improve soil fertility Bio-organically, while bio-pesticides create a biological shield against pests without leaving harmful residues. Together, these inputs not only improve crop yield and quality but also restore soil vitality, making it more resilient, balanced, and productive for long-term ecological farming.
                         </p>
 
 
@@ -736,7 +736,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Empowering farmers with soil-enriching, chemical-free practices that Bio-Organically boost yields and deliver safe, nutritious food to every community</p>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Empowering farmers with soil-enriching, chemical-free practices that Bio-Organically boost yields and deliver safe, nutritious food to every community.</p>
                     </div>
                 </div>
             </div>
@@ -749,7 +749,7 @@
                             <span>01</span>
                         </div>
                         <h3><a href="service.php">Organic Bio Farming</a></h3>
-                        <p>BIopesticides,Biofertilizer instead of chemicals uses vermi compost, Farm Yard Manure (FYM)</p>
+                        <p>BIopesticides,Biofertilizer instead of chemicals uses vermi compost, Farm Yard Manure (FYM).</p>
 
                         <!-- <p>Focuses on using natural compost, vermicompost, green manure, and bio-pesticides instead
                             of chemicals</p> -->
@@ -768,7 +768,7 @@
                         </div>
                         <h3><a href="service.php">Eco-Friendly Farming</a></h3>
                         <p>Bio-Organic farming minimizes pollution and supports a healthier planet by avoiding synthetic inputs. It nurtures
-                            the soil and crops with sustainable practices</p>
+                            the soil and crops with sustainable practices.</p>
                         <a class="work__item-arrow" href="service.php"><i class="fa-solid fa-arrow-right"></i></a>
                         <div class="work__item-leaf">
                             <img src="assets/images/shape/work-leaf.png" alt="">
@@ -783,7 +783,7 @@
                             <span>03</span>
                         </div>
                         <h3><a href="service.php">Healthy Soil, Healthy Food</a></h3>
-                        <p>Bio farming along with compost and crop rotation enrich the soil, leading to more nutritious and chemical-free food for everyone</p>
+                        <p>Bio farming along with compost and crop rotation enrich the soil, leading to more nutritious and chemical-free food for everyone.</p>
                         <a class="work__item-arrow" href="service.php"><i class="fa-solid fa-arrow-right"></i></a>
                         <div class="work__item-leaf">
                             <img src="assets/images/shape/work-leaf.png" alt="">
@@ -798,7 +798,7 @@
                             <span>04</span>
                         </div>
                         <h3><a href="service.php">Protects Biodiversity </a></h3>
-                        <p> Beneficial for a balanced ecosystem by support's pollinators ,earthworms, and other beneficial organisms</p>
+                        <p> Beneficial for a balanced ecosystem by support's pollinators ,earthworms, and other beneficial organisms.</p>
                         <a class="work__item-arrow" href="service.php"><i class="fa-solid fa-arrow-right"></i></a>
                         <div class="work__item-leaf">
                             <img src="assets/images/shape/work-leaf.png" alt="">
@@ -830,7 +830,7 @@
                         <div class="text text-md-right pl-4 pl-md-0 pr-md-4">
                             <h3>Safe for Humans and Animals</h3>
                             <p>Biopesticides are non-toxic, reducing health risks compared to
-                                chemical pesticides</p>
+                                chemical pesticides.</p>
                         </div>
                     </div>
                     <div class="services-2 ftco-animate d-flex w-100">
@@ -842,7 +842,7 @@
 
 
                             <p>They attack only harmful insects or pathogens, preserving beneficial micro
-                                organisms like bees and earthwormsl</p>
+                                organisms like bees and earthwormsl.</p>
                         </div>
                     </div>
                     <!-- <div class="services-2 ftco-animate d-flex w-100">
@@ -945,7 +945,7 @@
                         <div class="text text-md-right pl-4 pl-md-0 pr-md-4">
                             <h3>Safe for Humans and Animals</h3>
                             <p>Biopesticides are non-toxic, reducing health risks compared to
-                                chemical pesticides</p>
+                                chemical pesticides.</p>
                         </div>
                     </div>
                     <div class="services-2 ftco-animate d-flex w-100">
@@ -957,7 +957,7 @@
 
 
                             <p>They attack only harmful insects or pathogens, preserving beneficial micro
-                                organisms like bees and earthwormsl</p>
+                                organisms like bees and earthwormsl.</p>
                         </div>
                     </div>
                     <!-- <div class="services-2 ftco-animate d-flex w-100">
@@ -1021,7 +1021,7 @@
 
 
 
-                            <p> Unlike chemical pesticides, biopesticides , do not induce the risk of pests developing resistance, soil health and crop integrity
+                            <p> Unlike chemical pesticides, biopesticides , do not induce the risk of pests developing resistance, soil health and crop integrity.
                             </p>
                         </div>
                     </div>
@@ -1037,7 +1037,7 @@
 
                             <h3> Support Bio-Organic Farming Practices</h3>
                             <p>Biopesticides are a key tool in Bio-organic agriculture, maintaining pest
-                                control without compromising soil and crop integrity
+                                control without compromising soil and crop integrity.
                             </p>
                         </div>
                     </div>
@@ -1077,7 +1077,7 @@
                         </div>
                         <div class="text text-md-right pl-4 pl-md-0 pr-md-4">
                             <h3>Bio-Organically Enhance Soil Fertility Naturally</h3>
-                            <p>Biofertilizers enrich the soil with beneficial microbes that fix nitrogen, solubilize phosphorus, and mobilize potassium improve nutrient availability</p>
+                            <p>Biofertilizers enrich the soil with beneficial microbes that fix nitrogen, solubilize phosphorus, and mobilize potassium improve nutrient availability.</p>
                         </div>
                     </div>
                     <div class="services-2 ftco-animate d-flex w-100">
@@ -1089,7 +1089,7 @@
 
 
                             <p>They promote lone-term soil health Safe Guarding The environment , reduce dependency on chemical fertilizers and promote long-term
-                                soil health without harming the environment</p>
+                                soil health without harming the environment.</p>
                         </div>
                     </div>
 
@@ -1120,7 +1120,7 @@
 
 
                             <p> Crops grown with biofertilizers show better growth, higher resistance
-                                to stress, and improved nutrient content
+                                to stress, and improved nutrient content.
                             </p>
                         </div>
                     </div>
@@ -1137,7 +1137,7 @@
 
                             <h3> Natural Boosters for Soil and Plant Health</h3>
                             <p> Bio-pesticides and Bio-fertilizers are Bio-Organic microbes that boost soil fertility by fixing nitrogen and enhancing plant growth.
-                                They reduce the need for chemicals, improve soil health, and support sustainable farming
+                                They reduce the need for chemicals, improve soil health, and support sustainable farming.
                             </p>
                         </div>
                     </div>
@@ -1624,7 +1624,7 @@
                             <h5 class="wow fadeInUp" data-wow-duration="1.2s" data-wow-delay=".2s"><img
                                     src="assets/images/icon/leaf.svg" alt="image"> OUR case study</h5>
                             <h2 class="wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">Bio-Organic Farming: A Path to Sustainable Growth</h2>
-                            <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Bio-Organic farming empowers communities by using eco-friendly methods, Bio products , and local wisdom. It restores soil health, increases crop productivity, and supports long-term food security while building climate resilience and uplifting rural livelihoods</p>
+                            <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Bio-Organic farming empowers communities by using eco-friendly methods, Bio products , and local wisdom. It restores soil health, increases crop productivity, and supports long-term food security while building climate resilience and uplifting rural livelihoods .</p>
                         </div>
                         <div class="arry-btn mb-4 d-block d-lg-none">
                             <button class="arry-prev project-arry-prev"><i
@@ -1647,7 +1647,7 @@
                                                 <h3>Regenerative Farming</h3>
 
                                                 <p>
-                                                    Restore Rejuvenate the degraded soil leading to soil Regeneration
+                                                    Restore Rejuvenate the degraded soil leading to soil Regeneration .
                                                 </p>
                                                 <!-- <p>Regenerative farming rebuilds organic matter and restores
                                                     degraded soil. 
@@ -1667,7 +1667,7 @@
 
 
                                                     Empowering farmers with knowledge, natural techniques, and market
-                                                    access ensures self-reliance,
+                                                    access ensures self-reliance .
                                                 </p>
                                             </div>
                                         </div>
@@ -1708,7 +1708,7 @@
                                         <div class="swiper-slide">
                                             <div class="project__item">
                                                 <h3>Organic Paddy for Safer Harvests</h3>
-                                                <p>Paddy grown with Bio-organic inputs ensures toxin-free, nutrient-rich grains that are safe for both people and the planet. Using compost green manure, and bio-fertilizers promotes healthy root systems, improves soil fertility
+                                                <p>Paddy grown with Bio-organic inputs ensures toxin-free, nutrient-rich grains that are safe for both people and the planet. Using compost green manure, and bio-fertilizers promotes healthy root systems, improves soil fertility .
 
 
                                                 </p>
@@ -1994,7 +1994,7 @@
                             </div>
                             <div class="testimonial__item-content">
                                 <p>
-                                    "క్రిమి నివారణకు బయో పెస్టిసైడ్ వాడితే ఎలాంటి దుష్ఫలితాలు లేకుండా పంట మంచి ఉత్పత్తి ఇచ్చింది. నా కుటుంబానికి భద్రమైన ఆహారం అందుతోంది"
+                                    "క్రిమి నివారణకు బయో పెస్టిసైడ్ వాడితే ఎలాంటి దుష్ఫలితాలు లేకుండా పంట మంచి ఉత్పత్తి ఇచ్చింది. నా కుటుంబానికి భద్రమైన ఆహారం అందుతోంది."
                                 </p>
                             </div>
                         </div>
@@ -2014,7 +2014,7 @@
                                 <i class="fa-solid fa-quote-right"></i>
                             </div>
                             <div class="testimonial__item-content">
-                                <p>రసాయనాల అవసరం లేకుండా ఈ బయో ఉత్పత్తులతో నాణ్యమైన పంటలు పండుతున్నాయి. మన ఆరోగ్యానికి కూడా మంచివే
+                                <p>రసాయనాల అవసరం లేకుండా ఈ బయో ఉత్పత్తులతో నాణ్యమైన పంటలు పండుతున్నాయి. మన ఆరోగ్యానికి కూడా మంచివే.
                                 </p>
                             </div>
                         </div>
@@ -2137,7 +2137,7 @@
                                             <div class="blog__item-left-content">
                                                 <span class="blog__tag">Environment</span>
                                                 <h3>Farmers’ body urges AP govt to embrace Bio-organic inputs</h3>
-                                                <p>The Federation of All India Farmer Associations (FAIFA) has emphasized the need for climate-resilient farming in Andhra Pradesh. They advocate targeted subsidies for Bio-organic inputs, micro‑irrigation, and renewable energy to support small farmers facing climate threats
+                                                <p>The Federation of All India Farmer Associations (FAIFA) has emphasized the need for climate-resilient farming in Andhra Pradesh. They advocate targeted subsidies for Bio-organic inputs, micro‑irrigation, and renewable energy to support small farmers facing climate threats .
 
                                                 </p>
                                                 <!-- <span class="blog__item-left-content-info">By <strong>Max
@@ -2186,7 +2186,7 @@
                                                 <p>Targeting 50 lakh farmers under the Viksit Krishi Sankalp
                                                     Abhiyan.
                                                     Initiative includes KVK upgrades and drone-based crop tech
-                                                    training</p>
+                                                    training .</p>
                                                 <!-- <span class="blog__item-left-content-info">By <strong>Max
                                                             Trewhitt</strong> 2
                                                         weeks ago</span> -->
@@ -2212,7 +2212,7 @@
                             <img src="assets/images/logo/latest_img.png" alt="image">
                         </div>
                         <h3 class="p-2">Bio-Organic agriculture promotes healthy soil, chemical-free
-                            crops, and sustainable living</a>
+                            crops, and sustainable living. </a>
                         </h3>
                         <!-- <div class="d-flex align-items-center justify-content-between">
                                 <span class="blog__tag">Environment</span>

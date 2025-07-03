@@ -3,7 +3,8 @@
 
 
 <section class="first_section_images">
-    <img src="assets/images/logo/about_main_images_11.png" alt="" class="img-fluid">
+    <img src="assets/images/bottles/about_main_img.png" alt="" class="img-fluid">
+    <!-- <img src="assets/images/logo/about_main_images_11.png" alt="" class="img-fluid"> -->
 </section>
 
 
@@ -150,10 +151,10 @@
                                 Agricultural Officer , for the Dept of Ag. Andhra Pradesh from 2006 to 2012 in
                                 Biological control laboratory, kakinada and as Mandal Agricultural officer, kajuluru
                                 and then set up this industry, out of passion and having
-                                experience in govt. Lab
+                                experience in govt Lab .
                             </p>
 
-                            <p> In <strong> ICAR-IIHR </strong> an incubatee in and from ICAR-IIHR</p>
+                            <p> In <strong> ICAR-IIHR </strong> an incubatee in and from ICAR-IIHR .</p>
 
 
 
@@ -201,7 +202,7 @@
                             <h3>Message from the Founder</h3>
                             <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s">
 
-                                "I am committed to empowering farmers with innovative, eco-friendly solutions that enhance crop yields, improve soil health, and promote sustainable agriculture. At Samhita Soil Solutions, we strive to make a positive impact on the agricultural community and the environment." - Balusu Parvathi Rajyam
+                                "I am committed to empowering farmers with innovative, eco-friendly solutions that enhance crop yields, improve soil health, and promote sustainable agriculture. At Samhita Soil Solutions, we strive to make a positive impact on the agricultural community and the environment." - Balusu Parvathi Rajyam 
                             </p>
                         </div>
 
@@ -347,7 +348,7 @@
                         <!-- <h5 class="pb-30 wow fadeInUp" data-wow-duration="1.4s" data-wow-delay=".4s">
                                 Elit
                                 ullamcorper dignissim cras tincidunt lobortis feugiat vibe</h5> -->
-                        <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s">As the only company in Andhra Pradesh with Government of India certification, we offer a unique blend of biopesticides, biofertilizers, and micronutrients that are not only effective but also environmentally friendly. Our products are designed to promote sustainable agriculture practices, improve crop yields, and enhance soil health</p>
+                        <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s">As the only company in Andhra Pradesh with Government of India certification, we offer a unique blend of biopesticides, biofertilizers, and micronutrients that are not only effective but also environmentally friendly. Our products are designed to promote sustainable agriculture practices, improve crop yields, and enhance soil health .</p>
 
                         <h3 class="wow fadeInUp">
                             Biopesticides
@@ -540,9 +541,9 @@
 
 
                         </h2>
-                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> N (Nitrogen):* </strong> Nitrogen is <strong> "basically for vegetation" </strong>is on. Nitrogen is a primary component of chlorophyll, the molecule responsible for photosynthesis, and a crucial building block for amino acids, proteins, and nucleic acids. This directly translates to robust *vegetative growth*, leading to lush foliage, stems, and overall plant size</p>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> N (Nitrogen):* </strong> Nitrogen is <strong> "basically for vegetation" </strong>is on. Nitrogen is a primary component of chlorophyll, the molecule responsible for photosynthesis, and a crucial building block for amino acids, proteins, and nucleic acids. This directly translates to robust *vegetative growth*, leading to lush foliage, stems, and overall plant size.</p>
                         <!-- <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong>P (Phosphorus) & Zn (Zinc):* </strong> You've linked these to "root and shoot strength & resistance." This is largely accurate</p> -->
-                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> Phosphorus :* </strong>is vital for energy transfer within the plant (ATP), which is essential for cell division and the <strong> development of strong root systems </strong>. A well-developed root system is fundamental for nutrient and water uptake, contributing to overall plant vigor and stability, which can be interpreted as "strength." It also plays a role in early plant growth and maturity</p>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> Phosphorus :* </strong>is vital for energy transfer within the plant (ATP), which is essential for cell division and the <strong> development of strong root systems </strong>. A well-developed root system is fundamental for nutrient and water uptake, contributing to overall plant vigor and stability, which can be interpreted as "strength." It also plays a role in early plant growth and maturity.</p>
                         <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> *Zinc :* </strong> is a micronutrient that acts as a cofactor for many enzymes involved in <strong>plant metabolism </strong>. It's crucial for auxin synthesis (a growth hormone) and <strong> protein synthesis </strong>. Zinc deficiency can lead to stunted growth and poor development.  </p>
                         <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> K (Potassium):*  </strong>   majorly contributes to overall  <strong>immunity and plant reproduction </strong> . It significantly enhances the plant's ability to cope with environmental stresses (drought, cold, heat) and increases its *resistance to pests and diseases*, thereby boosting its <strong>immunity</strong> .  <br>     Potassium plays a critical role in flowering, fruit development, and seed formation. Adequate potassium ensures proper filling of grains and fruits, leading to better yield quality and quantity, which directly supports better <strong>reproduction</strong> . </p>
                     </div>

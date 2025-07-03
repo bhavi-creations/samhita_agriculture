@@ -45,7 +45,7 @@
                                 class="footer__item-title-line2"></span>
                         </div>
                         <p>Bio-Organic farming uses Bio-organic methods to enrich soil and grow healthy crops.
-                            It reduces chemical use, protects biodiversity, and supports long-term sustainability
+                            It reduces chemical use, protects biodiversity, and supports long-term sustainability.
                         </p>
                         <!-- <a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29581.552527417!2d-77.04440883230183!3d38.80089850193032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b0f02c6539a9%3A0xacc6091466dd9068!2s901%20N%20Pitt%20St%20Suite%20170%2C%20Alexandria%2C%20VA%2022314%2C%20USA!5e0!3m2!1sen!2sbd!4v1694324425557!5m2!1sen!2sbd"
                                 class="footer__item-map-popup map-popup">View Map <i

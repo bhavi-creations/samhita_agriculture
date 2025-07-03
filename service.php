@@ -15,7 +15,8 @@
 
 
     <section class="first_section_images">
-    <img src="assets/images/logo/about_main_images_11.png" alt="" class="img-fluid">
+    <!-- <img src="assets/images/logo/about_main_images_11.png" alt="" class="img-fluid"> -->
+    <img src="assets/images/bottles/about_main_img.png" alt="" class="img-fluid">
 </section>
     <!-- Page banner area end here -->
 
