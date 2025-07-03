@@ -8,6 +8,7 @@
 
 
             <div class="col-md-4 col-12  ">
+            
                 <img src="assets/images/bottles/gallery_img5.png" alt="" class="Gallery_section img-fluid">
             </div>
 
@@ -22,7 +23,8 @@
 
 
             <div class="col-md-4 col-12  ">
-                <img src="assets/images/bottles/M.jpg" alt="" class="Gallery_section img-fluid">
+                <!-- <img src="assets/images/bottles/M.jpg" alt="" class="Gallery_section img-fluid"> -->
+                <img src="assets/images/bottles/lab_technicion.png" alt="" class="Gallery_section img-fluid">
             </div>
 
             <div class="col-md-4 col-12  ">
