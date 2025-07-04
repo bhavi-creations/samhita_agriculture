@@ -894,7 +894,7 @@
 
 
 
-                            <p> Unlike chemical pesticides, biopesticides , do not induce the risk of pests developing resistance, soil health and crop integrity
+                            <p> Unlike chemical Pesticides, Biopesticides , Do not induce the risk of pests developing resistance, soil health and crop integrity
                             </p>
                         </div>
                     </div>
@@ -909,7 +909,7 @@
 
 
                             <h3> Support Bio-Organic Farming Practices</h3>
-                            <p>Biopesticides are a key tool in Bio-organic agriculture, maintaining pest
+                            <p>Biopesticides are a key tool in Bio-organic agriculture, Maintaining pest
                                 control without compromising soil and crop integrity
                             </p>
                         </div>

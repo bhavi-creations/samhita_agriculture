@@ -40,8 +40,12 @@
             <div class="col-md-4 col-12  ">
                 <img src="assets/images/bottles/gallery_img10.png" alt="" class="Gallery_section img-fluid">
             </div>
-            <div class="col-md-4 col-12  ">
+            <!-- <div class="col-md-4 col-12  ">
                 <img src="assets/images/logo/g3.png" alt="" class="Gallery_section img-fluid">
+            </div> -->
+
+            <div class="col-md-4 col-12  ">
+                <img src="assets/images/logo/g8.png" alt="" class="Gallery_section img-fluid">
             </div>
             <div class="col-md-4 col-12  ">
                 <img src="assets/images/logo/g4.png" alt="" class="Gallery_section img-fluid">
