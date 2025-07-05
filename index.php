@@ -372,7 +372,7 @@
             <div class="col-md-7 highlight-text py-5">
                 <!-- <h2>Dr. Anil Kumar Gupta</h2> -->
                 <p>
-                    <strong>Mentor, Guide and Business Strategy support of Samhita soil solutions </strong> — [IIM] Ahmedabad Professor & Padma Shri awardee, <strong>Dr. Anil Kumar Gupta</strong>.
+                    <strong>Mentor, Guide and Business Strategy support of Samhita soil solutions </strong> — [IIM] Ahmedabad Professor, (IIT) Bombay faculty & Padma Shri awardee, <strong>Dr. Anil Kumar Gupta</strong>.
 
                 </p>
                 <h5>✅ Padma Shri Awardee (2004)</h5>
@@ -381,18 +381,18 @@
 
 
                 <p>
-                ✅  Founder,Honey Bee Network,SRISTI,GIAN & NIF
+                ✅  Founder,Honey Bee Network , SRISTI , GIAN & NIF.
                 </p>
                 <P>
-                ✅  Visiting Faculty , IIMA & IITB , Academy Professor AcSIR 
+                ✅  Visiting Faculty , IIMA & IITB , Academy Professor AcSIR.
                 </P>
                 <p>
-                ✅  CSIR Bhatnagar Fellow 2018-21
+                ✅  CSIR Bhatnagar Fellow 2018-21.
                 </p>
 
-                <p>✅Developer of the <strong>'Shodh Yatra'</strong> course</p>
-                <p>✅Board Member of <strong>National Innovation Foundation </strong> </p>
-                <p> ✅Fellow of the <strong> World Academy of Art and Science </strong> </p>
+                <p>✅Developer of the <strong>'Shodh Yatra' </strong>  course.</p>
+                <p>✅Board Member of <strong>National Innovation Foundation </strong> .</p>
+                <p> ✅Fellow of the <strong> World Academy of Art and Science </strong>. </p>
 
                 <p>
 
@@ -410,10 +410,10 @@
                      
                      
                 </p>
-                <p>  &nbsp; &nbsp; &nbsp;   1.Grassroots Innovation </p>
-                <p> &nbsp; &nbsp; &nbsp;  2. The Honey Bee Network </p>
-                <p> &nbsp; &nbsp; &nbsp; 3. Inclusive Innovation </p>
-                <p> &nbsp; &nbsp; &nbsp; 4. Sustainability Through Innovation</p>
+                <p>  &nbsp; &nbsp; &nbsp;   1.Grassroots Innovation. </p>
+                <p> &nbsp; &nbsp; &nbsp;  2. The Honey Bee Network. </p>
+                <p> &nbsp; &nbsp; &nbsp; 3. Inclusive Innovation. </p>
+                <p> &nbsp; &nbsp; &nbsp; 4. Sustainability Through Innovation.</p>
             </div>
         </div>
     </div>
