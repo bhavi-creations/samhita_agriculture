@@ -369,7 +369,7 @@
                 <img src="assets/images/bottles/anil_gupta.png" alt="Dr. Anil Kumar Gupta" class="highlight-img" data-bs-toggle="modal" data-bs-target="#imagePopup">
             </div>
 
-            <div class="col-md-7 highlight-text">
+            <div class="col-md-7 highlight-text py-5">
                 <!-- <h2>Dr. Anil Kumar Gupta</h2> -->
                 <p>
                     <strong>Mentor, Guide and Business Strategy support of Samhita soil solutions </strong> — [IIM] Ahmedabad Professor & Padma Shri awardee, <strong>Dr. Anil Kumar Gupta</strong>.
@@ -405,11 +405,15 @@
                     ✅ <strong>Books by the Scholar</strong>
                     <br>
 
-                    &nbsp; &nbsp; &nbsp; 1.Grassroots Innovation <br>
-                    &nbsp; &nbsp; &nbsp; 2. The Honey Bee Network <br>
-                    &nbsp; &nbsp; &nbsp; 3. Inclusive Innovation <br>
-                    &nbsp; &nbsp; &nbsp; 4. Sustainability Through Innovation
+                 
+                   
+                     
+                     
                 </p>
+                <p>  &nbsp; &nbsp; &nbsp;   1.Grassroots Innovation </p>
+                <p> &nbsp; &nbsp; &nbsp;  2. The Honey Bee Network </p>
+                <p> &nbsp; &nbsp; &nbsp; 3. Inclusive Innovation </p>
+                <p> &nbsp; &nbsp; &nbsp; 4. Sustainability Through Innovation</p>
             </div>
         </div>
     </div>
