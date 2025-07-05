@@ -336,6 +336,121 @@
 
 
 
+    <!-- <section class="highlight-section">
+        <p>
+            My mentor, my guide, and the Business strategic Supporter Samhita Soil Solutions — [IINA] Professor & Padma Shri awardee, Dr. Anil Kumar Gupta
+        </p>
+
+        <img src="assets/images/bottles/anil_gupta.png" alt="Dr. Anil Kumar Gupta" data-bs-toggle="modal" data-bs-target="#imageModal">
+        <h2 class="mt-3 anil_intro_section">Dr. Anil Kumar Gupta</h2>
+        <h6 class="anil_intro_section"> Padma Shri awardee</h6>
+    </section> -->
+
+
+    <div class="modal fade" id="imageModal" tabindex="-1" aria-labelledby="imageModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content bg-transparent border-0">
+                <div class="modal-body p-0">
+                    <button type="button" class="btn-close btn-close-white position-absolute top-0 end-0 m-2" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <img src="assets/images/bottles/anil_gupta.png" alt="Dr. Anil Kumar Gupta Large" class="img-fluid rounded shadow-lg">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <div class="container highlight-box py-5">
+        <div class="row align-items-center">
+
+            <div class="col-md-5 text-center">
+                <img src="assets/images/bottles/anil_gupta.png" alt="Dr. Anil Kumar Gupta" class="highlight-img" data-bs-toggle="modal" data-bs-target="#imagePopup">
+            </div>
+
+            <div class="col-md-7 highlight-text">
+                <!-- <h2>Dr. Anil Kumar Gupta</h2> -->
+                <p>
+                    <strong>Mentor, Guide and Business Strategy support of Samhita soil solutions </strong> — [IIM] Ahmedabad Professor & Padma Shri awardee, <strong>Dr. Anil Kumar Gupta</strong>.
+
+                </p>
+                <h5>✅ Padma Shri Awardee (2004)</h5>
+                <!-- <p>Elected as a member to the council of The World Academy of Sciences (TWAS) representing Central and South Asia (2023-2026)</p> -->
+                <!-- <p> ✅He is the <strong>founder</strong> of the <strong> Honey Bee Network</strong> </p> -->
+
+
+                <p>
+                ✅  Founder,Honey Bee Network,SRISTI,GIAN & NIF
+                </p>
+                <P>
+                ✅  Visiting Faculty , IIMA & IITB , Academy Professor AcSIR 
+                </P>
+                <p>
+                ✅  CSIR Bhatnagar Fellow 2018-21
+                </p>
+
+                <p>✅Developer of the <strong>'Shodh Yatra'</strong> course</p>
+                <p>✅Board Member of <strong>National Innovation Foundation </strong> </p>
+                <p> ✅Fellow of the <strong> World Academy of Art and Science </strong> </p>
+
+                <p>
+
+                ✅ <strong> GIAN (Grassroots Innovation Augmentation Network): </strong>
+                    Helps scale up grassroots innovations  <br>
+                    &nbsp; &nbsp; &nbsp;   through product development, intellectual property protection, and entrepreneurship support.
+
+                </p>
+                <p>
+                    ✅ <strong>Books by the Scholar</strong>
+                    <br>
+
+                    &nbsp; &nbsp; &nbsp; 1.Grassroots Innovation <br>
+                    &nbsp; &nbsp; &nbsp; 2. The Honey Bee Network <br>
+                    &nbsp; &nbsp; &nbsp; 3. Inclusive Innovation <br>
+                    &nbsp; &nbsp; &nbsp; 4. Sustainability Through Innovation
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="imagePopup" tabindex="-1" aria-labelledby="imagePopupLabel" aria-hidden="true">
+
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content bg-transparent border-0">
+                <div class="modal-body p-0">
+                    <button type="button" class="btn-close btn-close-white position-absolute top-0 end-0 m-2" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <img src="assets/images/bottles/anil_gupta.png" alt="Dr. Anil Kumar Gupta Large" class="img-fluid rounded shadow-lg">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- <section>
+        <div class="container">
+            <div class="row">
+              
+                <div class="col-md-6 d-flex align-items-center">
+                    <div class="anil-section">
+                        <p>
+                            My mentor, my guide, and the Business Strategic Supporter of Samhita Soil Solutions — [IINA] Professor & Padma Shri awardee, <strong>Dr. Anil Kumar Gupta</strong>.
+                        </p>
+                    </div>
+                </div>
+
+              
+                <div class="col-md-6">
+                    <div class="anil-image-card">
+                        <img src="assets/images/bottles/anil_gupta.png" alt="Dr. Anil Kumar Gupta" data-bs-toggle="modal" data-bs-target="#imageModal">
+                        <h2 class="mt-3 anil_intro_section">Dr. Anil Kumar Gupta</h2>
+                        <h6 class="anil_intro_section">Padma Shri awardee</h6>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
+
 
 
 
@@ -429,8 +544,8 @@
                     <p class="">We enrich it through Biological Bio-organic methods to boost fertility and biodiversity.
                         Healthy soil leads to thriving crops, balanced ecosystems, and chemical-free food production.</p>
                     <p>
-                    In bio-organic agriculture, healthy soil serves as the foundation for sustainable growth, playing a vital role in enhancing the effectiveness of bio-fertilizers and bio-pesticides. Rich in organic matter and microbial life, well-managed soil supports the proliferation of beneficial organisms that fix nitrogen, solubilize phosphorus, and protect plant roots from pathogens. Bio-fertilizers improve soil fertility Bio-organically, while bio-pesticides create a biological shield against pests without leaving harmful residues. Together, these inputs not only improve crop yield and quality but also restore soil vitality, making it more resilient, balanced, and productive for long-term ecological farming.
-                        </p>
+                        In bio-organic agriculture, healthy soil serves as the foundation for sustainable growth, playing a vital role in enhancing the effectiveness of bio-fertilizers and bio-pesticides. Rich in organic matter and microbial life, well-managed soil supports the proliferation of beneficial organisms that fix nitrogen, solubilize phosphorus, and protect plant roots from pathogens. Bio-fertilizers improve soil fertility Bio-organically, while bio-pesticides create a biological shield against pests without leaving harmful residues. Together, these inputs not only improve crop yield and quality but also restore soil vitality, making it more resilient, balanced, and productive for long-term ecological farming.
+                    </p>
 
 
 
@@ -450,7 +565,7 @@
         <!-- <div class="why-choose-one__shape-1 float-bob-y">
             <img src="assets/images/logo/why-choose-one-shape-2.png" alt="" class="img-fluid">
         </div> -->
-    </section> 
+    </section>
 
 
 
@@ -590,7 +705,7 @@
 
 
 
-  <!-- <section class="  px-3 py-5">
+    <!-- <section class="  px-3 py-5">
         <div class="container" data-aos="fade-up">
             <h2 class="text-center text-capitalize mb-5 contact_text" data-aos="fade-down">
                 Comparing Bio-Organic and Chemical Farming
@@ -671,7 +786,7 @@
 
 
 
-<!-- 
+    <!-- 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
         $(document).ready(function() {
@@ -986,7 +1101,7 @@
                 <div class="col-md-12 col-lg-4 d-flex pb-4 index_Biopesticides_section ">
                     <!-- <img src=" ./assets/images/logo/pesticides.png" alt="" class="img-fluid"> -->
                     <!-- <img src="./assets/images/logo/ferlizers.jpg" alt="" class="img-fluid"> -->
-                     <img src="assets/images/bottles/9.png" alt="">
+                    <img src="assets/images/bottles/9.png" alt="">
                 </div>
 
 
