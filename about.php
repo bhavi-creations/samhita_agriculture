@@ -147,11 +147,7 @@
                                 <br>Bsc (Ag) , M.A ( Rural sociology)
 
                             </h2>
-                            <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Worked as
-                                Agricultural Officer , for the Dept of Ag. Andhra Pradesh from 2006 to 2012 in
-                                Biological control laboratory, kakinada and as Mandal Agricultural officer, kajuluru
-                                and then set up this industry, out of passion and having
-                                experience in govt Lab .
+                            <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s">Worked as Agricultural Officer, for the Dept of Ag. Andhra Pradesh from 2006 to 2012 in Biological control laboratory, Kakinada and as Mandal Agricultural Officer, Kajuluru and then set up this industry, founded in August 2014, out of passion and having experience in govt Lab.
                             </p>
 
                             <p> In <strong> ICAR-IIHR </strong> an incubatee in and from ICAR-IIHR .</p>
