@@ -129,7 +129,7 @@
                             </div> -->
                         <div class="info d-none d-sm-block bg-image"
                             data-background="./assets/images/logo/about3.png">
-                            <h2><span class="count">12</span>+</h2>
+                            <h2><span class="count">11</span>+</h2>
                             <span class="year">Years Experience</span>
                         </div>
                         <div class="stroke-text d-none d-sm-block">
