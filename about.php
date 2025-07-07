@@ -2,10 +2,10 @@
 <main>
 
 
-<section class="first_section_images">
-    <img src="assets/images/bottles/about_main_img.png" alt="" class="img-fluid">
-    <!-- <img src="assets/images/logo/about_main_images_11.png" alt="" class="img-fluid"> -->
-</section>
+    <section class="first_section_images">
+        <img src="assets/images/bottles/about_main_img.png" alt="" class="img-fluid">
+        <!-- <img src="assets/images/logo/about_main_images_11.png" alt="" class="img-fluid"> -->
+    </section>
 
 
     <!-- Page banner area start here -->
@@ -132,6 +132,22 @@
                             <h2><span class="count">11</span>+</h2>
                             <span class="year">Years Experience</span>
                         </div>
+
+                        <!-- <div class="info d-block d-sm-none bg-image"
+                            data-background="./assets/images/logo/about3.png">
+                            <h2><span class="count">Since</span></h2>
+                            <h2>since <br>2014</h2>
+                            <span class="year"></span>
+                        </div> -->
+
+
+
+
+                        <div class="info d-block d-sm-none bg-image overlay-bg" data-background="./assets/images/logo/about3.png">
+                            <h2>since <br>2014</h2>
+                            <span class="year"></span>
+                        </div>
+
                         <div class="stroke-text d-none d-sm-block">
                             <h2>since 2014</h2>
                         </div>
@@ -171,26 +187,26 @@
                                     Soil Health Improvement
                                 </li>
                                 <li class="mb-30"><img class="pe-2" src="assets/images/icon/leaf.svg" alt="icon">
-                                    
+
                                     Better Crop Resilience
                                 </li>
                             </ul>
                             <ul class="wow fadeInDown" data-wow-duration="1.4s" data-wow-delay=".4s">
                                 <li class="mb-30"><img class="pe-2" src="assets/images/icon/leaf.svg" alt="icon">
-                                  
+
                                     Chemical-Free Food Production
                                 </li>
                                 <li class="mb-30"><img class="pe-2" src="assets/images/icon/leaf.svg" alt="icon">
-                                    
+
                                     Empowers Rural Communities
                                 </li>
                             </ul>
                             <ul class="wow fadeInDown" data-wow-duration="1.6s" data-wow-delay=".6s">
                                 <li class="mb-30"><img class="pe-2" src="assets/images/icon/leaf.svg" alt="icon">
-                                Environmental Sustainability
+                                    Environmental Sustainability
                                 </li>
                                 <li class="mb-30"><img class="pe-2" src="assets/images/icon/leaf.svg" alt="icon">
-                                Low Cost and Farmer-Friendly
+                                    Low Cost and Farmer-Friendly
                                 </li>
                             </ul>
                         </div>
@@ -198,7 +214,7 @@
                             <h3>Message from the Founder</h3>
                             <p class="wow fadeInDown" data-wow-duration="1.8s" data-wow-delay=".8s">
 
-                                "I am committed to empowering farmers with innovative, eco-friendly solutions that enhance crop yields, improve soil health, and promote sustainable agriculture. At Samhita Soil Solutions, we strive to make a positive impact on the agricultural community and the environment." - Balusu Parvathi Rajyam 
+                                "I am committed to empowering farmers with innovative, eco-friendly solutions that enhance crop yields, improve soil health, and promote sustainable agriculture. At Samhita Soil Solutions, we strive to make a positive impact on the agricultural community and the environment." - Balusu Parvathi Rajyam
                             </p>
                         </div>
 
@@ -540,8 +556,8 @@
                         <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> N (Nitrogen):* </strong> Nitrogen is <strong> "basically for vegetation" </strong>is on. Nitrogen is a primary component of chlorophyll, the molecule responsible for photosynthesis, and a crucial building block for amino acids, proteins, and nucleic acids. This directly translates to robust *vegetative growth*, leading to lush foliage, stems, and overall plant size.</p>
                         <!-- <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong>P (Phosphorus) & Zn (Zinc):* </strong> You've linked these to "root and shoot strength & resistance." This is largely accurate</p> -->
                         <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> Phosphorus :* </strong>is vital for energy transfer within the plant (ATP), which is essential for cell division and the <strong> development of strong root systems </strong>. A well-developed root system is fundamental for nutrient and water uptake, contributing to overall plant vigor and stability, which can be interpreted as "strength." It also plays a role in early plant growth and maturity.</p>
-                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> *Zinc :* </strong> is a micronutrient that acts as a cofactor for many enzymes involved in <strong>plant metabolism </strong>. It's crucial for auxin synthesis (a growth hormone) and <strong> protein synthesis </strong>. Zinc deficiency can lead to stunted growth and poor development.  </p>
-                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> K (Potassium):*  </strong>   majorly contributes to overall  <strong>immunity and plant reproduction </strong> . It significantly enhances the plant's ability to cope with environmental stresses (drought, cold, heat) and increases its *resistance to pests and diseases*, thereby boosting its <strong>immunity</strong> .  <br>     Potassium plays a critical role in flowering, fruit development, and seed formation. Adequate potassium ensures proper filling of grains and fruits, leading to better yield quality and quantity, which directly supports better <strong>reproduction</strong> . </p>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> *Zinc :* </strong> is a micronutrient that acts as a cofactor for many enzymes involved in <strong>plant metabolism </strong>. It's crucial for auxin synthesis (a growth hormone) and <strong> protein synthesis </strong>. Zinc deficiency can lead to stunted growth and poor development. </p>
+                        <p class="wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".6s"> <strong> K (Potassium):* </strong> majorly contributes to overall <strong>immunity and plant reproduction </strong> . It significantly enhances the plant's ability to cope with environmental stresses (drought, cold, heat) and increases its *resistance to pests and diseases*, thereby boosting its <strong>immunity</strong> . <br> Potassium plays a critical role in flowering, fruit development, and seed formation. Adequate potassium ensures proper filling of grains and fruits, leading to better yield quality and quantity, which directly supports better <strong>reproduction</strong> . </p>
                     </div>
                     <!-- <div class="involve-two__item help-area__item">
                         <div class="section-header mb-4">
