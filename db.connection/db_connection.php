@@ -5,11 +5,11 @@ $servername = "localhost";
 if ($_SERVER['SERVER_NAME'] == 'localhost') {
     $username = "root";
     $password = "";
-    $dbname = "bluecrest";
+    $dbname = "";
 } else {
-    $username = "bluecrestschools";
-    $password = "2dExjsHyN7dUYZU";
-    $dbname = "bluecrestschools";
+    $username = "";
+    $password = "";
+    $dbname = "";
    
     
 }

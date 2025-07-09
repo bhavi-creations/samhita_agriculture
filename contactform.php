@@ -27,14 +27,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'manimalladi05@gmail.com'; // Your Gmail email address
-        $mail->Password = 'hnjxoxgrttxomlxm '; // Your Gmail password
+        $mail->Username = 'samhitasoilsolutions@gmail.com'; // Your Gmail email address
+        $mail->Password = 'milhpmiingemmcrl '; // Your Gmail password
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
 
         // Recipients
-        $mail->setFrom('manimalladi05@gmail.com', 'Samhitha Agriculture'); // Your Gmail email and name
-        $mail->addAddress('manimalladi05@gmail.com', 'Samhitha Agriculture'); // Recipient's email and name
+        $mail->setFrom('samhitasoilsolutions@gmail.com', 'Samhitha Soil Solutions'); // Your Gmail email and name
+        $mail->addAddress('samhitasoilsolutions@gmail.com', 'Samhitha Soil Solutions'); // Recipient's email and name
 
         // Content
         $mail->isHTML(true);
