@@ -83,8 +83,10 @@
 
     <!-- Contact map area start here -->
     <div class="google-map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d122093.50758255835!2d82.15076446069143!3d17.00295283911151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a382b003a5efd4b%3A0x564a051e687348d1!2sSamhita%20Soil%20Solutions!5e0!3m2!1sen!2sin!4v1749188245952!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div>
+        <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d122093.50758255835!2d82.15076446069143!3d17.00295283911151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a382b003a5efd4b%3A0x564a051e687348d1!2sSamhita%20Soil%20Solutions!5e0!3m2!1sen!2sin!4v1749188245952!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3814.200075292364!2d82.25736630000002!3d17.062863399999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a382bdf9bc49555%3A0xfc3beb21e8acb4c7!2sPandravada%20Sivalayam%20(%20Bala%20Tripura%20Sundari%20Sametha%20Chadra%20Sekhara%20Swamy%20)!5e0!3m2!1sen!2sin!4v1752125423469!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    
+        </div>
     <!-- Contact map area end here -->
 
     <!-- Our info area start here -->
