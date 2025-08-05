@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.2.1
+-- version 5.2.2
 -- https://www.phpmyadmin.net/
 --
--- Host: 127.0.0.1
--- Generation Time: Nov 12, 2024 at 07:38 AM
--- Server version: 10.4.32-MariaDB
--- PHP Version: 8.2.12
+-- Host: localhost
+-- Generation Time: Aug 05, 2025 at 05:53 PM
+-- Server version: 10.6.22-MariaDB-0ubuntu0.22.04.1
+-- PHP Version: 8.1.2-1ubuntu2.22
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `varmagroups`
+-- Database: `bhavicreations`
 --
 
 -- --------------------------------------------------------
@@ -45,6 +45,27 @@ INSERT INTO `image_uploads` (`id`, `title`, `image_path`, `created_at`) VALUES
 -- --------------------------------------------------------
 
 --
+-- Table structure for table `our_works`
+--
+
+CREATE TABLE `our_works` (
+  `id` int(11) NOT NULL,
+  `media_type` varchar(100) NOT NULL,
+  `title` varchar(255) DEFAULT NULL,
+  `file_path` varchar(255) NOT NULL,
+  `media_link` varchar(500) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `our_works`
+--
+
+INSERT INTO `our_works` (`id`, `media_type`, `title`, `file_path`, `media_link`) VALUES
+
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table `users`
 --
 
@@ -62,7 +83,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `first_name`, `last_name`, `email`, `password`, `created_at`) VALUES
-(4, 'ptschool', 'ptschool', 'ptschool@gmail.com', 'c95518993d4bc60589df69c7839b2a84', '2024-06-26 11:55:31');
+(4, 'ptschool', 'ptschool', 'ptschool@gmail.com', 'c95518993d4bc60589df69c7839b2a84', '2024-06-26 11:55:31'),
+(5, 'bhavicreations', 'pvtltd', 'bhavicreationspvtltd@gmail.com', '8e69e16a599903e3566f2a194ee0685e', '2025-07-28 06:30:23');
 
 --
 -- Indexes for dumped tables
@@ -72,6 +94,12 @@ INSERT INTO `users` (`id`, `first_name`, `last_name`, `email`, `password`, `crea
 -- Indexes for table `image_uploads`
 --
 ALTER TABLE `image_uploads`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `our_works`
+--
+ALTER TABLE `our_works`
   ADD PRIMARY KEY (`id`);
 
 --
@@ -92,10 +120,16 @@ ALTER TABLE `image_uploads`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
 
 --
+-- AUTO_INCREMENT for table `our_works`
+--
+ALTER TABLE `our_works`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=256;
+
+--
 -- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
