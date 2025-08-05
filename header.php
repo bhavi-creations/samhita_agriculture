@@ -142,7 +142,7 @@
 
                                     </li>
 
-                                    
+
                                     <li> <a href="consumer.php"> House Hold Gardens</a></li>
 
 
@@ -155,9 +155,6 @@
                                     <!-- <li><a href="biofertilizers.php">Biofertilizers</a></li> -->
                                 </ul>
                             </li>
-
-
-
 
 
 
@@ -188,6 +185,7 @@
                             </ul> -->
 
                             <li><a href="gallery.php">Gallery </a></li>
+                            <li><a href="posts.php">Posts</a></li>
 
                             <li><a href="contact.php">Contact Us</a></li>
                             <!-- <li><a href="contact.php">For Plants</a></li> -->
@@ -291,46 +289,52 @@
 
                         <ul class="menu">
                             <li class="has-submenu">
-                                <a href="service.php" class="toggle-sub">Products</a>
+                                <a href="service.php">Products</a>
                                 <ul class="sub-menu">
 
-                                    <li class="has-submenu" style="width: 200px ;" >
+                                    <li class="has-submenu" style="width: 200px ;">
                                         <a href="#" class="toggle-sub">Crops</a>
                                         <ul class="sub-sub-menu">
                                             <li><a href="biopesticides.php">Biopesticides</a></li>
                                             <li><a href="biofertilizers.php">Biofertilizers</a></li>
                                         </ul>
-                                        <li><a href="consumer.php">House Hold Gardens</a></li>
- 
-                                    </li>
+                                    <li><a href="consumer.php">House Hold Gardens</a></li>
 
-                                    <!-- <li class="has-submenu">
-                                        <a href="consumer.php" class="toggle-sub"> House Hold Gardens</a>
-                                        <ul class="sub-sub-menu">
-                                            <li><a href="consumer.php">Biopesticides</a></li>
-                                            <li><a href="house_consumer.php">Biofertilizers</a></li>
-                                        </ul>
-                                    </li> -->
-
-
-                                </ul>
                             </li>
                         </ul>
+                        </li>
+                    </ul>
+
+
+                    <!-- <ul class="menu">
+                        <li class="has-submenu">
+                            <a href="gallery.php" class="toggle-sub">Gallery</a>
+                            <ul class="sub-menu">
+
+                                <li class="has-submenu" style="width: 200px ;">
+                                   
+                                <li><a href="posts.php">Posts</a></li>
+
+                        </li>
+                    </ul>
+                    </li>
+                    </ul> -->
 
 
 
+                    <li><a href="gallery.php">Gallery</a></li>
+                    <li><a href="contact.php">Contact Us</a></li>
+                    <li><a href="posts.php">Posts</a></li>
 
-                        <li><a href="gallery.php">Gallery</a></li>
-                        <li><a href="contact.php">Contact Us</a></li>
 
 
-                        <!-- <li><a href="consumer.php">Residence</a></li> -->
-                        <!-- <li><a href="consumer.php">For Plants</a></li> -->
-                        <li><a href="assets/images/catlog/samhita catalogue.pdf" target="_blank" download>Catalogue </a></li>
-                        
-                        <li><a href="https://samhita.bhavicreations.com/">Login</a></li>
+                    <!-- <li><a href="consumer.php">Residence</a></li> -->
+                    <!-- <li><a href="consumer.php">For Plants</a></li> -->
+                    <li><a href="assets/images/catlog/samhita catalogue.pdf" target="_blank" download>Catalogue </a></li>
 
-                        <!-- <li>
+                    <li><a href="https://samhita.bhavicreations.com/">Login</a></li>
+
+                    <!-- <li>
                             <a href="assets/images/logo/samhita_logo.png" target="_blank" download class="catalog-gradient-btn">
                                 📄 Catalog
                             </a>
@@ -339,7 +343,11 @@
 
                     <!-- Search Bar -->
 
-
+                    <button
+                        class="btn btn-sm btn-success ms-2 search_section"
+                        type="submit">
+                        <i class="fas fa-search" role="search" onsubmit="return redirectPage();"></i>
+                    </button>
 
 
                     <script>
@@ -357,22 +365,33 @@
                     </script>
 
 
-
-                    <form class="d-flex ms-3" role="search" onsubmit="return redirectPage();">
+                    <!-- <form class="d-flex ms-3 "  role="search" onsubmit="return redirectPage();">
                         <input
                             id="liveSearchInput"
-                            class="form-control form-control-sm"
+                            class="form-control form-control-sm search_section"
                             type="search"
                             placeholder="Search..."
                             aria-label="Search">
                         <button
-                            class="btn btn-sm btn-success ms-2"
+                            class="btn btn-sm btn-success ms-2 search_section"
                             type="submit">
-                            <i class="fas fa-search"></i>
+                            <i class="fas fa-search" role="search" onsubmit="return redirectPage();"></i>
                         </button>
-                    </form>
 
-                    <script>
+
+                    </form> -->
+
+
+
+
+
+
+
+
+
+
+
+                    <!-- <script>
                         function redirectPage() {
                             const input = document.getElementById("liveSearchInput").value.toLowerCase().trim();
 
@@ -399,7 +418,7 @@
 
                             return false; // Prevent form from submitting normally
                         }
-                    </script>
+                    </script> -->
 
 
 
@@ -612,9 +631,3 @@
                 </div>
             </div>
         </header> -->
-
-
-
-
-
-        

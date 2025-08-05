@@ -9232,7 +9232,7 @@ margin-bottom: 2px;
 
 
 .desktop-menu form input[type="search"] {
-  max-width: 70px !important;
+  max-width: 50px !important;
 }
 
 
@@ -9852,4 +9852,11 @@ ul.sub-menu {
 .overlay-bg .year {
   position: relative;
   z-index: 1;
+}
+
+
+@media (max-width: 1270px) {
+  .search_section {
+      display: block !important;
+  }
 }
