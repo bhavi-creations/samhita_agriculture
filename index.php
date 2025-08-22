@@ -367,7 +367,7 @@
                 </div>
                 <div class="col-md-5 col-12 d-flex align-items-center"> <!-- Flex + center -->
                     <p class="mb-0 mt-1">
-                        Our founder, Mrs. Balusu Parvathi Rajyam, met Hon’ble AP Chief Minister Shri N. Chandrababu Naidu Garu at the Tadepalli CM office to present Samhitha Soil Solutions’ eco-friendly bio-pesticides and bio-fertilizers, promoting sustainable agriculture for a greener future.
+                        Our founder, <strong> Mrs. Balusu Parvathi Rajyam </strong>, met Hon’ble AP Chief Minister <strong>  Shri  N. Chandrababu Naidu Garu  </strong>at the Tadepalli CM office to present Samhitha Soil Solutions’ eco-friendly bio-pesticides and bio-fertilizers, promoting sustainable agriculture for a greener future.
                     </p>
                 </div>
             </div>
