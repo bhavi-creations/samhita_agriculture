@@ -1,8 +1,8 @@
 <?php include 'header.php'; ?>
 
-<section class="first_section_images">
+<!-- <section class="first_section_images">
     <img src="assets/images/bottles/about_us.png" alt="" class="img-fluid">
-</section>
+</section> -->
 
 
 

@@ -175,8 +175,8 @@
     </div>
 
 
-  
- 
+
+
     <div id="posters" class="media-tab-content">
         <div class="row">
             <?php
@@ -193,19 +193,19 @@
                     $ext = strtolower(pathinfo($file, PATHINFO_EXTENSION));
                     $path = "admin/public/uploads/staff/" . $file;
 
-                    echo "<div class='col-md-4 mb-4'>
-                        <div class='card border-0 shadow-sm'>
-                            <div class='card-body p-2 text-center'>";
+                    echo "<div class='col-12 col-md-4 mb-4'>
+                    <div class='card border-0 shadow-sm h-100'>
+                        <div class='card-body text-center'>";
 
                     if (!empty($link)) echo "<a href='$link' target='_blank'>";
 
-                    // ✅ Display media with original ratio
+                    // ✅ All posters same size (fixed height, object-fit:cover)
                     if (in_array($ext, ['jpg', 'jpeg', 'png', 'gif', 'webp', 'svg', 'bmp'])) {
-                        echo "<img src='$path' class='img-fluid' style='border-radius: 8px;'>";
+                        echo "<img src='$path' class='img-fluid' 
+                              style='border-radius:8px; width:300px height:300px; object-fit:cover;'>";
                     } elseif (in_array($ext, ['mp4', 'webm', 'mov', 'avi'])) {
-                        echo "<video controls class='w-100' style='border-radius: 8px;'>
+                        echo "<video controls style='width:300px; height:300px; border-radius:8px; object-fit:cover;'>
                             <source src='$path' type='video/$ext'>
-                            Your browser does not support the video tag.
                           </video>";
                     } elseif ($ext === 'pdf') {
                         echo "<p><a href='$path' target='_blank' class='btn btn-outline-info btn-sm'>📄 View PDF</a></p>";
@@ -216,9 +216,9 @@
                     if (!empty($link)) echo "</a>";
 
                     echo "<p class='mt-2 mb-0'><strong>$title</strong></p>
-                            </div>
                         </div>
-                    </div>";
+                    </div>
+                </div>";
                 }
             } else {
                 echo "<div class='col-12'><p class='text-muted text-center'>No Posters uploaded yet.</p></div>";
@@ -229,10 +229,12 @@
         </div>
     </div>
 
+
+
     <div id="testimonials" class="media-tab-content">
         <div class="row">
             <?php
-            include 'db.connection/db_connection.php'; // Adjust path if necessary
+            include 'db.connection/db_connection.php';
 
             $sql = "SELECT * FROM our_works WHERE media_type = 'Testimonials' ORDER BY id DESC";
             $result = $conn->query($sql);
@@ -243,35 +245,36 @@
                     $title = htmlspecialchars($row['title']);
                     $link = htmlspecialchars($row['media_link']);
                     $ext = strtolower(pathinfo($file, PATHINFO_EXTENSION));
-                    $path = "admin/public/uploads/staff/" . $file; // Adjust path if needed
+                    $path = "admin/public/uploads/staff/" . $file;
 
-                    echo "<div class='col-md-4 mb-4'>
-                    <div class='card'>
-                        <div class='card-body p-2'>";
+                    echo "<div class='col-12 col-md-4 mb-4'>
+                    <div class='card border-0 shadow-sm h-100'>
+                        <div class='card-body text-center'>";
 
                     if (!empty($link)) echo "<a href='$link' target='_blank'>";
 
+                    // ✅ Show original size (limit width 100%, no fixed height)
                     if (in_array($ext, ['jpg', 'jpeg', 'png', 'gif', 'webp', 'svg', 'bmp'])) {
-                        echo "<img src='$path' class='img-fluid' style='border-radius: 8px;'>";
+                        echo "<img src='$path' class='img-fluid' style='border-radius:8px; max-width:100%; height:auto;'>";
                     } elseif (in_array($ext, ['mp4', 'webm', 'mov', 'avi'])) {
-                        echo "<video controls class='img-fluid' style='border-radius: 8px;'>
-                        <source src='$path' type='video/$ext'>
-                    </video>";
+                        echo "<video controls class='w-100' style='border-radius:8px;'>
+                            <source src='$path' type='video/$ext'>
+                          </video>";
                     } elseif ($ext === 'pdf') {
-                        echo "<p class='text-center'><a href='$path' target='_blank' class='btn btn-outline-info btn-sm'>📄 View PDF</a></p>";
+                        echo "<p><a href='$path' target='_blank' class='btn btn-outline-info btn-sm'>📄 View PDF</a></p>";
                     } else {
-                        echo "<p class='text-muted text-center'>Unsupported file format</p>";
+                        echo "<p class='text-muted'>Unsupported file format</p>";
                     }
 
                     if (!empty($link)) echo "</a>";
 
-                    echo "<p class='mt-2 mb-0 text-center'><strong>$title</strong></p>
+                    echo "<p class='mt-2 mb-0'><strong>$title</strong></p>
                         </div>
                     </div>
                 </div>";
                 }
             } else {
-                echo "<div class='col-12'><p class='text-muted text-center'>No testimonials uploaded yet.</p></div>";
+                echo "<div class='col-12'><p class='text-muted text-center'>No Testimonials uploaded yet.</p></div>";
             }
 
             $conn->close();
@@ -280,10 +283,11 @@
     </div>
 
 
+
     <div id="pamphlets" class="media-tab-content">
         <div class="row">
             <?php
-            include 'db.connection/db_connection.php'; // Update path if needed
+            include 'db.connection/db_connection.php';
 
             $sql = "SELECT * FROM our_works WHERE media_type = 'Pamphlets' ORDER BY id DESC";
             $result = $conn->query($sql);
@@ -296,33 +300,33 @@
                     $ext = strtolower(pathinfo($file, PATHINFO_EXTENSION));
                     $path = "admin/public/uploads/staff/" . $file;
 
-                    echo "<div class='col-md-4 mb-4'>
-                    <div class='card'>
-                        <div class='card-body p-2'>";
+                    echo "<div class='col-md-4 col-12 mb-4'>
+                    <div class='card border-0 shadow-sm'>
+                        <div class='card-body text-center'>";
 
                     if (!empty($link)) echo "<a href='$link' target='_blank'>";
 
                     if (in_array($ext, ['jpg', 'jpeg', 'png', 'gif', 'webp', 'svg', 'bmp'])) {
-                        echo "<img src='$path' class='img-fluid' style='border-radius: 8px;'>";
+                        echo "<img src='$path' style='border-radius:8px; display:inline-block;'>";
                     } elseif (in_array($ext, ['mp4', 'webm', 'mov', 'avi'])) {
-                        echo "<video controls class='img-fluid' style='border-radius: 8px;'>
-                        <source src='$path' type='video/$ext'>
-                    </video>";
+                        echo "<video controls style='display:inline-block; border-radius:8px;'>
+                            <source src='$path' type='video/$ext'>
+                          </video>";
                     } elseif ($ext === 'pdf') {
-                        echo "<p class='text-center'><a href='$path' target='_blank' class='btn btn-outline-info btn-sm'>📄 View PDF</a></p>";
+                        echo "<p><a href='$path' target='_blank' class='btn btn-outline-info btn-sm'>📄 View PDF</a></p>";
                     } else {
-                        echo "<p class='text-muted text-center'>Unsupported file format</p>";
+                        echo "<p class='text-muted'>Unsupported file format</p>";
                     }
 
                     if (!empty($link)) echo "</a>";
 
-                    echo "<p class='mt-2 mb-0 text-center'><strong>$title</strong></p>
+                    echo "<p class='mt-2 mb-0'><strong>$title</strong></p>
                         </div>
                     </div>
                 </div>";
                 }
             } else {
-                echo "<div class='col-12'><p class='text-muted text-center'>No pamphlets uploaded yet.</p></div>";
+                echo "<div class='col-12'><p class='text-muted text-center'>No Pamphlets uploaded yet.</p></div>";
             }
 
             $conn->close();
@@ -397,6 +401,35 @@
     window.onhashchange = showTabFromHash;
 </script>
 
+
+
+<script>
+    function showMediaTab(event, tabId) {
+        // Hide all tabs
+        document.querySelectorAll('.media-tab-content').forEach(tab => {
+            tab.classList.remove('active');
+            tab.style.display = "none";
+        });
+
+        // Show clicked tab
+        const activeTab = document.getElementById(tabId);
+        if (activeTab) {
+            activeTab.classList.add('active');
+            activeTab.style.display = "block";
+        }
+
+        // Update button active class
+        document.querySelectorAll('.media-tab-btn').forEach(btn => btn.classList.remove('active'));
+        event.currentTarget.classList.add('active');
+    }
+
+    // Show "All" tab by default on page load
+    document.addEventListener("DOMContentLoaded", () => {
+        showMediaTab({
+            currentTarget: document.querySelector('.media-tab-btn.active')
+        }, 'all');
+    });
+</script>
 
 
 <?php include 'footer.php'; ?>

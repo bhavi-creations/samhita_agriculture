@@ -1,15 +1,17 @@
 <?php include 'header.php'; ?>
 <main>
     <!-- Page banner area start here -->
-    <section class="first_section_images">
+    <!-- <section class="first_section_images">
     <img src="assets/images/bottles/about_main_img.png" alt="" class="img-fluid">
-    <!-- <img src="assets/images/logo/about_main_images_11.png" alt="" class="img-fluid"> -->
-</section>
+   
+</section> -->
     <!-- Page banner area end here -->
 
     <!-- Contact form area start here -->
-    <section class="contact pt-130 pb-130">
+    <section class="contact pt-60 pb-60">
+    <h1 class="text-center">Contact us</h1>
         <div class="container">
+          
             <div class="row g-4">
                 <div class="col-lg-6 d-none d-md-block ">
                     <div class="content bg-image">

@@ -10,9 +10,9 @@
     </div>
 </section> -->
 
-<section class="first_section_images">
+<!-- <section class="first_section_images">
     <img src="assets/images/logo/for_agriculture.png" alt="" class="img-fluid">
-</section>
+</section> -->
 
 
 

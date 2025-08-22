@@ -359,6 +359,36 @@
     </div>
 
 
+    <section>
+        <div class="container">
+            <div class="row align-items-center"> <!-- align-items-center will vertically center -->
+                <div class="col-md-7 col-12">
+                    <img src="./assets/images/bottles/cm2.png" alt="" class="img-fluid highlight-img" data-bs-toggle="modal" data-bs-target="#imagePopup">
+                </div>
+                <div class="col-md-5 col-12 d-flex align-items-center"> <!-- Flex + center -->
+                    <p class="mb-0 mt-1">
+                        Our founder, Mrs. Balusu Parvathi Rajyam, met Hon’ble AP Chief Minister Shri N. Chandrababu Naidu Garu at the Tadepalli CM office to present Samhitha Soil Solutions’ eco-friendly bio-pesticides and bio-fertilizers, promoting sustainable agriculture for a greener future.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <div class="modal fade" id="imagePopup" tabindex="-1" aria-labelledby="imagePopupLabel" aria-hidden="true">
+
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content bg-transparent border-0">
+                <div class="modal-body p-0">
+                    <button type="button" class="btn-close btn-close-white position-absolute top-0 end-0 m-2" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <img src="./assets/images/bottles/cm2.png" alt="Dr. Anil Kumar Gupta Large" class="img-fluid rounded shadow-lg">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
 
 
 
@@ -366,7 +396,7 @@
         <div class="row align-items-center">
 
             <div class="col-md-5 text-center">
-                <img src="assets/images/bottles/anil_gupta.png" alt="Dr. Anil Kumar Gupta" class="highlight-img" data-bs-toggle="modal" data-bs-target="#imagePopup">
+                <img src="assets/images/bottles/anil_gupta.png" alt="Dr. Anil Kumar Gupta">
             </div>
 
             <div class="col-md-7 highlight-text py-5">
@@ -381,54 +411,43 @@
 
 
                 <p>
-                ✅  Founder,Honey Bee Network , SRISTI , GIAN & NIF.
+                    ✅ Founder,Honey Bee Network , SRISTI , GIAN & NIF.
                 </p>
                 <P>
-                ✅  Visiting Faculty , IIMA & IITB , Academy Professor AcSIR.
+                    ✅ Visiting Faculty , IIMA & IITB , Academy Professor AcSIR.
                 </P>
                 <p>
-                ✅  CSIR Bhatnagar Fellow 2018-21.
+                    ✅ CSIR Bhatnagar Fellow 2018-21.
                 </p>
 
-                <p>✅Developer of the <strong>'Shodh Yatra' </strong>  course.</p>
+                <p>✅Developer of the <strong>'Shodh Yatra' </strong> course.</p>
                 <p>✅Board Member of <strong>National Innovation Foundation </strong> .</p>
                 <p> ✅Fellow of the <strong> World Academy of Art and Science </strong>. </p>
 
                 <p>
 
-                ✅ <strong> GIAN (Grassroots Innovation Augmentation Network): </strong>
-                    Helps scale up grassroots innovations  <br>
-                    &nbsp; &nbsp; &nbsp;   through product development, intellectual property protection, and entrepreneurship support.
+                    ✅ <strong> GIAN (Grassroots Innovation Augmentation Network): </strong>
+                    Helps scale up grassroots innovations <br>
+                    &nbsp; &nbsp; &nbsp; through product development, intellectual property protection, and entrepreneurship support.
 
                 </p>
                 <p>
                     ✅ <strong>Books by the Scholar</strong>
                     <br>
 
-                 
-                   
-                     
-                     
+
+
+
+
                 </p>
-                <p>  &nbsp; &nbsp; &nbsp;   1.Grassroots Innovation. </p>
-                <p> &nbsp; &nbsp; &nbsp;  2. The Honey Bee Network. </p>
+                <p> &nbsp; &nbsp; &nbsp; 1.Grassroots Innovation. </p>
+                <p> &nbsp; &nbsp; &nbsp; 2. The Honey Bee Network. </p>
                 <p> &nbsp; &nbsp; &nbsp; 3. Inclusive Innovation. </p>
                 <p> &nbsp; &nbsp; &nbsp; 4. Sustainability Through Innovation.</p>
             </div>
         </div>
     </div>
 
-    <div class="modal fade" id="imagePopup" tabindex="-1" aria-labelledby="imagePopupLabel" aria-hidden="true">
-
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content bg-transparent border-0">
-                <div class="modal-body p-0">
-                    <button type="button" class="btn-close btn-close-white position-absolute top-0 end-0 m-2" data-bs-dismiss="modal" aria-label="Close"></button>
-                    <img src="assets/images/bottles/anil_gupta.png" alt="Dr. Anil Kumar Gupta Large" class="img-fluid rounded shadow-lg">
-                </div>
-            </div>
-        </div>
-    </div>
 
 
     <!-- <section>
